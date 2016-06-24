@@ -13,6 +13,7 @@ h1.tagline {
   font-weight: 700;
   font-size: 90px;
   line-height: 1;
+  margin-bottom: 40px;
 }
 
 .site-title {
@@ -190,17 +191,44 @@ h1.tagline {
     }
 }
 
+.work-item {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    &.img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+}
+
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
 }
 
-.post-link {
-    display: block;
-    font-size: 24px;
+.title-overlay {
+    opacity: 0;
+    &:hover {
+      opacity: 1;
+    }
 }
 
-
+.portfolio-title {
+    display: block;
+    font-size: 24px;
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    color: $grey-color;
+    color: white;
+    cursor: pointer;
+    height: 150px;
+}
 
 /**
  * Posts
