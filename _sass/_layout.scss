@@ -176,6 +176,33 @@ h1.tagline {
     }
 }
 
+//Page Navigation
+.PageNavigation {
+    font-size: 18px;
+    display: block;
+    width: auto;
+    overflow: hidden;
+}
+
+.PageNavigation a {
+    display: block;
+    float: left;
+    margin: 1em 0;
+    border: 2px solid $grey-color-light;
+    border-radius: 5px;
+    padding: 10px 14px;
+    font-weight: bold;
+    color: $grey-color-dark;
+    text-decoration: none;
+    &:hover {
+      background: $grey-color-light;
+    }
+}
+
+.PageNavigation .next {
+    text-align: right;
+    float: right;
+}
 
 
 /**
