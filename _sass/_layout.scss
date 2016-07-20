@@ -97,7 +97,8 @@ h1.tagline {
 
         .page-link {
             display: block;
-            padding: 5px 10px;
+            font-weight: 700;
+            padding: 12px 20px;
 
             &:not(:last-child) {
                 margin-right: 0;
@@ -241,6 +242,14 @@ h1.tagline {
     opacity: 1;
     transition: .2s ease-out;
   }
+  @include media-query($on-palm) {
+      font-size: 36px;
+      opacity: 1;
+      background: none;
+      position: relative;
+      bottom: 4px;
+      padding: 20px 0 0 0;
+  }
 }
 
 .work-thumbnail {
@@ -256,6 +265,9 @@ h1.tagline {
       width: 100%;
       height: auto;
     }
+    @include media-query($on-palm) {
+      margin-bottom: 10px;
+    }
 }
 
 .post-meta {
@@ -270,7 +282,6 @@ h1.tagline {
     font-size: 24px;
     color: $grey-color-dark;
     cursor: pointer;
-    height: 150px;
 }
 
 /**
