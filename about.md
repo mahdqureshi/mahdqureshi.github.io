@@ -6,4 +6,4 @@ permalink: /about/
 
 ![Image of ME](/img/profile.jpg)
 
-I'm Mahad. I like to design things.
+I'm a Web & Design Specialist focused on creating customer-focused, delightful experiences.

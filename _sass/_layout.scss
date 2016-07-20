@@ -10,7 +10,8 @@
     // Positioning context for the mobile navigation icon
     position: relative;
 }
-
+a,
+a:visited,
 a:hover,
 a:focus {
   color: inherit;
@@ -141,19 +142,26 @@ h1.tagline {
     padding-left: $spacing-unit / 2;
 }
 
+.footer-col li {
+    display: inline;
+    padding: 0 6px;
+}
+
 .footer-col-1 {
     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
     width:         calc(35% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
+    float: right;
+    text-align: right;
 }
 
 @include media-query($on-laptop) {
