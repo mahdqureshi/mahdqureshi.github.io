@@ -4,7 +4,9 @@
 .site-header {
     padding: 58px 0 10px 0;
     min-height: 56px;
-
+    @include media-query($on-palm) {
+      padding: 0;
+    }
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -68,7 +70,7 @@ h1.tagline {
             display: block;
             float: right;
             width: 36px;
-            height: 26px;
+            height: 36px;
             line-height: 0;
             padding-top: 10px;
             text-align: center;
@@ -207,9 +209,10 @@ h1.tagline {
   bottom: 0;
   width: 100%;
   opacity: 0;
-  padding: 12px 20px;
+  padding: 22px 20px;
   &:hover {
     opacity: 1;
+    transition: .2s ease-out;
   }
 }
 
@@ -230,7 +233,9 @@ h1.tagline {
 
 .post-meta {
     font-size: $small-font-size;
-    color: $grey-color;
+    color: $medium-gray;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 .project-title {
@@ -246,12 +251,14 @@ h1.tagline {
  */
 .post-header {
     margin-bottom: $spacing-unit;
+    text-align: center;
 }
 
 .post-title {
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
+    font-weight: 300;
 
     @include media-query($on-laptop) {
         font-size: 36px;
