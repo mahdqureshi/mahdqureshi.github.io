@@ -21,6 +21,9 @@ h1.tagline {
   font-size: 60px;
   line-height: 1;
   margin-bottom: 60px;
+  @include media-query($on-palm) {
+    font-size: 38px;
+  }
 }
 
 .site-title {
