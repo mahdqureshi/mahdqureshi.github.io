@@ -20,7 +20,7 @@ h1.tagline {
   font-weight: 700;
   font-size: 60px;
   line-height: 1;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
 }
 
 .site-title {
@@ -267,6 +267,7 @@ h1.tagline {
 
 .post-content {
     margin-bottom: $spacing-unit;
+    text-align: center;
 
     h2 {
         font-size: 32px;
