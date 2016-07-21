@@ -170,11 +170,6 @@ h1.tagline {
         width: -webkit-calc(50% - (#{$spacing-unit} / 2));
         width:         calc(50% - (#{$spacing-unit} / 2));
     }
-
-    .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
 }
 
 @include media-query($on-palm) {
@@ -183,6 +178,30 @@ h1.tagline {
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
+}
+
+//About Page
+.about-content {
+  height: 500px;
+}
+
+h1.about {
+  line-height: 1.5;
+  color: $grey-color;
+}
+
+.about-email {
+  border-bottom: 3px solid #3F80FF;
+  color: $grey-color-dark;
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.profile {
+  float: right;
+  height: 400px;
+  margin-left: 70px;
 }
 
 //Page Navigation
@@ -196,6 +215,8 @@ h1.tagline {
 .PageNavigation a {
     display: block;
     float: left;
+    width: 130px;
+    text-align: center;
     margin: 1em 0;
     border: 2px solid $grey-color-light;
     border-radius: 5px;
@@ -209,7 +230,6 @@ h1.tagline {
 }
 
 .PageNavigation .next {
-    text-align: right;
     float: right;
 }
 
