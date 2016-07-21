@@ -219,17 +219,17 @@ h1.about {
 .PageNavigation a {
     display: block;
     float: left;
-    width: 130px;
+    width: 140px;
     text-align: center;
     margin: 1em 0;
-    border: 2px solid $grey-color-light;
+    border: 2px solid $grey-color-ultralight;
     border-radius: 5px;
     padding: 10px 14px;
     font-weight: bold;
     color: $grey-color-dark;
     text-decoration: none;
     &:hover {
-      background: $grey-color-light;
+      background: $grey-color-ultralight;
     }
 }
 
@@ -245,7 +245,7 @@ h1.about {
     right: 8px;
     top: -1px;
     position: relative;
-    color: $grey-color;
+    color: $grey-color-light;
 }
 
 .next:after {
@@ -255,7 +255,7 @@ h1.about {
     left: 8px;
     top: -1px;
     position: relative;
-    color: $grey-color;
+    color: $grey-color-light;
 }
 
 /**
@@ -324,7 +324,7 @@ h1.about {
 
 .post-meta {
     font-size: $small-font-size;
-    color: $grey-color;
+    color: $grey-color-light;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
@@ -349,6 +349,7 @@ h1.about {
     letter-spacing: -1px;
     line-height: 1;
     font-weight: 300;
+    color: $grey-color-dark;
 
     @include media-query($on-laptop) {
         font-size: 36px;
