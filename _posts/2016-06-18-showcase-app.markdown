@@ -6,6 +6,8 @@ categories: jekyll update
 img: dribbble.png
 ---
 
+![index page](/img/showcase-hand.png)
+
 ![index page](/img/shows.png)
 
 ![index page](/img/showcase-grid.png)
