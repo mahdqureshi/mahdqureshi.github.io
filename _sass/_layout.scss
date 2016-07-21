@@ -184,6 +184,9 @@ h1.tagline {
 h1.about {
   line-height: 1.5;
   color: $grey-color;
+  @include media-query($on-laptop) {
+    font-size: 24px;
+  }
 }
 
 .about-email {
