@@ -238,6 +238,26 @@ h1.about {
 }
 
 
+.prev:before {
+    font-family: FontAwesome;
+    content: "\f053";
+    font-size: 12px;
+    right: 8px;
+    top: -1px;
+    position: relative;
+    color: $grey-color;
+}
+
+.next:after {
+    font-family: FontAwesome;
+    content: "\f054";
+    font-size: 12px;
+    left: 8px;
+    top: -1px;
+    position: relative;
+    color: $grey-color;
+}
+
 /**
  * Page content
  */
@@ -304,7 +324,7 @@ h1.about {
 
 .post-meta {
     font-size: $small-font-size;
-    color: $medium-gray;
+    color: $grey-color-light;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
