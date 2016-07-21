@@ -181,10 +181,6 @@ h1.tagline {
 }
 
 //About Page
-.about-content {
-  height: 500px;
-}
-
 h1.about {
   line-height: 1.5;
   color: $grey-color;
@@ -202,6 +198,10 @@ h1.about {
   float: right;
   height: 400px;
   margin-left: 70px;
+  @include media-query($on-palm) {
+      width: 100%;
+      height: auto;
+  }
 }
 
 //Page Navigation
