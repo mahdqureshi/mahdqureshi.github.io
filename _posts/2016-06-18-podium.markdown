@@ -11,7 +11,7 @@ img: podium.png
 
 <div class="caption">Homepage</div>
 
-![podium sketch](/img/podium-sketch1.png)
+![podium sketch](/img/podium-Sketch1.png)
 
 <div class="caption">Some rough sketches</div>
 
