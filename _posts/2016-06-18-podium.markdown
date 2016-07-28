@@ -19,8 +19,6 @@ img: podium.png
 
 <div class="caption">Logo outline</div>
 
-![podium mark](/img/podium-mark.png)
-
 ![podium wordmark](/img/podium-wordmark.png)
 
 <div class="caption">Final symbol & wordmark</div>
