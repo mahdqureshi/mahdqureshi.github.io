@@ -5,10 +5,22 @@ date:   2016-06-18 18:32:32 -0400
 categories: jekyll update
 img: podium.png
 ---
+## Podium is your mission control for conferencing. Create meetings and collaborate with colleagues and clients, all in one place.
+
 ![podium landing](/img/podium-landing.png)
 
+<div class="caption">Homepage</div>
+
+![podium sketch](/img/podium-sketch1.png)
+
+<div class="caption">Some rough sketches</div>
+
 ![podium wirefram](/img/podium-wireframe.png)
+
+<div class="caption">Logo outline</div>
 
 ![podium mark](/img/podium-mark.png)
 
 ![podium wordmark](/img/podium-wordmark.png)
+
+<div class="caption">Final symbol & wordmark</div>
