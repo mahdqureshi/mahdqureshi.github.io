@@ -12,6 +12,12 @@ text-color: "#111"
 
 ![index page](/img/shows.png)
 
+<div class="caption">Homepage</div>
+
 ![index page](/img/showcase-grid.png)
 
+<div class="caption">The icon grid</div>
+
 ![index page](/img/showcase-icon.png)
+
+<div class="caption">Final app icon</div>
