@@ -327,9 +327,9 @@ h1.about {
     margin-bottom: 30px;
     overflow: hidden;
     &:hover img {
-      -moz-transform: scale(1.05);
-      -webkit-transform: scale(1.05);
-      transform: scale(1.05);
+      -moz-transform: scale(1.03);
+      -webkit-transform: scale(1.03);
+      transform: scale(1.03);
     }
     & img {
       -moz-transition: all 0.3s;
@@ -376,7 +376,7 @@ h1.about {
 .post-title {
     font-size: 62px;
     line-height: 1;
-    font-weight: 300;
+    font-weight: 700;
     color: $grey-color-dark;
 
     @include media-query($on-laptop) {
