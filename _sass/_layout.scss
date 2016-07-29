@@ -286,7 +286,6 @@ h1.about {
 }
 
 .work-info {
-  background: linear-gradient(rgba(255, 255, 255, 0.9) 35%, rgba(255, 255, 255, 0.4) 100%);
   display: block;
   height: 100%;
   position: absolute;
@@ -298,7 +297,7 @@ h1.about {
   opacity: 0;
   padding: 34px;
   &:hover {
-    opacity: 1;
+    opacity: .85;
     transition: .2s ease-out;
   }
   @include media-query($on-palm) {
@@ -346,7 +345,6 @@ h1.about {
     display: block;
     font-size: 24px;
     font-weight: 700;
-    color: $grey-color-dark;
     cursor: pointer;
 }
 
