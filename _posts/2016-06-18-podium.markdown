@@ -4,7 +4,7 @@ title:  "Podium"
 date:   2016-06-18 18:32:32 -0400
 categories: jekyll update
 img: podium.png
-color: "#131720"
+color: "#1B2336"
 text-color: "white"
 ---
 ## Podium is your mission control for conferencing. Create meetings and collaborate with colleagues and clients, all in one place.
