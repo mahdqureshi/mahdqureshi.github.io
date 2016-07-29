@@ -10,6 +10,10 @@ role: Co-Founder
 ---
 ## Podium is your mission control for conferencing. Create meetings and collaborate with colleagues and clients, all in one place.
 
+#### **[podium.video](http://podium.video)**
+
+<br/>
+
 ![podium landing](/img/podium-landing.png)
 
 <div class="caption">Homepage</div>
@@ -21,3 +25,4 @@ role: Co-Founder
 ![podium wordmark](/img/podium-wordmark.png)
 
 <div class="caption">Final glyph & wordmark</div>
+-

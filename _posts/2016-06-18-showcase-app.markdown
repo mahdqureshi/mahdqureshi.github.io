@@ -10,6 +10,10 @@ role: Co-Founder & Chief Product Officer
 ---
 ## Exchange your entire portfolio just by touching phones with Showcase.
 
+#### **[tryshowcase.com](http://tryshowcase.com)**
+
+<br/>
+
 ![index page](/img/showcase-hand.png)
 
 ![index page](/img/shows.png)
@@ -18,7 +22,7 @@ role: Co-Founder & Chief Product Officer
 
 ![index page](/img/showcase-grid.png)
 
-<div class="caption">The icon grid</div>
+<div class="caption">Icon grid</div>
 
 ![index page](/img/showcase-icon.png)
 
