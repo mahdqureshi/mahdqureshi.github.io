@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Unified Design Portal"
+title:  "Unified Designer App"
 date:   2016-06-17 18:32:32 -0400
 categories: jekyll update
 img: unified-design.png
 ---
-## An early iteration of the Showcase App involved creating a portal in which designers could create and sell business card designs.
+## An early iteration of the Showcase App involved a portal in which designers could create and sell business card designs.
 
 ![portal 1](/img/portal1.png)
+
+![portal 1](/img/portal2.png)

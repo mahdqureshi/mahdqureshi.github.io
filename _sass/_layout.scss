@@ -20,7 +20,6 @@ a:focus {
 h1.tagline {
   font-weight: 700;
   font-size: 60px;
-  font-family: 'lora', serif;
   line-height: 1.2;
   margin-bottom: 60px;
   @include media-query($on-palm) {
@@ -226,6 +225,9 @@ h1.about {
     float: left;
     width: 140px;
     text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
     margin: 1em 0;
     border: 2px solid $grey-color-ultralight;
     border-radius: 5px;
