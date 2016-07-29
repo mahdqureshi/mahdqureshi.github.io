@@ -6,6 +6,7 @@ categories: jekyll update
 img: podium.png
 color: "#1B2336"
 text-color: "white"
+role: Co-Founder
 ---
 ## Podium is your mission control for conferencing. Create meetings and collaborate with colleagues and clients, all in one place.
 

@@ -6,7 +6,9 @@ categories: jekyll update
 img: dribbble.png
 color: "white"
 text-color: "#111"
+role: Co-Founder & Chief Product Officer
 ---
+## Exchange your entire portfolio just by touching phones with Showcase.
 
 ![index page](/img/showcase-hand.png)
 

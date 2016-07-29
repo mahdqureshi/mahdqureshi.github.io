@@ -6,6 +6,7 @@ categories: jekyll update
 img: unified-design.png
 color: "#FFEBEA"
 text-color: "#111"
+role: Co-Founder & Chief Product Officer
 ---
 ## An early iteration of the Showcase App involved a portal in which designers could create and sell card designs.
 
