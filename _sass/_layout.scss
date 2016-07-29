@@ -20,7 +20,8 @@ a:focus {
 h1.tagline {
   font-weight: 700;
   font-size: 60px;
-  line-height: 1;
+  font-family: 'lora', serif;
+  line-height: 1.2;
   margin-bottom: 60px;
   @include media-query($on-palm) {
     font-size: 38px;

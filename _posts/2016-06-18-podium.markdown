@@ -17,8 +17,8 @@ img: podium.png
 
 ![podium wirefram](/img/podium-wireframe.png)
 
-<div class="caption">Logo outline</div>
+<div class="caption">Glyph whitespace</div>
 
 ![podium wordmark](/img/podium-wordmark.png)
 
-<div class="caption">Final symbol & wordmark</div>
+<div class="caption">Final glyph & wordmark</div>
