@@ -8,7 +8,7 @@ color: "#FFEBEA"
 text-color: "#111"
 role: Co-Founder & Chief Product Officer
 ---
-## An early iteration of the **[Showcase App](http://mahadqureshi.com/showcase-app)** involved a web app in which designers could create and sell card designs.
+## An early iteration of the **[Showcase App](/showcase-app)** involved a web app in which designers could create and sell card designs.
 
 ![portal 1](/img/portal1.png)
 

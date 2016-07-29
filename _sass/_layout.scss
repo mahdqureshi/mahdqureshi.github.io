@@ -14,7 +14,7 @@ a,
 a:visited,
 a:hover,
 a:focus {
-  color: inherit;
+  color: #528CFA;
 }
 
 h1.tagline {
@@ -116,6 +116,10 @@ h1.tagline {
  */
 .site-footer {
     padding: $spacing-unit 0;
+}
+
+.site-footer a {
+  color: $grey-color-light;
 }
 
 .footer-heading {
@@ -261,6 +265,7 @@ h1.about {
     font-size: 12px;
     left: 8px;
     top: -1px;
+    display: inline-block;
     position: relative;
     color: $grey-color-light;
 }
@@ -367,8 +372,7 @@ h1.about {
 }
 
 .post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
+    font-size: 52px;
     line-height: 1;
     font-weight: 300;
     color: $grey-color-dark;

@@ -25,4 +25,3 @@ role: Co-Founder
 ![podium wordmark](/img/podium-wordmark.png)
 
 <div class="caption">Final glyph & wordmark</div>
--
