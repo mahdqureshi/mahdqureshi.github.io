@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unified Designer App"
+title:  "Unified App"
 date:   2016-06-17 18:32:32 -0400
 categories: jekyll update
 img: unified-design.png
