@@ -196,7 +196,7 @@ h1.tagline {
 //About Page
 h1.about {
   line-height: 1.5;
-  color: $grey-color;
+  color: $grey-color-dark;
   @include media-query($on-laptop) {
     font-size: 24px;
   }
