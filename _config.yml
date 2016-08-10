@@ -1,8 +1,7 @@
 # Site settings
 title: Mahad Qureshi | Product Designer
 email: hello@mahadqureshi.com
-description: > # this means to ignore newlines until "baseurl:"
-  I'm Mahad. I'm a designer in DC.
+description: Mahad is a Web & Design Specialist. He is focused on shaping solutions that bridge products and consumers together through visual design, user research, and product strategy.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: mahdqureshi
