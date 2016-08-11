@@ -210,14 +210,14 @@ h1.about {
 h3.about-text {
   line-height: 1.7;
   margin: 40px 0 80px 0;
+  color: $grey-color;
 }
 
 .about-email {
   border-bottom: 3px solid #3F80FF;
-  color: $grey-color-dark;
   &:hover {
     text-decoration: none;
-    color: #3F80FF;
+    opacity: .5;
   }
 }
 
