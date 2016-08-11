@@ -20,6 +20,23 @@ role: Co-Founder & Chief Product Officer
 
 <div class="caption">Homepage</div>
 
+<br/>
+
+<div class="row">
+  <div class="col-sm-4">
+    <img src="/img/showcase-p1.png" alt="">
+  </div>
+  <div class="col-sm-4">
+    <img src="/img/showcase-p2.png" alt="">
+  </div>
+  <div class="col-sm-4">
+    <img src="/img/showcase-p3.png" alt="">
+  </div>
+</div>
+
+<br/>
+<br/>
+
 ![index page](/img/showcase-grid.png)
 
 <div class="caption">Icon grid</div>
