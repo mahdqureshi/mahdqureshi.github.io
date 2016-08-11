@@ -199,8 +199,8 @@ h1.tagline {
 
 //About Page
 h1.about {
-  line-height: 1.5;
   color: $grey-color-dark;
+  margin-top: 40px;
   @include media-query($on-laptop) {
     font-size: 24px;
   }
@@ -208,6 +208,11 @@ h1.about {
     display: inline-block;
     padding-top: 20px;
   }
+}
+
+h4.about-text {
+  line-height: 1.6;
+  margin-top: 40px;
 }
 
 .about-email {
@@ -220,13 +225,9 @@ h1.about {
 }
 
 .profile {
-  float: right;
-  height: 500px;
-  margin-left: 70px;
-  @include media-query($on-palm) {
-      width: 100%;
-      height: auto;
-  }
+  width: 100%;
+  height: auto;
+  margin-top: 20px;
 }
 
 //Page Navigation
