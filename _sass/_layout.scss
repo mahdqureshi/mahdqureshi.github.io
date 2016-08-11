@@ -201,17 +201,14 @@ h1.tagline {
 h1.about {
   color: $grey-color-dark;
   margin-top: 40px;
-  @include media-query($on-laptop) {
-    font-size: 24px;
-  }
   @include media-query($on-palm) {
     display: inline-block;
     padding-top: 20px;
   }
 }
 
-h4.about-text {
-  line-height: 1.6;
+h3.about-text {
+  line-height: 1.7;
   margin-top: 40px;
 }
 
