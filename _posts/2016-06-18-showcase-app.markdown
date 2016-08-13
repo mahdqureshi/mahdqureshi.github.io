@@ -6,7 +6,7 @@ categories: jekyll update
 img: dribbble.png
 color: "white"
 text-color: "#111"
-role: Co-Founder & Chief Product Officer
+role: Head of Design
 ---
 ## Exchange your entire portfolio just by touching phones with Showcase.
 
