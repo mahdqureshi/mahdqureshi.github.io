@@ -14,9 +14,9 @@ role: Head of Design
 
 <br/>
 
-![index page](/img/showcase-hand.png)
+![hand](/img/showcase-hand.png)
 
-![index page](/img/shows.png)
+![landing page](/img/shows.png)
 
 <div class="caption">Homepage</div>
 
@@ -37,10 +37,10 @@ role: Head of Design
 <br/>
 <br/>
 
-![index page](/img/showcase-grid.png)
+![icon grid](/img/showcase-grid.png)
 
 <div class="caption">Icon grid</div>
 
-![index page](/img/showcase-icon.png)
+![final icon](/img/showcase-icon.png)
 
 <div class="caption">Final app icon</div>
