@@ -14,7 +14,13 @@ role: Co-Founder & Chief Product Officer
 
 ![portal mac](/img/portal-macfront.png)
 
+<br/>
+
+<hr>
+
 ![portal 1](/img/portal1.png)
+
+<div class="caption">The design screen in which the designer could add custom text and background styles.</div>
 
 ![portal 1](/img/portal2.png)
 

@@ -16,10 +16,17 @@ role: Head of Design
 
 ![hand](/img/showcase-hand.png)
 
+<hr>
+
+## Landing page
+
 ![landing page](/img/shows.png)
 
 <div class="caption">Homepage</div>
 
+<hr>
+
+## App screens
 <br/>
 
 <div class="row">
@@ -36,6 +43,10 @@ role: Head of Design
 
 <br/>
 <br/>
+
+<hr>
+
+## Icon
 
 ![icon grid](/img/showcase-grid.png)
 
