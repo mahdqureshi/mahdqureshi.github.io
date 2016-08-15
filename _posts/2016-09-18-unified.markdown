@@ -32,12 +32,14 @@ role: Co-Founder & Chief Product Officer
 
 ![portal 1](/img/designStore1.png)
 
-<div class="caption">Early flow for the design product page.</div>
+<div class="caption">Early flow for the product page.</div>
 
 ![portal 1](/img/designStore2.png)
 
 <div class="caption">Early flow for customizing a card design.</div>
 
-## After many iterations of the custom design store, it became clear that the designs were not reflective enough of the persons company. They also required a lot of work from the user in order to customize them. I decided to move towards a simpler, brand oriented approach **[brand oriented approach.](/showcase-app)**
+<hr>
+
+## After many iterations of the custom design store, it became clear that the designs were not reflective enough of the persons company. They also required a lot of work from the user in order to customize them. I decided to move towards a simpler, **[brand oriented approach.](/showcase-app)**
 
 <br/>
