@@ -3,12 +3,12 @@ layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
+  <header class="post-header slide fadeInBottom">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta">{{ page.role }} {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   </header>
 
-  <div class="post-content" itemprop="articleBody">
+  <div class="post-content slide fadeInBottom delayed" itemprop="articleBody">
     {{ content }}
   </div>
 
