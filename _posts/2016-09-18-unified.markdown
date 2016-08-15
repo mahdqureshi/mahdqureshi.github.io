@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Unified App"
-date:   2016-06-17 18:32:32 -0400
+date:   2016-06-18 18:32:32 -0400
 categories: jekyll update
 img: unified-design.png
 color: "#FFEBEA"
@@ -25,3 +25,19 @@ role: Co-Founder & Chief Product Officer
 ![portal 1](/img/portal2.png)
 
 <div class="caption">The designer can view their sales and earnings.</div>
+
+<hr>
+
+## Once the designer put their design for sale, users on the mobile app could purchase the design and customize it with their information.
+
+![portal 1](/img/designStore1.png)
+
+<div class="caption">Early flow for the design product page.</div>
+
+![portal 1](/img/designStore2.png)
+
+<div class="caption">Early flow for customizing a card design.</div>
+
+## After many iterations of the custom design store, it became clear that the designs were not reflective enough of the persons company. They also required a lot of work from the user in order to customize them. I decided to move towards a simpler, brand oriented approach **[brand oriented approach.](/showcase-app)**
+
+<br/>

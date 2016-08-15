@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Showcase"
-date:   2016-06-18 18:32:32 -0400
+date:   2016-06-19 18:32:32 -0400
 categories: jekyll update
 img: dribbble.png
 color: "white"
@@ -15,14 +15,6 @@ role: Head of Design
 <br/>
 
 ![hand](/img/showcase-hand.png)
-
-<hr>
-
-## Landing page
-
-![landing page](/img/shows.png)
-
-<div class="caption">Homepage</div>
 
 <hr>
 
@@ -46,7 +38,15 @@ role: Head of Design
 
 <hr>
 
-## Icon
+## Landing page
+
+![landing page](/img/shows.png)
+
+<div class="caption">Users can sign up for early access to the beta</div>
+
+<hr>
+
+## App icon
 
 ![icon grid](/img/showcase-grid.png)
 
