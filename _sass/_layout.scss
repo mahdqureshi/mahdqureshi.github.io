@@ -129,8 +129,8 @@ h1.tagline {
    -webkit-animation-fill-mode: both;
    animation-fill-mode: both;
    &.delayed {
-     -webkit-animation-delay: .2s; /* Chrome, Safari, Opera */
-     animation-delay: .2s;
+     -webkit-animation-delay: .1s; /* Chrome, Safari, Opera */
+     animation-delay: .1s;
    }
 }
 
