@@ -238,6 +238,10 @@ h1.tagline {
     }
 }
 
+.social-link:hover {
+  text-decoration: none;
+}
+
 //About Page
 h1.about {
   color: $grey-color-dark;
