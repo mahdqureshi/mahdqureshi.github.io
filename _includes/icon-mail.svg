@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="15px" height="12px" viewBox="0 0 15 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g  fill="#BFBFBF">
-            <g id="Layer_1">
-                <g id="Icon_19_">
-                    <path d="M13.5713839,0 L1.42861607,0 C0.642823661,0 0,0.654477273 0,1.45455682 L0,10.5454432 C0,11.3455227 0.642823661,12 1.42861607,12 L13.5713839,12 C14.3571763,12 15,11.3455227 15,10.5454432 L15,1.45455682 C15,0.654477273 14.3571763,0 13.5713839,0 L13.5713839,0 Z M13.3928571,3.09092045 L7.5,7.09090909 L1.60714286,3.09092045 L1.60714286,1.63636364 L7.5,5.63635227 L13.3928571,1.63636364 L13.3928571,3.09092045 L13.3928571,3.09092045 Z"></path>
+<svg width="18px" height="14px" viewBox="0 0 18 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-145.000000, -124.000000)" fill="#13161F">
+            <g id="icon-mail" transform="translate(145.000000, 124.000000)">
+                <g id="Group">
+                    <g id="Layer_1">
+                        <g>
+                            <g id="Icon_19_">
+                                <path d="M16.2856607,0 L1.71433928,0 C0.771388393,0 0,0.763556819 0,1.69698296 L0,12.3030171 C0,13.2364432 0.771388393,14 1.71433928,14 L16.2856607,14 C17.2286116,14 18,13.2364432 18,12.3030171 L18,1.69698296 C18,0.763556819 17.2286116,0 16.2856607,0 L16.2856607,0 L16.2856607,0 Z M16.0714285,3.60607386 L9,8.27272727 L1.92857143,3.60607386 L1.92857143,1.90909091 L9,6.57574432 L16.0714285,1.90909091 L16.0714285,3.60607386 L16.0714285,3.60607386 L16.0714285,3.60607386 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
         </g>

@@ -631,12 +631,11 @@ pre {
 
     > svg {
         display: inline-block;
-        width: 16px;
-        height: 16px;
+        width: 18px;
+        height: 18px;
         vertical-align: middle;
-
-        path {
-            fill: $grey-color-light;
+        &:hover {
+          opacity: .6;
         }
     }
 }

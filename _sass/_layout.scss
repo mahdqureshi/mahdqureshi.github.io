@@ -235,6 +235,7 @@ h1.tagline {
         float: none;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
+        text-align: center;
     }
 }
 
@@ -374,7 +375,7 @@ h3.about-text {
       background: none !important;
       position: relative;
       bottom: 4px;
-      padding: 20px 0 0 0;
+      padding: 10px 0 0 0;
   }
 }
 
