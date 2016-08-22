@@ -488,6 +488,9 @@ h3.about-text {
       border-radius: 5px;
       background-color: $brand-color;
       color: white;
+      &:hover {
+        opacity: .9;
+      }
     }
 }
 
