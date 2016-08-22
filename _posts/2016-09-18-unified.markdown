@@ -36,6 +36,6 @@ role: Head of Design
 
 <hr>
 
-## After many iterations of the custom design store, it became clear that the designs were not reflective enough of the persons company. They also required a lot of work from the user in order to customize them. I decided to move towards a simpler, **[brand oriented approach.](/showcase-app)**
+After many iterations of the custom design store, it became clear that the designs were not reflective enough of the persons company. They also required a lot of work from the user in order to customize them. I decided to move towards a simpler, [brand oriented approach.](/showcase-app)
 
 <br/>
