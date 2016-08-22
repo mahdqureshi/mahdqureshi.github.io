@@ -10,7 +10,7 @@ role: Head of Design
 ---
 ## Exchange your entire portfolio just by touching phones with Showcase.
 
-#### **[tryshowcase.com](http://tryshowcase.com)**
+#### [Visit site](http://tryshowcase.com)
 
 <br/>
 
