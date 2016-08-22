@@ -46,12 +46,12 @@ role: Head of Design
 
 <hr>
 
-## App icon
+## Icon
 
 ![icon grid](/img/showcase-grid.png)
 
-<div class="caption">Icon grid</div>
+<div class="caption">A glyph of a work lamp is inspired by glass showcases in which objects are displayed in their best light. The idea that you are sharing your best work in the app.</div>
 
 ![final icon](/img/showcase-icon.png)
 
-<div class="caption">Final app icon</div>
+<div class="caption">The final app icon</div>
