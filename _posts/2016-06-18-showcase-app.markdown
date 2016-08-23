@@ -8,7 +8,7 @@ color: "white"
 text-color: "#111"
 role: Head of Design
 ---
-## Exchange your entire portfolio just by touching phones with Showcase. Stay connected with the people you meet. As Head of Design, I led the design process for all products across mobile, web, and marketing platforms.
+## Exchange your entire portfolio just by touching phones and stay connected with the people you meet with Showcase. Stay connected with the people you meet. As Head of Design, I led the design process for all products across mobile, web, and marketing platforms.
 
 <a class="btn" href="http://tryshowcase.com">Visit site</a>
 
