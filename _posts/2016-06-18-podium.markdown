@@ -8,21 +8,35 @@ color: "#1B2336"
 text-color: "white"
 role: Co-Founder & Chief Product Officer
 ---
-## Podium is your mission control for conferencing. Create meetings and collaborate with colleagues and clients, all in one place.
+## Podium lets your team accomplish tasks during meetings on the apps you already use. As Chief Product Officer, I had end-to-end responsibility for all product design efforts.
 
 <a class="btn" href="http://podium.video">Visit site</a>
 
 <br/>
 
+## Application
+
+![meeting](/img/podium-meeting.png)
+
+<div class="caption">The meeting page where everyone can collaborate together on an app.</div>
+
+![apps](/img/podium-apps.png)
+
+<div class="caption">The team can install the apps that they use frequently.</div>
+
+<hr>
+
+## Landing page
+
 ![podium landing](/img/podium-landing.png)
 
-<div class="caption">Homepage</div>
+<div class="caption">Landing page where users can sign up for early access.</div>
 
 <hr>
 
 ## Branding
 
-![podium wirefram](/img/podium-wireframe.png)
+![podium wireframe](/img/podium-wireframe.png)
 
 <div class="caption">Glyph whitespace</div>
 

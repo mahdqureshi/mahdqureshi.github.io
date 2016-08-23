@@ -8,7 +8,7 @@ color: "#FFEBEA"
 text-color: "#111"
 role: Head of Design
 ---
-## An early iteration of the **[Showcase App](/showcase-app)** involved a web app in which designers could create and sell card designs.
+## An early iteration of the [Showcase App](/showcase-app) involved an online design tool in which professional designers could create and sell card design templates on a marketplace within the app.
 
 <br/>
 
@@ -28,7 +28,7 @@ role: Head of Design
 
 <hr>
 
-## Once the designer put their design for sale, users on the mobile app could purchase the design and customize it with their information.
+Once the designer put their design for sale, users on the mobile app could purchase the design and customize it with their information.
 
 ![portal 1](/img/designStore1.png)
 
