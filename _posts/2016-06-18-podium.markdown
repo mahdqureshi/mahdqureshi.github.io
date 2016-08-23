@@ -14,11 +14,21 @@ role: Co-Founder & Chief Product Officer
 
 <br/>
 
-## Application
+I created a component style library to establish consistency throughout the design. This made it easier for engineering and myself to focus on building and solving problems rather than constantly reinventing the wheel.
+
+<br/>
+
+![style guide](/img/podium-style.png)
+
+<div class="caption">A section of the style library.</div>
+
+The main screen of the app is the meeting page. This is where members can collaborate together on any app. Anyone can use their cursor to interact with the app.
+
+<br/>
 
 ![meeting](/img/podium-meeting.png)
 
-<div class="caption">The meeting page where members can collaborate together on an app.</div>
+<div class="caption">The meeting page.</div>
 
 ![apps](/img/podium-apps.png)
 
