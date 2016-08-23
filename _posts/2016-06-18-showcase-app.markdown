@@ -18,21 +18,29 @@ role: Head of Design
 
 <hr>
 
-## App screens
+## Mobile app
 <br/>
 
 <div class="row">
   <div class="col-sm-6">
-    <img src="/img/showcase-p1.png" alt="">
+    <div class="col-with-margin">
+      <img src="/img/showcase-p1.png" alt="">
+    </div>
   </div>
   <div class="col-sm-6">
-    <img src="/img/showcase-p2.png" alt="">
+    <div class="col-with-margin">
+      <img src="/img/showcase-p2.png" alt="">
+    </div>
   </div>
   <div class="col-sm-6">
-    <img src="/img/showcase-p3.png" alt="">
+    <div class="col-with-margin">
+      <img src="/img/showcase-p3.png" alt="">
+    </div>
   </div>
   <div class="col-sm-6">
-    <img src="/img/showcase-p4.png" alt="">
+    <div class="col-with-margin">
+      <img src="/img/showcase-p4.png" alt="">
+    </div>
   </div>
 </div>
 
