@@ -295,7 +295,7 @@ h3.about-text {
 .PageNavigation a {
     display: block;
     float: left;
-    width: 140px;
+    width: 160px;
     text-align: center;
     overflow: hidden;
     white-space: nowrap;
@@ -309,6 +309,10 @@ h3.about-text {
     text-decoration: none;
     &:hover {
       background: $grey-color-ultralight;
+    }
+    @include media-query($on-palm) {
+        width: 100%;
+        margin: .5em 0;
     }
 }
 
@@ -510,4 +514,7 @@ hr {
   border-bottom: 2px solid $grey-color-ultralight;
   margin: 100px auto;
   width: 300px;
+  @include media-query($on-palm) {
+      width: 90%;
+  }
 }
