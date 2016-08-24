@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Podium"
-date:   2016-06-17 18:32:32 -0400
+date:   2016-06-22 18:32:32 -0400
 categories: jekyll update
 img: podium.png
 color: "#1B2336"
@@ -26,13 +26,21 @@ I created a component style library to establish consistency throughout the desi
 
 <div class="caption">A section of the style library.</div>
 
-The main screen of the app is the meeting page. This is where members can collaborate together on any app. Anyone can use their cursor to interact with the app.
+<hr>
+
+The main screen of the app is the meeting page. This is where members can collaborate together on any app at the same time. It was very important to get this core screen right.
+
+<br/>
+
+![sketch](/img/podium-sketch.png)
+
+<div class="caption">Early sketches exploring the pros and cons of different layouts.</div>
 
 <br/>
 
 ![meeting](/img/podium-meeting.png)
 
-<div class="caption">The meeting page.</div>
+<div class="caption">The final meeting page.</div>
 
 ![apps](/img/podium-apps.png)
 
