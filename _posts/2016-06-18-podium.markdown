@@ -14,6 +14,10 @@ role: Co-Founder & Chief Product Officer
 
 <br/>
 
+![head landing](/img/podium-land.png)
+
+<hr>
+
 I created a component style library to establish consistency throughout the design. This made it easier for engineering and myself to focus on building and solving problems rather than constantly reinventing the wheel.
 
 <br/>
@@ -48,7 +52,11 @@ The main screen of the app is the meeting page. This is where members can collab
 
 ![podium wireframe](/img/podium-wireframe.png)
 
-<div class="caption">Glyph whitespace</div>
+<div class="caption">Solo glyph whitespace</div>
+
+![podium wordmark](/img/podium-wordmark-weights.png)
+
+<div class="caption">Weight explorations</div>
 
 ![podium wordmark](/img/podium-wordmark.png)
 
