@@ -34,7 +34,7 @@ The main screen of the app is the meeting page. This is where members can collab
 
 ![sketch](/img/podium-sketch.png)
 
-<div class="caption">Early sketches exploring the pros and cons of different layouts.</div>
+<div class="caption">Early sketches exploring the pros and cons of different layouts of the meeting page.</div>
 
 <br/>
 
