@@ -52,7 +52,7 @@ The main screen of the app is the meeting page. This is where members can collab
 
 ![podium wireframe](/img/podium-wireframe.png)
 
-<div class="caption">Solo glyph whitespace</div>
+<div class="caption">Glyph whitespace</div>
 
 ![podium wordmark](/img/podium-wordmark-weights.png)
 
