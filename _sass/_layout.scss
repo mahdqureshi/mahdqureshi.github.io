@@ -489,7 +489,8 @@ h3.about-text {
     .btn {
       padding: 10px 16px;
       border-radius: 5px;
-      background-color: $brand-color;
+      background-color: $text-color;
+      font-weight: bold;
       color: white;
       &:hover {
         opacity: .9;
@@ -511,7 +512,7 @@ h3.about-text {
 
 hr {
   border: 0;
-  border-bottom: 2px solid $grey-color-ultralight;
+  border-bottom: 1px solid $grey-color-ultralight;
   margin: 100px auto;
   width: 300px;
   @include media-query($on-palm) {

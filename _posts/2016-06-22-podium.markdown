@@ -48,6 +48,7 @@ I created a component style library to establish consistency throughout the desi
 
 <div class="caption">A section of the style library.</div>
 
+<hr>
 
 ## Landing page
 
