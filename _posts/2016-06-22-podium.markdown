@@ -10,8 +10,6 @@ role: Co-Founder & Chief Product Officer
 ---
 ## Podium lets your team accomplish tasks during meetings on the apps you already use. As Chief Product Officer, I had end-to-end responsibility for all product design efforts.
 
-<a class="btn" href="http://podium.video">Visit site</a>
-
 <br/>
 
 ![head landing](/img/podium-land.png)
