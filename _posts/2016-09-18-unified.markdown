@@ -8,13 +8,11 @@ color: "#FFEBEA"
 text-color: "#111"
 role: Head of Design
 ---
-## An early iteration of the [Showcase App](/showcase-app) involved an online design tool in which professional designers could create and sell card design templates on a marketplace within the app.
-
-<br/>
 
 ![portal mac](/img/portal-macfront.png)
 
-<br/>
+## An early iteration of the [Showcase App](/showcase-app) involved an online design tool in which professional designers could create and sell card design templates on a marketplace within the app.
+
 
 <hr>
 
