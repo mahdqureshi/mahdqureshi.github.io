@@ -17,7 +17,22 @@ role: Head of Design
 
 <hr>
 
-## Mobile app
+<div class="row">
+  <div class="col-sm-6">
+    <h1 class="section-title">The Problem</h1>
+  </div>
+  <div class="col-sm-6">
+    <p class="section-body">
+      Most people still use paper business cards at events. While paper cards can be valuable for spontaneous encounters, they are very inefficent at conferences where one can receive many cards. Having to scan each and every card into a spreadsheet or a CRM is a laborous process. Many cards get thrown out or lost which translates to a missed opportunity for a business relationship.
+      <br/>
+      <br/>
+      The goal was to minimize this friction and to automate the process as much as possible.
+    </p>
+  </div>
+</div>
+
+<hr>
+
 <br/>
 
 <div class="row">
@@ -44,6 +59,12 @@ role: Head of Design
 </div>
 
 <br/>
+<br/>
+
+![send card](/img/send-card.gif)
+
+Users can send their card from any screen
+
 <br/>
 
 <hr>
