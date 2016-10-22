@@ -17,6 +17,7 @@ role: Head of Design
 
 <hr>
 
+<!--
 <div class="row">
   <div class="col-sm-6">
     <h1 class="section-title">The Problem</h1>
@@ -30,6 +31,8 @@ role: Head of Design
     </p>
   </div>
 </div>
+//
+-->
 
 <hr>
 
