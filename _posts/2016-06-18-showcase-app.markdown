@@ -15,8 +15,6 @@ role: Head of Design
 
 <a class="btn" href="http://tryshowcase.com">Visit site</a>
 
-<hr>
-
 <!--
 <div class="row">
   <div class="col-sm-6">
