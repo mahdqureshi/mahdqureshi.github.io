@@ -34,6 +34,12 @@ role: Head of Design
 
 <hr>
 
+![hand](/img/shocase-ia.png)
+
+<div class="caption">Initial conception of the app's Information Architecture</div>
+
+<hr>
+
 <br/>
 
 <div class="row">
