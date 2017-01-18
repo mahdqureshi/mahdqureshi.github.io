@@ -4,7 +4,7 @@ title:  "Unified App"
 date:   2016-06-18 18:32:32 -0400
 categories: jekyll update
 img: unified-design.png
-color: "#FFEBEA"
+color: "linear-gradient(to bottom, #fdf1f4 0%, #ecedf6 100%)"
 text-color: "#111"
 role: Head of Design
 ---
