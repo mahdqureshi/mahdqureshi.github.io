@@ -470,6 +470,16 @@ h3.about-text {
         }
     }
 
+    h2.section-left {
+      font-size: 34px;
+      margin: 0;
+      line-height: 1;
+
+      @include media-query($on-laptop) {
+          margin-bottom: 40px;
+      }
+    }
+
     h3 {
         font-size: 22px;
 
