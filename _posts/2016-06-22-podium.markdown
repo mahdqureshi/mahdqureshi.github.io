@@ -24,7 +24,7 @@ role: Co-Founder & Chief Product Officer
   <div class="col-sm-6">
   <p>While there are many great tools that ease the friction that comes with communicating with a remote team, there aren’t many that help you to collaborate. Video conferencing tools like Hangouts, Zoom, etc., allow you share control of your mouse with attendees—but the constant back and forth of control inhibits the work getting done.</p>
 
-  <p>What if there was a ‘Google Docs’ type solution that allowed you have multiple work on one thing at the same time? Our goal with Podium was to create exactly that. </p>
+  <p>What if there was a ‘Google Docs’ type solution that allowed you have multiple people work on one thing at the same time? Our goal with Podium was to create exactly that. </p>
   </div>
 </div>
 
