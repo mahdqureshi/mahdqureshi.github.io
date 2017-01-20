@@ -11,7 +11,7 @@ role: Head of Design
 
 ![hand](/img/showcase-hand.png)
 
-## Exchange your entire portfolio just by touching phones and stay connected with the people you meet with Showcase. As Head of Design, I led the design process for all products across mobile, web, and marketing platforms.
+## Exchange your entire portfolio just by touching phones and stay connected to the people you meet with Showcase. As Head of Design, I led the design process for all products across mobile, web, and marketing platforms.
 
 <a class="btn" href="http://tryshowcase.com">Visit site</a>
 
