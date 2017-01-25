@@ -51,7 +51,7 @@ The main screen of the app is the meeting page. This is where members can collab
 
 ## Consistency
 
-I created a component style library to establish consistency throughout the design. This made it easier for engineering and myself to focus on building and solving problems rather than constantly reinventing the wheel.
+I created a component style library to establish consistency throughout the design. This made it easier for engineering and design to focus on building and solving problems rather than constantly reinventing the wheel.
 
 <br/>
 
