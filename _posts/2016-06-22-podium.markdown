@@ -57,15 +57,13 @@ I created a component style library to establish consistency throughout the desi
 
 ![style guide](/img/podium-style.png)
 
-<div class="caption">A section of the style library.</div>
-
 <hr>
 
 ## Landing page
 
 ![podium landing](/img/podium-landing.png)
 
-<div class="caption">Landing page where users can sign up for early access.</div>
+Landing page where users can sign up for early access.
 
 <hr>
 

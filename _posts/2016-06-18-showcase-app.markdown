@@ -65,11 +65,11 @@ Initial conception of the app's Information Architecture
 <br/>
 <br/>
 
+<hr>
+
+Users can also send their card to anyone in the vicinity without touching phones—making it easy to share their information with multiple people at once.
+
 ![send card](/img/send-card.gif)
-
-Users can also send their card with anyone in the vicinity without touching phones.
-
-<br/>
 
 <hr>
 
