@@ -19,7 +19,7 @@ role: Head of Design
 
 <div class="row">
   <div class="col-sm-6">
-    <h2 class="section-left">The Problem</h2>
+    <h2 class="section-left">Background</h2>
   </div>
   <div class="col-sm-6">
     <p>When you attend a trade show, you invariably go home with hundreds of paper business cards that you must then scan or manually enter into a digital repository. Most of these cards get thrown away—and along with it, a potential business relationship. </p>

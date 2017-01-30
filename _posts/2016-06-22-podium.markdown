@@ -19,7 +19,7 @@ role: Co-Founder & Chief Product Officer
 
 <div class="row">
   <div class="col-sm-6">
-    <h2 class="section-left">The Problem</h2>
+    <h2 class="section-left">Background</h2>
   </div>
   <div class="col-sm-6">
   <p>While there are many great tools that ease the friction that comes with communicating with a remote team, there aren’t many that help you to collaborate. Video conferencing tools like Hangouts, Zoom, etc., allow you share control of your mouse with attendees—but the constant back and forth of control inhibits the work getting done.</p>
