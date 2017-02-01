@@ -62,16 +62,13 @@ Initial conception of the app's Information Architecture
   </div>
 </div>
 
-<br/>
-<br/>
-
-<hr>
-
+<!--
 Users can also send their card to anyone in the vicinity without touching phones—making it easy to share their information with multiple people at once.
 
 <div class="send-card">
   <img src="img/send-card.gif" alt="Send Card">
 </div>
+-->
 
 <hr>
 
