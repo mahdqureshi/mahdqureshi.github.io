@@ -31,12 +31,6 @@ role: Head of Design
 
 <hr>
 
-![hand](/img/shocase-ia.png)
-
-Initial conception of the app's Information Architecture
-
-<hr>
-
 <br/>
 
 <div class="row">
@@ -69,6 +63,12 @@ Users can also send their card to anyone in the vicinity without touching phones
   <img src="img/send-card.gif" alt="Send Card">
 </div>
 -->
+
+<hr>
+
+![hand](/img/shocase-ia.png)
+
+Initial conception of the app's Information Architecture
 
 <hr>
 
