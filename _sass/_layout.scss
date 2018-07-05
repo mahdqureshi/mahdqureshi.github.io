@@ -145,8 +145,12 @@ h1.tagline {
      animation-delay: .1s;
    }
    &.delayed-2 {
-     -webkit-animation-delay: .25s; /* Chrome, Safari, Opera */
-     animation-delay: .25s;
+     -webkit-animation-delay: .2s; /* Chrome, Safari, Opera */
+     animation-delay: .2s;
+   }
+   &.delayed-3 {
+     -webkit-animation-delay: .3s; /* Chrome, Safari, Opera */
+     animation-delay: .3s;
    }
 }
 
