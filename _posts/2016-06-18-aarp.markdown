@@ -7,7 +7,7 @@ img: aarp.png
 color: "linear-gradient(to bottom, #F03829 0%, #C42D22 100%)"
 text-color: "white"
 role: Product Designer
-intro: AARP needed a new design to the introduce 'Limited Time Offers'. I worked closely with multiple key stakeholders on the team to deliver the update the their over 38 million userbase.
+intro: AARP needed a new design to the introduce 'Limited Time Offers'. I worked closely with multiple key stakeholders on the team to deliver the redesign to their over 38 million members.
 ---
 
 ![aarp](/img/aarp-head.png)
