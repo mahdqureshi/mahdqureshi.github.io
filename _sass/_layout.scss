@@ -144,6 +144,10 @@ h1.tagline {
      -webkit-animation-delay: .1s; /* Chrome, Safari, Opera */
      animation-delay: .1s;
    }
+   &.delayed-2 {
+     -webkit-animation-delay: .25s; /* Chrome, Safari, Opera */
+     animation-delay: .25s;
+   }
 }
 
 @-webkit-keyframes fadeInBottom {

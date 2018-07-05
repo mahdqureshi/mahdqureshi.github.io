@@ -8,12 +8,12 @@ layout: default
       <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
       <h5 class="post-meta">{{ page.role }} {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</h5>
     </div>
-    <div class="col-sm-7">
+    <div class="col-sm-7 slide fadeInBottom delayed">
       <h3 class="post-intro">{{ page.intro }}</h3>
     </div>
   </header>
 
-  <div class="post-content slide fadeInBottom delayed" itemprop="articleBody">
+  <div class="post-content slide fadeInBottom delayed-2" itemprop="articleBody">
     {{ content }}
   </div>
 
