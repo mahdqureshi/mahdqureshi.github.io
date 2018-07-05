@@ -39,12 +39,15 @@ p {
 }
 
 h1.tagline {
-  font-weight: 700;
-  font-size: 72px;
   line-height: 1.3;
+  font-size: 70px;
+  font-weight: 600;
   letter-spacing: -1px;
   margin-bottom: 60px;
   font-family: 'Crimson Text', serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   @include media-query($on-laptop) {
     font-size: 50px;
     letter-spacing: -1px;
@@ -265,6 +268,7 @@ h3.about-text {
   color: $grey-color;
 }
 
+
 .about-title {
   margin-top: 70px;
   margin-bottom: 80px;
@@ -419,6 +423,11 @@ h3.about-text {
     letter-spacing: 1px;
 }
 
+.post-intro {
+  line-height: 1.5;
+  font-size: 22px;
+}
+
 .project-title {
     display: block;
     font-size: 24px;
@@ -440,8 +449,8 @@ h3.about-text {
 }
 
 .post-header {
-    margin-bottom: $spacing-unit;
-    text-align: center;
+    margin-bottom: $spacing-unit*4;
+    margin-top: $spacing-unit*3;
 }
 
 .post-title {
@@ -449,7 +458,7 @@ h3.about-text {
     line-height: 1;
     font-weight: 700;
     letter-spacing: -1px;
-    color: $grey-color-dark;
+    color: text-color;
 
     @include media-query($on-palm) {
         font-size: 36px;

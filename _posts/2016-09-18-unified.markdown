@@ -7,12 +7,10 @@ img: unified-design.png
 color: "linear-gradient(to bottom, #fdf1f4 0%, #ecedf6 100%)"
 text-color: "#111"
 role: Head of Design
+intro: An early iteration of the Showcase app involved an online design tool in which professional designers could create and sell card design templates on a marketplace within the app.
 ---
 
 ![portal mac](/img/portal-macfront.png)
-
-## An early iteration of the [Showcase App](/showcase-app) involved an online design tool in which professional designers could create and sell card design templates on a marketplace within the app.
-
 
 <hr>
 
