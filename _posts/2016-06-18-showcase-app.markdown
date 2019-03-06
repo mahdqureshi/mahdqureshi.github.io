@@ -6,14 +6,12 @@ categories: jekyll update
 img: dribbble.png
 color: "white"
 text-color: "#111"
-role: Head of Design
-intro: Exchange your entire portfolio just by touching phones and stay connected to the people you meet with Showcase. As Head of Design, I led the design process for all products across mobile, web, and marketing platforms.
+role: Product Designer
+intro: Exchange your entire portfolio just by touching phones and stay connected to the people you meet with Showcase. I led the design process for all products across mobile, web, and marketing platforms.
 
 ---
 
 ![hand](/img/showcase-hand.png)
-
-<a class="btn" href="http://tryshowcase.com">Visit site</a>
 
 <hr>
 
