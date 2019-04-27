@@ -21,3 +21,9 @@ intro: AARP needed a new design to the introduce 'Limited Time Offers'. I worked
 Modal displaying benefits with exclusive 'Limited Time Offers'
 
 <hr>
+
+![hand](/img/lto-time-remaining-tests.jpg)
+
+Multiple variants of visualizing the time remaining until the each offer expires. After testing, we decided on the simple clock icon with the amount of time left rather than the date of experation.
+
+<hr>
