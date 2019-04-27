@@ -11,7 +11,7 @@ intro: Podium lets your team accomplish tasks during meetings on the apps you al
 
 ---
 
-![head landing](/img/podium-land.png)
+![head landing](/img/podium-land.jpg)
 
 <hr>
 
