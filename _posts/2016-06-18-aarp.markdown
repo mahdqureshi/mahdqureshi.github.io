@@ -24,6 +24,6 @@ Modal displaying benefits with exclusive 'Limited Time Offers'
 
 ![hand](/img/lto-time-remaining-tests.jpg)
 
-Multiple variants of visualizing the time remaining until the each offer expires. After testing, we decided on the simple clock icon with the amount of time left rather than the date of experation.
+Multiple variants of visualizing the time remaining until the each offer expires. After testing, we learned that the variant with 'X days left' performed the best. This was due to the fact that the 'Expires on X' variant created a higher cognitive load on the user—as they had to calculate the current date and then the days until the expiration day. 'X days left' is also dynamic as opposed to the static 'Expires on X'. The number reducing every day creates a sense of scarcity increasing the urge of the user to take advantage of the offer.
 
 <hr>
