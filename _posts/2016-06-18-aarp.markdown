@@ -12,12 +12,25 @@ intro: AARP needed a new design to the introduce 'Limited Time Offers'. I worked
 
 <hr>
 
+<div class="row">
+  <div class="col-sm-6">
+    <h2 class="section-left">Objective</h2>
+  </div>
+  <div class="col-sm-6">
+    <p>The main objective was to design a modal that allowed members to use an offer by clicking to either learn more or book online. I made this main action stand out by making it a stark blue against white backgrounds.</p>
+    <p>Because many AARP members prefer to speak to someone for assistance, the phone number was also given the blue color.</p>
+  </div>
+</div>
+
+<hr>
 
 ![hand](/img/lto-desktop.png)
 <div class="caption">Modal displaying benefits with exclusive ‘Limited Time Offers’.</div>
 
+<hr>
 
-The main objective of the modal was to have the user click on the offer to learn more or book online. I made this main action stand out by making it a stark blue against white backgrounds. Because many AARP members prefer to speak to someone for assistance, the phone number was also given the blue color.
+![hand](/img/aarp-modal-mobile.jpg)
+<div class="caption">The responsive view of the modal.</div>
 
 <hr>
 
@@ -25,6 +38,6 @@ The main objective of the modal was to have the user click on the offer to learn
 
 Multiple variants of visualizing the time remaining until the each offer expires. After testing, we learned that the variant with 'Days left' performed the best. This was due to the fact that the 'Expires on' variant created a higher cognitive load on the user—as they had to calculate the current date and then the days until the expiration day.
 
-'Days left' is also dynamic as opposed to the static 'Expires on'. The number of days reduces each day creating a sense of scarcity increasing the urge of the user to take advantage of the offer.
+'Days left' is also dynamic as opposed to the static 'Expires on'. The number reduces each day creating a sense of scarcity increasing the urge of the user to take advantage of the offer.
 
 <hr>
