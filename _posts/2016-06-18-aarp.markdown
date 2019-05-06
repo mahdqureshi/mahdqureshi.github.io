@@ -25,6 +25,6 @@ The main objective of the modal was to have the user click on the offer to learn
 
 Multiple variants of visualizing the time remaining until the each offer expires. After testing, we learned that the variant with 'Days left' performed the best. This was due to the fact that the 'Expires on' variant created a higher cognitive load on the user—as they had to calculate the current date and then the days until the expiration day.
 
-'Days left' is also dynamic as opposed to the static 'Expires on'. The number of days reduces each day creating a sense of scarcity increasing the urge to take advantage of the offer.
+'Days left' is also dynamic as opposed to the static 'Expires on'. The number of days reduces each day creating a sense of scarcity increasing the urge of the user to take advantage of the offer.
 
 <hr>
