@@ -34,7 +34,7 @@ intro: AARP needed a new design to the introduce 'Limited Time Offers'. I worked
 
 <hr>
 
-![hand](/img/lto-time-remaining-tests.svg)
+![hand](/img/lto-time-remaining-tests.jpg)
 
 Multiple variants of visualizing the time remaining until the each offer expires. After testing, we learned that the variant with 'Days left' performed the best. This was due to the fact that the 'Expires on' variant created a higher cognitive load on the user—as they had to calculate the current date and then the days until the expiration day.
 
