@@ -3,7 +3,7 @@ layout: post
 title:  "AARP"
 date:   2016-06-21 18:32:32 -0400
 categories: jekyll update
-img: aarp.jpg
+img: aarp-t.jpg
 color: "linear-gradient(to bottom, #F03829 0%, #FF1A5C 100%)"
 text-color: "white"
 role: Product Designer
