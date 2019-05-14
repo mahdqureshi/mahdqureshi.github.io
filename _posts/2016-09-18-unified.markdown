@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unified App"
+title:  "Unified"
 date:   2016-06-18 18:32:32 -0400
 categories: jekyll update
 img: unified-design.png
@@ -14,11 +14,11 @@ intro: An early iteration of the Showcase app involved an online design tool in 
 
 <hr>
 
-![portal 1](/img/portal1.png)
+![portal 1](/img/portal1.jpg)
 
 <div class="caption">The design screen in which the designer could add custom text and background styles.</div>
 
-![portal 1](/img/portal2.png)
+![portal 1](/img/portal2.jpg)
 
 <div class="caption">The designer can view their sales and earnings.</div>
 
