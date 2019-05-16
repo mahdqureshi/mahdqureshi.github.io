@@ -20,7 +20,7 @@ intro: Exchange your entire portfolio just by touching phones and stay connected
     <h2 class="section-left">Background</h2>
   </div>
   <div class="col-sm-6">
-    <p>When you attend a trade show, you invariably go home with hundreds of paper business cards that you must then scan or manually enter into a digital repository. Most of these cards get thrown away—and along with it, a potential business relationship. </p>
+    <p>When attending a trade show, you invariably go home with hundreds of paper business cards that you must then scan or manually enter into a digital repository. Most of these cards get thrown away—and along with it, a potential business relationship. </p>
 
     <p>The goal with Showcase was to remove this friction and allow you to instantly exchange your entire portfolio and contact information just by touching phones.</p>
 
