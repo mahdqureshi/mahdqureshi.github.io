@@ -10,9 +10,7 @@ role: Head of Design
 intro: An early iteration of the Showcase app involved an online design tool in which professional designers could create and sell card design templates on a marketplace within the app.
 ---
 
-![portal mac](/img/portal-macfront.png)
-
-<hr>
+<!--![portal mac](/img/portal-macfront.png)-->
 
 ![portal 1](/img/portal1.jpg)
 
