@@ -30,6 +30,13 @@ Once the designer put their design for sale, users on the mobile app could purch
 
 <hr>
 
-After many iterations of the custom design store, it became clear that the designs were not reflective enough of the persons company. They also required a lot of work from the user in order to customize them. I decided to move towards a simpler, [brand oriented approach.](/showcase-app)
-
+<div class="row">
+  <div class="col-sm-6">
+    <h2 class="section-left">Refinement</h2>
+  </div>
+  <div class="col-sm-6">
+    <p>After many iterations of the custom design store, it became clear that the designs were not reflective enough of the users company—which they would be representing at events.</p>
+    <p>They also required a large amount of work from the user in order to customize them. I decided to move towards a simpler, <a href="/showcase-app">brand oriented approach</a>.</p>
+  </div>
+</div>
 <br/>
