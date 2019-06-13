@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Showcase"
-date:   2016-06-20 18:32:32 -0400
+date:   2016-06-21 18:32:32 -0400
 categories: jekyll update
 img: dribbble.png
 color: "white"
