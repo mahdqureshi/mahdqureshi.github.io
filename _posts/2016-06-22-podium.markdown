@@ -67,9 +67,9 @@ Landing page where users can sign up for early access.
 
 ## Branding
 
-![podium wireframe](/img/podium-wireframe.png)
+![podium wireframe](/img/podium-logo-wire.gif)
 
-<div class="caption">Glyph whitespace</div>
+<div class="caption">The brand glyph</div>
 
 ![podium wordmark](/img/podium-wordmark-weights.png)
 
