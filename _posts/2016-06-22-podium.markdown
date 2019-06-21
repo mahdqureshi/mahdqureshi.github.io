@@ -22,12 +22,12 @@ intro: Podium lets your team accomplish tasks during meetings on the apps you al
   <div class="col-sm-6">
   <p>While there are many great tools that ease the friction that comes with communicating with a remote team, there aren’t many that help you to collaborate. Video conferencing tools like Hangouts, Zoom, etc., allow you share control of your mouse with attendees—but the constant back and forth of control inhibits the work getting done.</p>
 
-  <p>What if there was a way to have multiple people work on something in a single, shared space at the same time? Our goal with Podium was to create exactly that. </p>
+  <p>The value proposition of Podium was to give remote team the ability to get things tasks done in the apps they already use.</p>
   </div>
 </div>
 
 <hr>
-The main screen of the app is the meeting page. This is where members can collaborate together on any app at the same time. It was very important to get this core screen right.
+The main view of the app is the meeting page—where members can collaborate together on any app at the same time. It was very important to get this core screen right.
 
 <br/>
 

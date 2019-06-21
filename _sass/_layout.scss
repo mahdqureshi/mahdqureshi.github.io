@@ -271,7 +271,7 @@ h1.about {
 
 h3.about-text {
   line-height: 1.7;
-  margin-top: 70px;
+  margin-top: 20px;
   margin-bottom: 80px;
   color: $text-color;
 }
@@ -279,7 +279,8 @@ h3.about-text {
 
 .about-title {
   margin-top: 70px;
-  margin-bottom: 80px;
+  margin-bottom: 20px;
+  font-weight: 600;
 }
 
 .about-email {
@@ -295,6 +296,7 @@ h3.about-text {
   width: 100%;
   height: auto;
   margin-top: 20px;
+  margin-bottom: 100px;
 }
 
 //Page Navigation
