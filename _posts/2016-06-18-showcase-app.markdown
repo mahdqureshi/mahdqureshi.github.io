@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Showcase"
-date:   2016-06-21 18:32:32 -0400
+date:   2016-06-22 18:32:32 -0400
 categories: jekyll update
 img: dribbble.png
 color: "white"
@@ -70,7 +70,7 @@ Initial conception of the app's Information Architecture
 
 <hr>
 
-<video autoplay loop muted playsinline width="100%">
+<video autoplay loop muted playsinlines width="100%">
     <source src="/img/cardpro.mp4" type="video/mp4">
 </video>
 Utilizing motion keeps the card in view when transitioning between screens. I did this to reinforce the mental model that the card is a container of information, rather than just a thumbnail for a different screen.

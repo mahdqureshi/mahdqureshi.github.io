@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Podium"
-date:   2016-06-22 18:32:32 -0400
+date:   2016-06-21 18:32:32 -0400
 categories: jekyll update
 img: podium.png
 color: "#1B2336"
