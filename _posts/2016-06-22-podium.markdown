@@ -7,7 +7,7 @@ img: podium.png
 color: "#1B2336"
 text-color: "white"
 role: Co-Founder/Product Designer
-intro: Podium lets your team accomplish tasks during meetings on the apps you already use. As Co-Founder and Designer, I had end-to-end responsibility for all product design efforts.
+intro: Podium lets you and your team accomplish tasks during meetings on the apps you already use. As Co-Founder and Designer, I had end-to-end responsibility for all product design efforts.
 
 ---
 
