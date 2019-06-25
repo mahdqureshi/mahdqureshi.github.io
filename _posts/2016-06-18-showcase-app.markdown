@@ -31,7 +31,7 @@ intro: Exchange your entire portfolio just by touching phones and stay connected
 
 ![hand](/img/shocase-ia.png)
 
-Initial conception of the app's Information Architecture
+Mapping out the Information Architecture of the app.
 
 <hr>
 
