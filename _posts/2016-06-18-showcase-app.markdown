@@ -3,7 +3,7 @@ layout: post
 title:  "Showcase"
 date:   2016-06-22 18:32:32 -0400
 categories: jekyll update
-img: dribbble.png
+img: dribbble.jpg
 color: "white"
 text-color: "#111"
 role: Product Designer
