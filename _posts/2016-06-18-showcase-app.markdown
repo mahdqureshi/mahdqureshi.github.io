@@ -70,7 +70,7 @@ Users can also send their card to anyone in the vicinity without touching phones
 
 <hr>
 
-<video autoplay loop muted playsinlines width="100%">
+<video autoplay loop muted playsinline width="100%">
     <source src="/img/cardpro.mp4" type="video/mp4">
 </video>
 Utilizing motion keeps the card in view when transitioning between screens. I did this to reinforce the mental model that the card is a container of information, rather than just a thumbnail for a different screen.
