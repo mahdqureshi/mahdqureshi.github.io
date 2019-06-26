@@ -35,7 +35,7 @@ Mapping out the Information Architecture of the app.
 
 <hr>
 
-<br/>
+## High-fidelity
 
 <div class="row">
   <div class="col-sm-6">
