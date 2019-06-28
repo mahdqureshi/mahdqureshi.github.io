@@ -37,6 +37,8 @@ intro: Exchange your entire portfolio just by touching phones and stay connected
 
 ## High-fidelity
 
+<br>
+
 <div class="row">
   <div class="col-sm-6">
     <div class="col-with-margin">
