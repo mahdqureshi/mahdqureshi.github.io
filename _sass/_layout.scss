@@ -89,7 +89,6 @@ h1.tagline {
         top: 9px;
         right: $spacing-unit / 2;
         background-color: $background-color;
-        border: 1px solid $grey-color-ultralight;
         border-radius: 5px;
         text-align: right;
 
@@ -113,13 +112,16 @@ h1.tagline {
         }
 
         .trigger {
-            clear: both;
             display: none;
         }
 
         &:hover .trigger {
             display: block;
             padding-bottom: 5px;
+            padding-top: 40px;
+            height: 150px;
+            box-shadow: 0 14px 28px rgba(0,0,0,0.05), 0 10px 10px rgba(0,0,0,0.05);
+            border-radius: 6px;
         }
 
         .page-link {
