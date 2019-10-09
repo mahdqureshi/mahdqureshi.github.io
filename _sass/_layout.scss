@@ -38,6 +38,21 @@ p {
   line-height: 1.6;
 }
 
+.wrapper {
+  @include media-query($on-laptop) {
+      max-width: -webkit-calc(#{$content-width} - (#{$mobile-spacing-unit}));
+      max-width:         calc(#{$content-width} - (#{$mobile-spacing-unit}));
+      padding-right: $mobile-spacing-unit / 1;
+      padding-left: $mobile-spacing-unit / 1;
+  }
+  @include media-query($on-palm) {
+      max-width: -webkit-calc(#{$content-width} - (#{$mobile-spacing-unit}));
+      max-width:         calc(#{$content-width} - (#{$mobile-spacing-unit}));
+      padding-right: $mobile-spacing-unit / 2;
+      padding-left: $mobile-spacing-unit / 2;
+  }
+}
+
 h1.tagline {
   line-height: 1.3;
   font-size: 63px;
@@ -48,7 +63,7 @@ h1.tagline {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   @include media-query($on-laptop) {
-    font-size: 50px;
+    font-size: 56px;
     letter-spacing: -1px;
   }
   @include media-query($on-palm) {
