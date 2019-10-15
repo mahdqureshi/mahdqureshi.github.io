@@ -77,7 +77,7 @@ Users can also send their card to anyone in the vicinity without touching phones
 </video>
 
 <br>
-Utilizing motion keeps the card in view when transitioning between screens. I did this to reinforce the mental model that the card is a container of information, rather than just a thumbnail for a different screen.
+Utilizing motion keeps the card in view when transitioning between screens. I used this to reinforce a mental model that the card is a container of information, rather than simply a thumbnail for a different screen.
 
 
 <hr>
