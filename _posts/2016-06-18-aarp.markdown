@@ -5,7 +5,9 @@ date:   2016-06-20 18:32:32 -0400
 categories: jekyll update
 img: aarp.png
 color: "linear-gradient(to bottom, #F03829 0%, #FF1A5C 100%)"
+color: "linear-gradient(to bottom, #1760D0 0%, #1760D0 100%)"
 text-color: "white"
+published: false
 role: Product Designer
 intro: AARP needed a new design to the introduce 'Limited Time Offers'. I worked closely with key stakeholders on the team to deliver the redesign to over 38 million members.
 ---

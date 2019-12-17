@@ -1,0 +1,107 @@
+---
+layout: post
+title:  "Pantry"
+date:   2016-06-21 18:32:32 -0400
+categories: jekyll update
+img: pantry.png
+color: "#1760D0"
+text-color: "white"
+role: Product Designer
+intro: Pantry is a community for recommending and finding the best foods and supplements. As Product Designer, I was responsible for designing the mobile apps and branding.
+
+---
+
+![head landing](/img/pantry-header.png)
+
+<hr>
+
+<div class="row">
+  <div class="col-sm-6">
+    <h2 class="section-left">Background</h2>
+  </div>
+  <div class="col-sm-6">
+  <p>The value proposition of Pantry is to give people looking to eat healthier a method to find out what other foods and supplements people are consuming.</p>
+  <p> Sponsors of products also have an opportunity to help grow their brands and reach a wider audience of potential customers.</p>
+  </div>
+</div>
+
+## High-fidelity
+
+<br>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="col-with-margin">
+      <img src="/img/pantrymock1.png" alt="">
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="col-with-margin">
+      <img src="/img/pantrymock2.png" alt="">
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="col-with-margin">
+      <img src="/img/pantrymock3.png" alt="">
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="col-with-margin">
+      <img src="/img/pantrymock4.png" alt="">
+    </div>
+  </div>
+</div>
+
+<hr>
+
+
+![sketch](/img/pantry-signflow.jpg)
+
+<div class="caption">Mapping the sign up flow.</div>
+
+<br/>
+
+![meeting](/img/pantry-palette.png)
+
+<div class="caption">Specifying custom color palette for both light and dark mode variants.</div>
+
+<!--
+
+![apps](/img/podium-apps.png)
+
+<div class="caption">The team can install the apps that they use frequently.</div>
+
+<hr>
+
+## Consistency
+
+I created a component style library to establish consistency throughout the design. This made it easier for engineering and design to focus on building and solving problems rather than constantly reinventing the wheel.
+
+<br/>
+
+![style guide](/img/podium-style.png)
+
+<hr>
+
+## Landing page
+
+![podium landing](/img/podium-landing.png)
+
+Landing page where users can sign up for early access.
+
+<hr>
+
+## Branding
+
+![podium wireframe](/img/podium-logo-wire.gif)
+
+<div class="caption">The brand glyph</div>
+
+![podium wordmark](/img/podium-wordmark-weights.png)
+
+<div class="caption">Weight explorations</div>
+
+![podium wordmark](/img/podium-wordmark.png)
+
+<div class="caption">Final glyph & wordmark</div>
+-->
