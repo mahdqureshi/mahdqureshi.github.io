@@ -25,6 +25,8 @@ intro: Pantry is a community for recommending and finding the best foods and sup
   </div>
 </div>
 
+<hr>
+
 ## High-fidelity
 
 <br>
@@ -58,6 +60,8 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 ![sketch](/img/pantry-signflow.jpg)
 
 <div class="caption">Mapping the sign up flow.</div>
+
+<hr>
 
 <br/>
 
