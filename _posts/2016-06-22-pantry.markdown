@@ -27,6 +27,61 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 
 <hr>
 
+<div class="row">
+  <div class="col-sm-6">
+    <h2 class="section-left">Refinement</h2>
+  </div>
+  <div class="col-sm-6">
+    <p>The Pantry app lets users add a product to their ‘Pantry’. Other users can follow you and view your ‘Pantry’ to see which foods and products you are using—like a Pinterest board for foods and supplements.</p>
+    <p>Initially the app had two main actions a user could take on a product.</p>
+    <p>1. Add it to their own pantry.</p>
+    <p>2. Add it to their favorites.</p>
+    <p>The initial wireframes had ‘Favorites’ as a main tab on the app with ‘Your Pantry’ being another.</p>
+  </div>
+</div>
+
+<br>
+
+![pantry tab bar wireframe](/img/pantrytabwire.png)
+
+<br>
+
+<p class="project-body">When I tested this design with users, a major pain point was discovered. The differentiation between the purpose of ‘favorites’ and ‘your pantry’ wasn’t clear. Users didn’t know when to add a product to which. I had to clarify what the purpose of each action was.</p>
+
+
+<p class="project-body">‘Your Pantry’ was designed to house products that you currently use, while ‘Favorites’ was for products that you’d like to use in the future. After making this distinction, it was clear that ‘Favorites’ was a sub-optimal name for a food/supplement you’ve never used. ‘Wish list’ made more sense in our case.</p>
+
+
+<p class="project-body">I tested a version with ‘Wish List’ and while it performed better, users were still confused on when to add a product to their pantry vs to the wish list. I had to rethink the entire information architecture of the app.</p>
+<p class="project-body">After trying out many iterations, I concluded that separating the two wasn't ideal. There should only be one place on the app that houses products. Within ‘Your pantry’, products are grouped by category. I added a default group—pinned to the top of the list—called ‘Wish List’. Everyone has this group when they create an account.</p>
+
+<br>
+
+![pantry groups](/img/pantrygroups.jpg)
+
+<br>
+<p class="project-body">The user now has a single option—add a product to their pantry. They’re then able to select a group—with ‘Wish List’ being an option.</p>
+<br>
+
+![pantry groups](/img/select-pantry-group.jpg)
+
+<hr>
+
+
+![sketch](/img/pantry-signflow.jpg)
+
+<div class="caption">Mapping the sign up flow.</div>
+
+<hr>
+
+<br/>
+
+![meeting](/img/pantry-palette.png)
+
+<div class="caption">Specifying custom color palette for both light and dark mode variants.</div>
+
+<hr>
+
 ## High-fidelity
 
 <br>
@@ -54,20 +109,9 @@ intro: Pantry is a community for recommending and finding the best foods and sup
   </div>
 </div>
 
-<hr>
+<br>
 
-
-![sketch](/img/pantry-signflow.jpg)
-
-<div class="caption">Mapping the sign up flow.</div>
-
-<hr>
-
-<br/>
-
-![meeting](/img/pantry-palette.png)
-
-<div class="caption">Specifying custom color palette for both light and dark mode variants.</div>
+<br>
 
 <!--
 

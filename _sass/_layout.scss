@@ -53,6 +53,12 @@ p {
   }
 }
 
+p.project-body {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-bottom: 40px;
+}
+
 h1.tagline {
   line-height: 1.3;
   font-size: 78px;
