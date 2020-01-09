@@ -129,6 +129,8 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 
 ![pantry groups](/img/select-pantry-group.jpg)
 
+<br>
+<p class="project-body">When I tested this variant, it out-performed all the others. There was less friction since the user only has one option — adding a product to their pantry. From there, they quickly understood what ‘Wish List’ was and how it was different than the other groups.</p>
 <hr>
 
 
