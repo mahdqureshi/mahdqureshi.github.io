@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pantry"
-date:   2016-06-21 18:32:32 -0400
+date:   2019-06-21 18:32:32 -0400
 categories: jekyll update
 img: pantry.png
 color: "#1760D0"
@@ -17,13 +17,77 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 
 <div class="row">
   <div class="col-sm-6">
-    <h2 class="section-left">Background</h2>
+    <h2 class="section-left">Overview</h2>
   </div>
   <div class="col-sm-6">
-  <p>The value proposition of Pantry is to give people looking to eat healthier a method to find out what other foods and supplements people are consuming.</p>
-  <p> Sponsors of products also have an opportunity to help grow their brands and reach a wider audience of potential customers.</p>
+  <p>Pantry is an app that allows users to find out what other people are eating that are following the same lifestyle goals as them.</p>
+  <p>I was brought on to the project in the early stages. The team had basic wireframes and idea of features the app should have. I was tasked with fleshing out and delivering the final UX/UI and branding. </p>
   </div>
 </div>
+
+<hr>
+
+<div class="row">
+  <div class="col-sm-6">
+    <h2 class="section-left">Defining Success</h2>
+  </div>
+  <div class="col-sm-6">
+    <p>My first step was the define a north star of success that would guide my design decisions. The major KPI’s that were to be monitored after deployment were:</p>
+    <p style="font-weight: 500;">↗ Increase the number of users that add products to their profile.</p>
+    <p style="font-weight: 500;">↗ Increase the number of follows that each has.</p>
+    <p style="font-weight: 500;">↗ Increase the number of product groups that users create within their pantry.</p>
+  </div>
+</div>
+
+<hr>
+
+<div class="row">
+  <div class="col-sm-6">
+    <h2 class="section-left">Research</h2>
+  </div>
+  <div class="col-sm-6">
+    <p>
+    The first phase in my research process was to conduct guerrilla user research to figure out the users and their goals. After researching, I was able to distill the user base down into three distinct personas.
+    </p>
+    <p>
+    <strong>The Fitness Influencer</strong>
+    </p>
+    <p>
+    The fitness influencer is someone who is well known in the fitness/health community. They have a medium to large following on other platforms. They also have a sponsorships with health and fitness brands—which is key for us. We would be providing these users a way to market their sponsored products to consumers in a highly targeted way.
+    </p>
+    <p>
+    <strong>The Fitness Enthusiast</strong>
+    </p>
+    <p>
+    The fitness enthusiast is a regular person who is getting into or is already following a health/fitness lifestyle. They are mostly looking to consume content—find healthy foods and supplements. These will be the user who follow the influencers that closely align with their own goals and then purchase products that will help them achieve those goals.
+    </p>
+    <p>
+    <strong>The Brand</strong>
+    </p>
+    <p>
+    The brand is the manufacturer of a health food or supplement. Their main goal is to sell their products to users who would be repeat customers. With Pantry, we would be providing them with segmentation to target their products to the exact people who would use it.
+    </p>
+  </div>
+</div>
+
+<hr>
+
+
+<div class="row">
+  <div class="col-sm-6">
+    <h2 class="section-left">Competitive Analysis</h2>
+  </div>
+  <div class="col-sm-6">
+    <p>Once I had an idea if the core user base and their goals, I wanted to gain an understanding of the competitive landscape of health-diet apps.  I analyzed the top apps in the space to help reveal opportunities that existed.</p>
+  </div>
+</div>
+<br>
+<br>
+
+![pantry compttition](/img/pantry-competition.png)
+<br>
+<br>
+<p class="project-body">There’s a diverse set of lifestyles and diets that are popular now — Keto, Paleo, Vegan, Dairy Free, Weight Loss/Gain, etc. Finding others that are following your same goals is difficult. After looking at the main players in the space, it was clear that no centralized network exists that allows people to discuss and share the best products & foods for their specific lifestyle goal.</p>
 
 <hr>
 
