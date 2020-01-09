@@ -34,7 +34,7 @@ intro: Pantry is a community for recommending and finding the best foods and sup
   <div class="col-sm-6">
     <p>My first step was the define a north star of success that would guide my design decisions. The major KPI’s that were to be monitored after deployment were:</p>
     <p style="font-weight: 500;">↗ Increase the number of users that add products to their profile.</p>
-    <p style="font-weight: 500;">↗ Increase the number of follows that each has.</p>
+    <p style="font-weight: 500;">↗ Increase the number of followers that each user has.</p>
     <p style="font-weight: 500;">↗ Increase the number of product groups that users create within their pantry.</p>
   </div>
 </div>
