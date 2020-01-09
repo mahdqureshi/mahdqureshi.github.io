@@ -158,7 +158,7 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 
 <hr>
 
-## High-fidelity
+# High-fidelity
 
 <br>
 
