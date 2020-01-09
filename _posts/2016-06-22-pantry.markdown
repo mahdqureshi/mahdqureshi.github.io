@@ -142,6 +142,16 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 
 <br/>
 
+<div class="row">
+  <div class="col-sm-6">
+    <h2 class="section-left">Brand Consistency</h2>
+  </div>
+  <div class="col-sm-6">
+    <p>I created a brand guideline early on so that any changes could be easily implemented. This also enabled the development team to build with semantic colors—making dark mode intergration a priority from the beginning.</p>
+    <br>
+  </div>
+</div>
+
 ![meeting](/img/pantry-palette.png)
 
 <div class="caption">Specifying custom color palette for both light and dark mode variants.</div>
