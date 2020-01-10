@@ -20,22 +20,7 @@ intro: Pantry is a community for recommending and finding the best foods and sup
     <h2 class="section-left">Overview</h2>
   </div>
   <div class="col-sm-6">
-  <p>Pantry is an app that allows users to find out what other people are eating that are following the same lifestyle goals as them.</p>
-  <p>I was brought on to the project in the early stages. The team had basic wireframes and idea of features the app should have. I was tasked with fleshing out and delivering the final UX/UI and branding. </p>
-  </div>
-</div>
-
-<hr>
-
-<div class="row">
-  <div class="col-sm-6">
-    <h2 class="section-left">Defining Success</h2>
-  </div>
-  <div class="col-sm-6">
-    <p>My first step was the define a north star of success that would guide my design decisions. The major KPI’s that were to be monitored after deployment were:</p>
-    <p style="font-weight: 500;">↗ Increase the number of users that add products to their profile.</p>
-    <p style="font-weight: 500;">↗ Increase the number of followers that each user has.</p>
-    <p style="font-weight: 500;">↗ Increase the number of product groups that users create within their pantry.</p>
+  <p>Pantry is an app that let’s users discover products and foods that others with the same lifestyle or health goals as them are consuming. I was brought on in the early stages of the project when the team had a basic idea of the features the app should have. I fleshed out the UX and interaction design including prototype development and user testing.</p>
   </div>
 </div>
 
@@ -47,20 +32,23 @@ intro: Pantry is a community for recommending and finding the best foods and sup
   </div>
   <div class="col-sm-6">
     <p>
-    The first phase in my research process was to conduct guerrilla user research to figure out the users and their goals. After researching, I was able to distill the user base down into three distinct personas.
+    The first phase in my research process was to conduct guerrilla user research to figure out who the users were and their goals. After researching, I was able to distill the user base down into three distinct personas.
     </p>
+    <br>
     <p>
     <strong>The Fitness Influencer</strong>
     </p>
     <p>
     The fitness influencer is someone who is well known in the fitness/health community. They have a medium to large following on other platforms. They also have a sponsorships with health and fitness brands—which is key for us. We would be providing these users a way to market their sponsored products to consumers in a highly targeted way.
     </p>
+    <br>
     <p>
     <strong>The Fitness Enthusiast</strong>
     </p>
     <p>
     The fitness enthusiast is a regular person who is getting into or is already following a health/fitness lifestyle. They are mostly looking to consume content—find healthy foods and supplements. These will be the user who follow the influencers that closely align with their own goals and then purchase products that will help them achieve those goals.
     </p>
+    <br>
     <p>
     <strong>The Brand</strong>
     </p>
@@ -78,7 +66,7 @@ intro: Pantry is a community for recommending and finding the best foods and sup
     <h2 class="section-left">Competitive Analysis</h2>
   </div>
   <div class="col-sm-6">
-    <p>Once I had an idea if the core user base and their goals, I wanted to gain an understanding of the competitive landscape of health-diet apps.  I analyzed the top apps in the space to help reveal opportunities that existed.</p>
+    <p>Once I had an idea if the core user base and their goals, I wanted to gain an understanding of the competitive landscape of health-diet apps.  I analyzed the top apps in the space to explore opportunities that might exist.</p>
   </div>
 </div>
 <br>
@@ -87,7 +75,41 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 ![pantry compttition](/img/pantry-competition.png)
 <br>
 <br>
-<p class="project-body">There’s a diverse set of lifestyles and diets that are popular now — Keto, Paleo, Vegan, Dairy Free, Weight Loss/Gain, etc. Finding others that are following your same goals is difficult. After looking at the main players in the space, it was clear that no centralized network exists that allows people to discuss and share the best products & foods for their specific lifestyle goal.</p>
+<p class="project-body">There’s a diverse set of lifestyles and diets that are popular now — Keto, Paleo, Vegan, Dairy Free, Weight Loss/Gain, etc. After looking at the main players in the space, it was clear that no network exists that allows people to discuss and discover the best products & foods for their specific lifestyle.</p>
+<p class="project-body">Once I had the list of major pain points, I could begin to ideate ways that we could address them in an elegant way.</p>
+<hr>
+
+<div class="row">
+  <div class="col-sm-6">
+    <h2 class="section-left">Defining Success</h2>
+  </div>
+  <div class="col-sm-6">
+    <p>Before I began the ideation phase for the visual layout of the app, I first defined a north star of success that would guide my design decisions. For Pantry, the major KPI’s that were to be monitored after deployment were:</p>
+    <p style="font-weight: 500;">↗ Increase the number of users that add products to their profile.</p>
+    <p style="font-weight: 500;">↗ Increase the number of followers that each user has.</p>
+    <p style="font-weight: 500;">↗ Increase the number of clicks on the ‘Buy Product’ button.</p>
+    <p style="font-weight: 500;">↗ Increase the number of product groups that users create within their pantry.</p>
+  </div>
+</div>
+
+<hr>
+
+<div class="row">
+  <div class="col-sm-6">
+    <h2 class="section-left">Ideation</h2>
+  </div>
+  <div class="col-sm-6">
+    <p>I took the list of possible features of the app and listed them in out. Then I began to explore different layout variations in a blue-sky approach.</p>
+    <br>
+    <br>
+    <br>
+  </div>
+</div>
+
+![pantry tab bar wireframe](/img/pantrysketch.png)
+
+<br>
+<p class="project-body">I quickly tested out the designs that felt good in a sketch format and refined further until I landed on a layout that felt good enough to proceed creating a high-fidelity prototype with.</p>
 
 <hr>
 
@@ -166,21 +188,25 @@ intro: Pantry is a community for recommending and finding the best foods and sup
   <div class="col-sm-6">
     <div class="col-with-margin">
       <img src="/img/pantrymock1.png" alt="">
+      <div class="caption-centered">'Your Pantry' view</div>
     </div>
   </div>
   <div class="col-sm-6">
     <div class="col-with-margin">
       <img src="/img/pantrymock2.png" alt="">
+      <div class="caption-centered">Product group view</div>
     </div>
   </div>
   <div class="col-sm-6">
     <div class="col-with-margin">
       <img src="/img/pantrymock3.png" alt="">
+      <div class="caption-centered">Product page</div>
     </div>
   </div>
   <div class="col-sm-6">
     <div class="col-with-margin">
       <img src="/img/pantrymock4.png" alt="">
+      <div class="caption-centered">Manually adding a product</div>
     </div>
   </div>
 </div>

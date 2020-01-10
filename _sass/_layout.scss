@@ -54,7 +54,7 @@ p {
 }
 
 p.project-body {
-  max-width: 600px;
+  max-width: 720px;
   margin: 0 auto;
   margin-bottom: 40px;
 }
@@ -485,6 +485,13 @@ h3.about-text {
   margin-bottom: 80px;
   color: $grey-color;
   text-align: left;
+}
+
+.caption-centered  {
+  font-size: 14px;
+  margin-top: 20px;
+  color: $grey-color;
+  text-align: center;
 }
 
 .post-header {
