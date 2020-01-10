@@ -66,7 +66,7 @@ intro: Pantry is a community for recommending and finding the best foods and sup
     <h2 class="section-left">Competitive Analysis</h2>
   </div>
   <div class="col-sm-6">
-    <p>Once I had an idea if the core user base and their goals, I wanted to gain an understanding of the competitive landscape of health-diet apps.  I analyzed the top apps in the space to explore opportunities that might exist.</p>
+    <p>Once I had an idea of the core user base and their goals, I wanted to gain an understanding of the competitive landscape of health-diet apps.  I analyzed the top apps in the space to explore opportunities that might exist.</p>
   </div>
 </div>
 <br>
