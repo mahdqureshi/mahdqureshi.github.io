@@ -72,7 +72,7 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 <br>
 <br>
 
-![pantry compttition](/img/pantry-competition.png)
+![pantry competition](/img/pantry-competition.png)
 <br>
 <br>
 <p class="project-body">There’s a diverse set of lifestyles and diets that are popular now — Keto, Paleo, Vegan, Dairy Free, Weight Loss/Gain, etc. After looking at the main players in the space, it was clear that no network exists that allows people to discuss and discover the best products & foods for their specific lifestyle.</p>
