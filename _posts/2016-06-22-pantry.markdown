@@ -174,9 +174,9 @@ intro: Pantry is a community for recommending and finding the best foods and sup
   </div>
 </div>
 
-![meeting](/img/pantry-palette.png)
+![meeting](/img/components.png)
 
-<div class="caption">Specifying custom color palette for both light and dark mode variants.</div>
+<div class="caption">Specifying components and custom color palette for both light and dark mode variants.</div>
 
 <hr>
 
