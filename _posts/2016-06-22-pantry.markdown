@@ -220,7 +220,7 @@ intro: Pantry is a community for recommending and finding the best foods and sup
     <h2 class="section-left">Future Steps</h2>
   </div>
   <div class="col-sm-6">
-    <p>The next steps would be validating the design by watching the relevant KPI’s. If certain metrics are not where we’d like them to be, I’d continue to refine the design by following a similar process—find the pain points, ideate on solutions, and test with users to validate that the most elegant solution is built.</p>
+    <p>The next steps would be validating the design by monitoring the relevant KPI’s. If certain metrics are not where we’d like them to be, I’d continue to refine the design by following a similar process—find the pain points, ideate on solutions, and test with users to validate that the most elegant solution is built.</p>
     <br>
   </div>
 </div>
