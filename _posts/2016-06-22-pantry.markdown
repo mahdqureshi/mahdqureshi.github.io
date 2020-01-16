@@ -110,6 +110,15 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 
 <br>
 <p class="project-body">I quickly tested out the designs that felt good in a sketch format and refined further until I landed on a layout that felt good enough to proceed creating a high-fidelity prototype with.</p>
+<br>
+<br>
+
+![pantry tab bar wireframe](/img/pantry-ia.png)
+<br>
+<br>
+
+<div class="caption">Mapping the app flow.</div>
+
 
 <hr>
 
@@ -127,9 +136,12 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 </div>
 
 <br>
+<br>
+<br>
 
 ![pantry tab bar wireframe](/img/pantrytabwire.png)
-
+<br>
+<br>
 <br>
 
 <p class="project-body">When I tested this design with users, a major pain point was discovered. The differentiation between the purpose of ‘favorites’ and ‘your pantry’ wasn’t clear. Users didn’t know when to add a product to which. I had to clarify what the purpose of each action was.</p>
@@ -153,13 +165,6 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 
 <br>
 <p class="project-body">When I tested this variant, it out-performed all the others. There was less friction since the user only has one option — adding a product to their pantry. From there, they quickly understood what ‘Wish List’ was and how it was different than the other groups.</p>
-<hr>
-
-
-![sketch](/img/pantry-signflow.jpg)
-
-<div class="caption">Mapping the sign up flow.</div>
-
 <hr>
 
 <br/>
