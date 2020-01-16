@@ -117,7 +117,7 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 <br>
 <br>
 
-<div class="caption">Mapping the app flow.</div>
+<div class="caption">Mapping the high-level user flows.</div>
 
 
 <hr>
