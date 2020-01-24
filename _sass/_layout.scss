@@ -415,6 +415,7 @@ h3.about-text {
   opacity: 0;
   justify-content: center;
   padding: 34px;
+  backdrop-filter: blur(4px);
   &:hover {
     opacity: .92;
     transition: .2s ease-out;
