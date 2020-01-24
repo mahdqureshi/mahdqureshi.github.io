@@ -219,6 +219,7 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 <br>
 
 <hr>
+<!--
 
 <div class="row">
   <div class="col-sm-6">
@@ -230,7 +231,6 @@ intro: Pantry is a community for recommending and finding the best foods and sup
   </div>
 </div>
 
-<!--
 
 ![apps](/img/podium-apps.png)
 
