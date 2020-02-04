@@ -4,7 +4,7 @@ title:  "Pantry"
 date:   2019-06-21 18:32:32 -0400
 categories: jekyll update
 img: pantry.png
-color: "linear-gradient(45deg, rgb(117, 143, 255) 15%, rgba(255,234,167,1) 100%)"
+color: "linear-gradient(45deg, rgb(35, 100, 202) 15%, rgba(255,234,167,1) 100%)"
 text-color: "#FFFEAF"
 role: Product Designer
 intro: Pantry is a community for recommending and finding the best foods and supplements that fit your lifestyle goals. As Product Designer, I was responsible for designing the mobile apps and branding.
