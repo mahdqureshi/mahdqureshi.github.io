@@ -11,7 +11,7 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 
 ---
 
-![head landing](/img/pantry-header.png)
+![head landing](/img/pantry-header.jpg)
 
 <hr>
 
@@ -60,7 +60,7 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 
 <hr>
 
-
+<!--
 <div class="row">
   <div class="col-sm-6">
     <h2 class="section-left">Competitive Analysis</h2>
@@ -105,6 +105,7 @@ intro: Pantry is a community for recommending and finding the best foods and sup
     <br>
   </div>
 </div>
+-->
 
 ![pantry tab bar wireframe](/img/pantrysketch.png)
 
@@ -122,6 +123,7 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 
 <hr>
 
+<!--
 <div class="row">
   <div class="col-sm-6">
     <h2 class="section-left">Refinement</h2>
@@ -147,7 +149,7 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 <p class="project-body">When I tested this design with users, a major pain point was discovered. The differentiation between the purpose of ‘favorites’ and ‘your pantry’ wasn’t clear. Users didn’t know when to add a product to which. I had to clarify what the purpose of each action was.</p>
 
 
-<p class="project-body">‘Your Pantry’ was designed to house products that you currently use, while ‘Favorites’ was for products that you’d like to use in the future. After making this distinction, it was clear that ‘Favorites’ was a sub-optimal name for a food/supplement you’ve never used. ‘Wish list’ made more sense in our case.</p>
+<p class="project-body">‘Your Pantry’ was designed to house products that you currently use, while ‘Favorites’ was for products that you’d like to use in the future. After making this distinction, it was clear that ‘Favorites’ wasn't an optimal name for a product you’ve never used. ‘Wish list’ made more sense in our case.</p>
 
 
 <p class="project-body">I tested a version with ‘Wish List’ and while it performed better, users were still confused on when to add a product to their pantry vs to the wish list. I had to rethink the entire information architecture of the app.</p>
@@ -168,6 +170,7 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 <hr>
 
 <br/>
+--> 
 
 <div class="row">
   <div class="col-sm-6">
@@ -218,7 +221,6 @@ intro: Pantry is a community for recommending and finding the best foods and sup
 
 <br>
 
-<hr>
 <!--
 
 <div class="row">
