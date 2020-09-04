@@ -361,28 +361,6 @@ h3.about-text {
     float: right;
 }
 
-
-.prev:before {
-    font-family: FontAwesome;
-    content: "\f053";
-    font-size: 12px;
-    right: 8px;
-    top: -1px;
-    position: relative;
-    color: $grey-color-dark;
-}
-
-.next:after {
-    font-family: FontAwesome;
-    content: "\f054";
-    font-size: 12px;
-    left: 8px;
-    top: -1px;
-    display: inline-block;
-    position: relative;
-    color: $grey-color-dark;
-}
-
 /**
  * Page content
  */
