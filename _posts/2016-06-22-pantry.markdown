@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ["Pantry"](http://yourpantryapp.com)
+title:  "Pantry"
 date:   2019-06-21 18:32:32 -0400
 categories: jekyll update
 img: pantry.png
