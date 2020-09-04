@@ -8,6 +8,7 @@ color: "linear-gradient(45deg, rgb(79 80 88) 15%, rgb(0 19 49) 100%)"
 text-color: "white"
 role: Product Designer
 intro: Pantry is a community for recommending and finding the best foods and supplements that fit your lifestyle goals. As Product Designer, I was responsible for designing the mobile apps and branding.
+[Visit Site](https://www.yourpantryapp.com)
 
 ---
 
