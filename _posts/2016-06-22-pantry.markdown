@@ -12,9 +12,6 @@ link: "http://yourpantryapp.com"
 
 ---
 
-<a class="btn" href="http://yourpantryapp.com">Visit site</a>
-
-
 ![head landing](/img/pantry-header.jpg)
 
 <hr>
