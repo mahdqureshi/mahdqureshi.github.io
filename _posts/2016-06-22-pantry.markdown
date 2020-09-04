@@ -9,9 +9,6 @@ text-color: "white"
 role: Product Designer
 intro: Pantry is a community for recommending and finding the best foods and supplements that fit your lifestyle goals. As Product Designer, I was responsible for designing the mobile apps and branding.
 
-<a class="btn" href="http://yourpantryapp.com">Visit site</a>
-
-
 ---
 
 ![head landing](/img/pantry-header.jpg)
