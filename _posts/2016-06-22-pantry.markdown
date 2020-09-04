@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pantry"
+title:  https://en.wikipedia.org/wiki/Alexander_Hamilton
 date:   2019-06-21 18:32:32 -0400
 categories: jekyll update
 img: pantry.png
