@@ -203,7 +203,7 @@ link: "http://yourpantryapp.com"
   <div class="col-sm-6">
     <div class="col-with-margin">
       <img src="/img/pantrymock2.png" alt="">
-      <div class="caption-centered">Product group view</div>
+      <div class="caption-centered">Group view</div>
     </div>
   </div>
   <div class="col-sm-6">
@@ -215,7 +215,7 @@ link: "http://yourpantryapp.com"
   <div class="col-sm-6">
     <div class="col-with-margin">
       <img src="/img/pantrymock4.png" alt="">
-      <div class="caption-centered">Manually adding a product</div>
+      <div class="caption-centered">Home view</div>
     </div>
   </div>
 </div>
