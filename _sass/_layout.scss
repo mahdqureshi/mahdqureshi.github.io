@@ -101,11 +101,20 @@ h1.tagline {
 
 .work a {
   border-bottom-style: dotted;
+  border-bottom-width: 1px;
 }
 
 .work a:hover {
   border-bottom-style: solid;
   text-decoration: none;
+}
+
+.work ul {
+  margin-left: 16px;
+}
+
+.work li {
+  line-height: 1.8em;
 }
 
 .site-nav {
@@ -304,6 +313,14 @@ h1.tagline {
         width:         calc(100% - (#{$spacing-unit} / 2));
         text-align: center;
     }
+}
+
+.divider {
+  height: 1px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 0px;
+  background-color: rgba(0, 0, 0, 0.08);
 }
 
 //About Page
