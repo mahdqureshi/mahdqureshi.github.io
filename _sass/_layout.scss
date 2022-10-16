@@ -97,6 +97,9 @@ h1.tagline {
 .work {
   font-family: 'Newsreader', serif;
   margin-bottom: 100px;
+  @include media-query($on-palm) {
+    margin-bottom: 20px;
+  }
 }
 
 .work a {
@@ -311,7 +314,6 @@ h1.tagline {
         float: none;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
-        text-align: center;
     }
 }
 
