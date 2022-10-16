@@ -1,0 +1,69 @@
+I"�<p><img src="/img/podium-hero.png" alt="head landing" /></p>
+
+<hr />
+
+<div class="row">
+  <div class="col-sm-6">
+    <h2 class="section-left">Background</h2>
+  </div>
+  <div class="col-sm-6">
+  <p>While there are many great tools that ease the friction that comes with communicating with a remote team, there aren’t many that help you to collaborate. Video conferencing tools like Hangouts, Zoom, etc., allow you share control of your mouse with attendees—but the constant back and forth of control inhibits the work getting done.</p>
+
+  <p>The value proposition of Podium was to give remote team the ability to get things tasks done in the apps they already use.</p>
+  </div>
+</div>
+
+<hr />
+
+<p>The main view of the app is the meeting page—where members can collaborate together on any app at the same time. It was very important to get this core screen right.</p>
+
+<p><br /></p>
+
+<p><img src="/img/podium-sketch.png" alt="sketch" /></p>
+
+<div class="caption">Early sketches exploring the pros and cons of different layouts of the meeting page.</div>
+
+<p><br /></p>
+
+<p><img src="/img/podium-meeting.png" alt="meeting" /></p>
+
+<div class="caption">The final meeting page.</div>
+
+<p><img src="/img/podium-apps.png" alt="apps" /></p>
+
+<div class="caption">The team can install the apps that they use frequently.</div>
+
+<hr />
+
+<h2 id="consistency">Consistency</h2>
+
+<p>I created a component style library to establish consistency throughout the design. This made it easier for engineering and design to focus on building and solving problems rather than constantly reinventing the wheel.</p>
+
+<p><br /></p>
+
+<p><img src="/img/podium-style.png" alt="style guide" /></p>
+
+<hr />
+
+<h2 id="landing-page">Landing page</h2>
+
+<p><img src="/img/podium-landing.png" alt="podium landing" /></p>
+
+<p>Landing page where users can sign up for early access.</p>
+
+<hr />
+
+<h2 id="branding">Branding</h2>
+
+<p><img src="/img/podium-logo-wire.gif" alt="podium wireframe" /></p>
+
+<div class="caption">The brand glyph</div>
+
+<p><img src="/img/podium-wordmark-weights.png" alt="podium wordmark" /></p>
+
+<div class="caption">Weight explorations</div>
+
+<p><img src="/img/podium-wordmark.png" alt="podium wordmark" /></p>
+
+<div class="caption">Final glyph &amp; wordmark</div>
+:ET
