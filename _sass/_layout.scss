@@ -383,7 +383,7 @@ h3.about-text {
     border: 1px solid $grey-color-ultralight;
     border-radius: 5px;
     padding: 10px 14px;
-    font-weight: bold;
+    font-weight: 500;
     color: $grey-color-dark;
     text-decoration: none;
     &:hover {
@@ -420,7 +420,7 @@ h3.about-text {
 }
 
 .post-meta {
-    font-size: 15px;
+    font-size: 14px;
     color: $grey-color-light;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -429,7 +429,7 @@ h3.about-text {
 
 .post-intro {
   line-height: 1.5;
-  font-size: 22px;
+  font-size: 20px;
 }
 
 .post-link {
@@ -492,7 +492,7 @@ h3.about-text {
     }
 
     h2.section-left {
-      font-size: 34px;
+      font-size: 28px;
       margin: 0;
       line-height: 1;
 
