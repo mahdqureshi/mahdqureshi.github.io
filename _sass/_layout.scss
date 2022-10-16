@@ -9,8 +9,7 @@
     }
 
     .site-title {
-        font-size: 22px;
-        font-weight: 500;
+        font-size:  18px;
         line-height: 56px;
         margin-top: 30px;
         margin-bottom: 0;
@@ -238,10 +237,6 @@ h1.tagline {
     padding: $spacing-unit 0;
 }
 
-.site-footer a {
-  color: $grey-color-light;
-}
-
 .footer-heading {
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
@@ -252,6 +247,12 @@ h1.tagline {
     list-style: none;
     margin-left: 0;
 }
+
+
+.social-media-list a {
+  margin: 0 24px 1em 0;
+}
+
 
 .footer-col-wrapper {
     font-size: 15px;
@@ -303,10 +304,6 @@ h1.tagline {
         width:         calc(100% - (#{$spacing-unit} / 2));
         text-align: center;
     }
-}
-
-.social-link:hover {
-  text-decoration: none;
 }
 
 //About Page
