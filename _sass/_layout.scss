@@ -465,11 +465,11 @@ h3.about-text {
 }
 
 .post-title {
-    font-size: 32px;
+    font-size: 48px;
     line-height: 1;
-    font-weight: 700;
+    font-weight: 500;
     letter-spacing: -1px;
-    color: text-color;
+    font-family: newsreader;
 
     @include media-query($on-palm) {
         font-size: 36px;
