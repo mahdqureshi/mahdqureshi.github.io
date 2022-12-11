@@ -17,10 +17,10 @@ intro: Pantry is a platform for nutritionists to meet and manage clients in one 
 
 <div class="row">
   <div class="col-sm-6">
-    <h2 class="section-left">Overview</h2>
+    <h2 class="section-left">Background</h2>
   </div>
   <div class="col-sm-6">
-  <p>Pantry is a platform for nutritionists to meet and manage clients in one place—with meal plans, 1-on-1 coaching, recipe discovery, and more. I led the end-to-end interaction design.</p>
+  <p>Once of the main problems facing nutritionists is managing their clients. Almost all still manage them via creating PDF meal plans and sending them via email or text message. There was also a lack of network effects.</p>
   </div>
 </div>
 
@@ -112,8 +112,13 @@ intro: Pantry is a platform for nutritionists to meet and manage clients in one 
 </div>
 -->
 
+
+
 <br>
-<p class="project-body">Initially, when adding a meal to a meal plan, it would then automatically appear on the nutritionists ‘Recipes’ page. But after testing, it became clear that many meals weren’t necessarily ‘recipes’. Often, they consisted of only ingredients—like a cup of almonds.</p>
+
+# What's a Meal? 
+
+<p class="project-body">Initially, when adding a meal to a meal plan, it would then automatically appear on the nutritionists ‘Recipes’ page. But after testing, it became clear that many meals weren’t necessarily ‘recipes’. Often, they consisted of solely ingredients—like a cup of almonds.</p>
 
 <p class="project-body">After further testing, I decided that only meals with instructions and a how-to video should appear on the nutritionists recipes page. Simple, ingredient-only meals would be contained within the meal plan.</p>
 <br>
@@ -128,9 +133,6 @@ intro: Pantry is a platform for nutritionists to meet and manage clients in one 
 
 ![pantry tab bar wireframe](/img/pantry_components.png)
 <div class="caption">Specifying component states.</div>
-
-
-<hr>
 
 <!--
 <div class="row">
@@ -205,6 +207,8 @@ intro: Pantry is a platform for nutritionists to meet and manage clients in one 
     </div>
   </div>
 </div>
+
+![pantry beta landing](/img/pantry_landing.png)
 
 <br>
 
