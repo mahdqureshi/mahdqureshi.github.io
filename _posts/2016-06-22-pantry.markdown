@@ -21,11 +21,13 @@ link: "http://browsepantry.com/"
     <h2 class="section-left">Overview</h2>
   </div>
   <div class="col-sm-6">
-  <p>Pantry is an app that let’s users discover products and foods that others with the same lifestyle or health goals as them are consuming. I was brought on in the early stages of the project when the team had a basic idea of the features the app should have. I fleshed out the UX and interaction design including prototype development and user testing.</p>
+  <p>Pantry is a platform for nutritionists to meet and manage clients in one place—with meal plans, 1-on-1 coaching, recipe discovery, and more. I led the end-to-end interaction design.</p>
   </div>
 </div>
 
 <hr>
+
+<!--
 
 <div class="row">
   <div class="col-sm-6">
@@ -60,6 +62,9 @@ link: "http://browsepantry.com/"
 </div>
 
 <hr>
+
+-->
+
 
 <!--
 <div class="row">
@@ -115,11 +120,18 @@ link: "http://browsepantry.com/"
 <br>
 <br>
 
-![pantry tab bar wireframe](/img/pantry-ia.png)
+![pantry tab bar wireframe](/img/pantry_flowmap.png)
 <br>
 <br>
 
-<div class="caption">Mapping the high-level user flows.</div>
+<div class="caption">Mapping the logic of how the ‘Ingredient Only Meal’ should be handled. This helped myself and our developers think though the different states of the flow.</div>
+
+
+![pantry tab bar wireframe](/img/pantry_components.png)
+<br>
+<br>
+
+<div class="caption">Specifying each possible design state at the component level.</div>
 
 
 <hr>
