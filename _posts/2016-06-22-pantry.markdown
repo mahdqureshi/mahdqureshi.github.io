@@ -118,10 +118,8 @@ intro: Pantry is a modern platform for food creatives and nutritionists. Allowin
 
 # Problem Snippet: What's a Meal? 
 
-<p class="project-body">Amongst the many questions that arose, an example of one was: How do we define a meal? 
-<br>
-Initially, when adding a meal to a meal plan, it would then automatically appear on the nutritionists ‘Recipes’ page. But after testing, it became clear that many meals weren’t necessarily ‘recipes’. Often, they consisted of solely ingredients—like a cup of almonds.</p>
-
+<p class="project-body">Amongst the many questions that arose, an example of one was: How do we define a meal?</p>
+<p class="project-body">Initially, when adding a meal to a meal plan, it would then automatically appear on the nutritionists ‘Recipes’ page. But after testing, it became clear that many meals weren’t necessarily ‘recipes’. Often, they consisted of solely ingredients—like a cup of almonds.</p>
 <p class="project-body">After further testing, I decided that only meals with instructions and a how-to video should appear on the nutritionists recipes page. Simple, ingredient-only meals would be contained within the meal plan.</p>
 <br>
 <br>
