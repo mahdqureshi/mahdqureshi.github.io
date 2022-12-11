@@ -550,7 +550,7 @@ h3.about-text {
 
 hr {
   border: 0;
-  border-bottom: 1px solid $grey-color-ultralight;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.16);
   margin: 100px auto;
   width: 300px;
   @include media-query($on-palm) {
