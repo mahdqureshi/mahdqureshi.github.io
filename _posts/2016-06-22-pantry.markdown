@@ -115,7 +115,7 @@ intro: Pantry is a platform for nutritionists to meet and manage clients in one 
 ![pantry tab bar wireframe](/img/pantrysketch.png)
 
 <br>
-<p class="project-body">I quickly tested out the designs that felt good in a sketch format and refined further until I landed on a layout that felt good enough to proceed creating a high-fidelity prototype with.</p>
+<p class="project-body">Initially, when adding a meal to a meal plan, the meal would automatically appear on the coaches ‘Recipes’ page. But after testing, it became clear that many meals in a plan weren’t necessarily ‘recipes’. Many consisted of just ingredients—like A Cup of Almonds. After further testing, I decided that it wasn’t valuable for the coaches recipes page be filled with these 'Simple Meals' posing as ‘Recipes’. Only meals with instructions and a video would appear there.</p>
 <br>
 <br>
 
@@ -124,16 +124,14 @@ intro: Pantry is a platform for nutritionists to meet and manage clients in one 
 <br>
 
 
-<p class="project-body">Initially, when adding a meal to a meal plan, the meal would automatically appear on the coaches ‘Recipes’ page. But after testing, it became clear that many meals in a plan weren’t necessarily ‘recipes’. Many consisted of just ingredients—like A Cup of Almonds. After further testing, I decided that it wasn’t valuable for the coaches recipes page be filled with these 'Simple Meals' posing as ‘Recipes’. Only meals with instructions and a video would appear there.</p>
 
 <div class="caption">Mapping the logic of how the ‘Ingredient Only Meal’ should be handled. This helped myself and our developers think though the different states of the flow.</div>
 
+<img class="bigimg" src="/img/pantry_flowmap.png" alt="pantry tab bar wireframe">
+
 
 ![pantry tab bar wireframe](/img/pantry_components.png)
-<br>
-<br>
-
-<div class="caption">Specifying each possible design state at the component level.</div>
+<div class="caption">Specifying component states.</div>
 
 
 <hr>
