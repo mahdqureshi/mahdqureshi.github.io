@@ -129,6 +129,7 @@ intro: Pantry is a modern platform for food creatives and nutritionists. Allowin
 <div class="caption">Mapping the logic of how the ‘Ingredient Only Meal’ should be handled. This helped myself and our developers think though the different possible states of the flow.</div>
 
 
+<hr>
 
 
 ![pantry tab bar wireframe](/img/pantry_components.png)
