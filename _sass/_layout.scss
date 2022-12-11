@@ -533,7 +533,7 @@ h3.about-text {
 
 .col-with-margin {
   margin-bottom: 14px;
-  padding: 2;
+  padding: 2px;
   @include media-query($on-palm) {
       padding: 0;
   }
