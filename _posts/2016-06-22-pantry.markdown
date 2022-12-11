@@ -190,43 +190,26 @@ intro: Pantry is a platform for nutritionists to meet and manage clients in one 
 
 # High-fidelity
 
-![highfidel](/img/pantry-hq.png)
-
 
 <br>
 
-<!--
 
 <div class="row">
   <div class="col-sm-6">
     <div class="col-with-margin">
-      <img src="/img/pantrymock4.png" alt="">
-      <div class="caption-centered">Home view</div>
+      <img src="/img/home-view.png" alt="">
+      <div class="caption-centered">Home Feed</div>
     </div>
   </div>
   <div class="col-sm-6">
     <div class="col-with-margin">
-      <img src="/img/pantrymock2.png" alt="">
-      <div class="caption-centered">Group view</div>
-    </div>
-  </div>
-  <div class="col-sm-6">
-    <div class="col-with-margin">
-      <img src="/img/pantrymock3.png" alt="">
-      <div class="caption-centered">Product page</div>
-    </div>
-  </div>
-  <div class="col-sm-6">
-    <div class="col-with-margin">
-      <img src="/img/pantrymock1.png" alt="">
-      <div class="caption-centered">'Your Pantry' view</div>
+      <img src="/img/profile-view.png" alt="">
+      <div class="caption-centered">Nutritionists Profile</div>
     </div>
   </div>
 </div>
 
 <br>
-
--->
 
 <!--
 
