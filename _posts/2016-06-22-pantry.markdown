@@ -7,7 +7,7 @@ img: pantry.png
 color: "linear-gradient(45deg, rgb(255 255 255) 15%, rgb(222 235 255) 100%)"
 text-color: "#1849CC"
 role: Product Designer
-intro: Pantry is a platform for nutritionists to meet and manage clients in one place—with meal plans, 1-on-1 coaching, recipe discovery, and more. I led the end-to-end interaction design.
+intro: Pantry is a modern platform for food creatives and nutritionists. Allowing them to meet and manage clients all in one place—with meal plans, 1-on-1 coaching, recipe discovery, and more. I led the end-to-end design for the platform.
 
 ---
 
@@ -20,7 +20,7 @@ intro: Pantry is a platform for nutritionists to meet and manage clients in one 
     <h2 class="section-left">Background</h2>
   </div>
   <div class="col-sm-6">
-  <p>Once of the main problems facing nutritionists is managing their clients. Almost all still manage them via creating PDF meal plans and sending them via email or text message. There was also a lack of network effects.</p>
+  <p>Once of the main problems facing nutritionists is finding and managing clients. The ecosystem is still driven by word of mouth and meal plans are still sent as PDFs through email. Coaching is then done through text messaging. Platforms like Kajabi clearly weren't geared towards food and nutrition creators.</p>
   </div>
 </div>
 
@@ -116,7 +116,7 @@ intro: Pantry is a platform for nutritionists to meet and manage clients in one 
 
 <br>
 
-# What's a Meal? 
+# Problem Snippet: What's a Meal? 
 
 <p class="project-body">Initially, when adding a meal to a meal plan, it would then automatically appear on the nutritionists ‘Recipes’ page. But after testing, it became clear that many meals weren’t necessarily ‘recipes’. Often, they consisted of solely ingredients—like a cup of almonds.</p>
 
