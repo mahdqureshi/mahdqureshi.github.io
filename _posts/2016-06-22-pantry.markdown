@@ -113,9 +113,9 @@ intro: Pantry is a platform for nutritionists to meet and manage clients in one 
 -->
 
 <br>
-<p class="project-body">Initially, when adding a meal to a meal plan, the meal would automatically appear on the nutritionists ‘Recipes’ page. But after testing, it became clear that many meals weren’t necessarily ‘recipes’. Often, they consisted of only ingredients—like a cup of almonds.</p>
+<p class="project-body">Initially, when adding a meal to a meal plan, it would then automatically appear on the nutritionists ‘Recipes’ page. But after testing, it became clear that many meals weren’t necessarily ‘recipes’. Often, they consisted of only ingredients—like a cup of almonds.</p>
 
-<p class="project-body">After further testing, I decided that it wasn’t valuable for the recipes page to be populated with these 'Simple Meals' posing as ‘Recipes’. So I decided that only meals with instructions and a how-to video would appear there.</p>
+<p class="project-body">After further testing, I decided that only meals with instructions and a how-to video should appear on the nutritionists recipes page. Simple, ingredient-only meals would be contained within the meal plan.</p>
 <br>
 <br>
 
@@ -197,6 +197,8 @@ intro: Pantry is a platform for nutritionists to meet and manage clients in one 
 
 <hr>
 
+<!--
+
 # High-fidelity
 
 <br>
@@ -229,6 +231,8 @@ intro: Pantry is a platform for nutritionists to meet and manage clients in one 
 </div>
 
 <br>
+
+-->
 
 <!--
 
