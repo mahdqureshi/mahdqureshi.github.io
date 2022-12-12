@@ -20,7 +20,7 @@ intro: Pantry is a modern platform for food creatives and nutritionists. Allowin
     <h2 class="section-left">Background</h2>
   </div>
   <div class="col-sm-8">
-  <p>Once of the main problems facing nutritionists is finding and managing clients. The ecosystem is still driven by word of mouth and meal plans are still sent as PDFs through email. Coaching is then done through text messaging. Platforms like Kajabi clearly weren't geared towards food and nutrition creators.</p>
+  <p>A major problem facing creators and nutritionists is finding and managing clients. The ecosystem is still driven by word of mouth, with meal plans still being sent as PDFs through email. Coaching is often done through text messaging. Platforms like Kajabi clearly weren't solving the problem.</p>
   </div>
 </div>
 
@@ -116,7 +116,7 @@ intro: Pantry is a modern platform for food creatives and nutritionists. Allowin
 
 <br>
 
-# Problem Snippet: Meal vs Recipe? 
+# Problem Snippet: Meal vs Recipe
 
 <p class="project-body">One of the many questions that arose during the design was: How do we define a meal vs a recipe?</p>
 <p class="project-body">Initially, when adding a meal to a meal plan, it would then automatically appear on the creators ‘Recipes’ view. But after testing, it became clear that many meals weren’t necessarily ‘recipes’. Often, they consisted of solely ingredients—like a cup of almonds.</p>
@@ -126,7 +126,7 @@ intro: Pantry is a modern platform for food creatives and nutritionists. Allowin
 
 ![pantry tab bar wireframe](/img/pantry_flowmap.png)
 <br>
-<div class="caption">Mapping the logic of how the ‘Ingredient Only Meal’ should be handled. This helped myself and our developers think though the different possible states of the flow.</div>
+<div class="caption">Mapping out the logic of adding the ‘Ingredient Only Meal’.</div>
 
 
 <hr>
