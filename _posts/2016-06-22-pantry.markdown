@@ -123,7 +123,7 @@ intro: Pantry is a modern platform for food creatives and nutritionists. Allowin
 <p class="project-body">One of the many questions that arose during the design was: How do we define a meal vs a recipe?</p>
 <p class="project-body">Initially, when creating a meal for a meal plan, it would also automatically appear on the creators ‘Recipes’ view. These recipes would also be discoverable on the home feed.</p>
 
-![pantry recipes view](/img/recipes_profile.png)
+![pantry recipes view](/img/profile_view.png)
 
 <p class="project-body">After testing, I discovered that many meals weren’t necessarily ‘recipes’. Often, they consisted of solely ingredients—like a cup of almonds. After iterating on different solutions, I landed on treating only meals with instructions as a recipe. Simple, ingredient-only meals would be contained within the meal plan.</p>
 <br>
@@ -138,7 +138,9 @@ intro: Pantry is a modern platform for food creatives and nutritionists. Allowin
 <p class="project-body">Specifying component states for engineering.</p>
 
 ![pantry tab bar wireframe](/img/nav-menu.png)
+<br>
 ![pantry tab bar wireframe](/img/payouts.png)
+<br>
 ![pantry tab bar wireframe](/img/subscriptions.png)
 
 <!--
