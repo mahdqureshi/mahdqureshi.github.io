@@ -20,7 +20,9 @@ intro: Pantry is a modern platform for food creatives and nutritionists. Allowin
     <h2 class="section-left">Background</h2>
   </div>
   <div class="col-sm-8">
-  <p>A major problem facing creators and nutritionists is finding and managing clients. The ecosystem is still driven by word of mouth, with meal plans still being sent as PDFs through email. Coaching is often done through text messaging. Platforms like Kajabi clearly weren't solving the problem.</p>
+  <p>A major problem facing food creators and nutrition coaches: Client management hasn’t adapted along with technology. Most creators still design meal plans in Google Docs, which are then emailed to clients as PDFs. Then ‘coaching’ is done through personal text-messaging, which disrupts the coaches work-life balance and lacks a community feel.</p>
+  <br>
+  <p>I led the end-to-end design work, from conducting user research with creators and clients, to working with engineering on a component based implementation. My north star was “How can we design a Substack/Kajabi for food and wellness creators?”</p>
   </div>
 </div>
 
@@ -119,21 +121,25 @@ intro: Pantry is a modern platform for food creatives and nutritionists. Allowin
 # Problem Snippet: Meal vs Recipe
 
 <p class="project-body">One of the many questions that arose during the design was: How do we define a meal vs a recipe?</p>
-<p class="project-body">Initially, when adding a meal to a meal plan, it would then automatically appear on the creators ‘Recipes’ view. But after testing, it became clear that many meals weren’t necessarily ‘recipes’. Often, they consisted of solely ingredients—like a cup of almonds.</p>
-<p class="project-body">After testing multiple options, I decided that only meals with instructions and a how-to video should appear on the creators recipes view. Simple, ingredient-only meals would be contained within the meal plan.</p>
+<p class="project-body">Initially, when creating a meal for a meal plan, it would also automatically appear on the creators ‘Recipes’ view. These recipes would also be discoverable on the home feed.</p>
+
+![pantry recipes view](/img/recipes_profile.png)
+
+<p class="project-body">After testing, I discovered that many meals weren’t necessarily ‘recipes’. Often, they consisted of solely ingredients—like a cup of almonds. After iterating on different solutions, I landed on treating only meals with instructions as a recipe. Simple, ingredient-only meals would be contained within the meal plan.</p>
 <br>
 <br>
 
 ![pantry tab bar wireframe](/img/pantry_flowmap.png)
 <br>
-<div class="caption">Mapping out the logic of adding the ‘Ingredient Only Meal’.</div>
-
+<div class="caption">Mapping out the logic of a user adding the ‘Ingredient Only Meal’.</div>
 
 <hr>
 
+<p class="project-body">Specifying component states for engineering.</p>
 
-![pantry tab bar wireframe](/img/pantry_components.png)
-<div class="caption">Specifying component states.</div>
+![pantry tab bar wireframe](/img/nav-menu.png)
+![pantry tab bar wireframe](/img/payouts.png)
+![pantry tab bar wireframe](/img/subscriptions.png)
 
 <!--
 <div class="row">
