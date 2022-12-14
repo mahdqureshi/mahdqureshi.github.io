@@ -557,3 +557,10 @@ hr {
       width: 90%;
   }
 }
+
+.mobile-break {
+  display: none;
+  @include media-query($on-palm) {
+    display: block;
+}
+}
