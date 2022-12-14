@@ -453,11 +453,11 @@ h3.about-text {
 
 .caption-centered  {
   font-size: 14px;
-  margin-bottom: 16px;
+  margin-bottom: 8px;
   color: $grey-color;
   text-align: center;
   @include media-query($on-palm) {
-      margin-bottom: 40px;
+      margin-top: 32px;
   }
 }
 
