@@ -125,27 +125,28 @@ intro: Pantry is a modern platform for food creatives and nutritionists. Allowin
 
 ![pantry recipes view](/img/recipes-view.png)
 
-<p class="project-body">After testing, I discovered that many meals weren’t necessarily ‘recipes’. Often, they consisted of solely ingredients—like a cup of almonds. After iterating on different solutions, I landed on treating only meals with instructions as a recipe. Simple, ingredient-only meals would be contained within the meal plan.</p>
+<p class="project-body">After prototyping, I discovered that many meals weren’t necessarily ‘recipes’. Often, they consisted of solely ingredients—like a cup of almonds. After iterating on different solutions, I landed on treating only meals with instructions as a recipe. Simple, ingredient-only meals would be contained within the meal plan.</p>
 <br>
 <br>
 
+<div class="caption-centered">Mapping out the logic of a user adding the ‘Ingredient Only Meal’.</div>
 ![pantry tab bar wireframe](/img/pantry_flowmap.png)
-<br>
-<div class="caption">Mapping out the logic of a user adding the ‘Ingredient Only Meal’.</div>
+
 
 <hr>
 
-<p class="project-body">Specifying component states for engineering.</p>
-
-![pantry tab bar wireframe](/img/nav-menu.png)
-
-<br>
+<p class="project-body">Specifying components and their states for engineering.</p>
 
 ![pantry tab bar wireframe](/img/payouts.png)
 
 <br>
 
 ![pantry tab bar wireframe](/img/subscriptions.png)
+
+<br>
+
+![pantry tab bar wireframe](/img/nav-menu.png)
+
 
 <!--
 <div class="row">
