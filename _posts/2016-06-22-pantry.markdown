@@ -214,7 +214,7 @@ intro: Pantry is a modern platform for food creatives and nutritionists. Allowin
       <img src="/img/home-view.png" alt="">
     </div>
   </div>
-  <br classs="mobile-break">
+  <br class="mobile-break">
   <div class="col-sm-6">
     <div class="col-with-margin">
       <div class="caption-centered">Nutritionists Profile</div>
