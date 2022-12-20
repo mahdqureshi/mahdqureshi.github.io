@@ -78,11 +78,11 @@ h1.tagline {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   @include media-query($on-laptop) {
-    font-size: 56px;
+    font-size: 42px;
     letter-spacing: -1px;
   }
   @include media-query($on-palm) {
-    font-size: 40px;
+    font-size: 38px;
     letter-spacing: -1px;
   }
 }
