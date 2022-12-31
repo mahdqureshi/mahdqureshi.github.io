@@ -141,10 +141,6 @@ intro: Pantry is a modern platform for food creatives and nutritionists. Allowin
 
 <br>
 
-![pantry tab bar wireframe](/img/subscriptions.png)
-
-<br>
-
 ![pantry tab bar wireframe](/img/nav-menu.png)
 
 
