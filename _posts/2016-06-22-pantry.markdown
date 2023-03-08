@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Pantry"
+title:  "Macros"
 date:   2019-06-21 18:32:32 -0400
 categories: jekyll update
-img: pantry.png
+img: macros.png
 color: "linear-gradient(45deg, rgb(255 255 255) 15%, rgb(222 235 255) 100%)"
 text-color: "#1849CC"
 role: Product Designer
-intro: Pantry is a modern platform for food creatives and nutritionists. Allowing them to meet and manage clients all in one place—with meal plans, 1-on-1 coaching, recipe discovery, and more. I led the end-to-end design for the platform.
+intro: Macros is a modern platform for food creatives and nutritionists. Allowing them to meet and manage clients all in one place—with meal plans, 1-on-1 coaching, recipe discovery, and more. I led the end-to-end design for the platform.
 
 ---
 
-![head landing](/img/pantry-header.jpg)
+![head landing](/img/macros-header.jpg)
 
 <hr>
 
@@ -119,17 +119,14 @@ intro: Pantry is a modern platform for food creatives and nutritionists. Allowin
 <br>
 
 <div class="caption-centered">Mapping out the logic of a user adding the ‘Ingredient Only Meal’.</div>
-![pantry tab bar wireframe](/img/pantry_flowmap.png)
+![macros tab bar wireframe](/img/pantry_flowmap.png)
 
 <hr>
 
 <p class="project-body">Specifying components and their states for engineering.</p>
 
-![pantry tab bar wireframe](/img/payouts.png)
 
-<br>
-
-![pantry tab bar wireframe](/img/nav-menu.png)
+![macros tab bar wireframe](/img/nav-menu.png)
 
 
 <!--
@@ -138,9 +135,9 @@ intro: Pantry is a modern platform for food creatives and nutritionists. Allowin
     <h2 class="section-left">Refinement</h2>
   </div>
   <div class="col-sm-6">
-    <p>The Pantry app lets users add a product to their ‘Pantry’. Other users can follow you and view your ‘Pantry’ to see which foods and products you are using—like a Pinterest board for foods and supplements.</p>
+    <p>The Pantry app lets users add a product to their ‘Macros’. Other users can follow you and view your ‘Macros’ to see which foods and products you are using—like a Pinterest board for foods and supplements.</p>
     <p>Initially the app had two main actions a user could take on a product.</p>
-    <p>1. Add it to their own pantry.</p>
+    <p>1. Add it to their own profile.</p>
     <p>2. Add it to their favorites.</p>
     <p>The initial wireframes had ‘Favorites’ as a main tab on the app with ‘Your Pantry’ being another.</p>
   </div>
