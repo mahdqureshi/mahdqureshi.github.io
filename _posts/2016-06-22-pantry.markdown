@@ -20,9 +20,11 @@ intro: Macros is a modern platform for food creatives and nutritionists. Allowin
     <h2 class="section-left">Background</h2>
   </div>
   <div class="col-sm-8">
-  <p>A major problem facing food creators and nutrition coaches: Client management hasn’t adapted along with technology. Most creators still design meal plans in Google Docs, which are then emailed to clients as PDFs. Then ‘coaching’ is done through personal text-messaging, which disrupts the coaches work-life balance and lacks a community feel.</p>
+  <p>Nutrition coaching is a fast growing career, but their tools haven’t grown with it. Meal plans are tediously created in Google Docs, which are then emailed to clients as PDFs. Coaching is done through personal text-messaging, which not only invades a coaches personal work-life balance, but also lacks a community feel.</p>
   <br>
-  <p>I led the end-to-end design work, from conducting user research with creators and clients, to working with engineering on a component based implementation. My north star was “How can we design a Substack/Kajabi for food and wellness creators?”</p>
+  <p>Macros is an all-in-one platform to remove these bottlenecks, brining value to both nutrition coaches and their clients.</p>
+  <br>
+  <p>I was brought on to lead the end-to-end design, from conducting user research with nutritionists and clients, to working with engineering on a pixel perfect implementation.</p>
   </div>
 </div>
 
