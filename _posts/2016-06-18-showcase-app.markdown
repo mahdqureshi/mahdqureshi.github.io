@@ -11,7 +11,9 @@ intro: Exchange your entire portfolio just by touching phones and stay connected
 
 ---
 
-![hand](/img/showcase-hand.jpg)
+  <div class="wide_container">
+      <img src="/img/showcase-hand.jpg" class="wide_img" alt="">
+  </div>
 
 <hr>
 
