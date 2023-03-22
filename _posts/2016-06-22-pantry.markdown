@@ -209,9 +209,7 @@ intro: Macros is a modern platform for food creatives and nutrition coaches. All
 <br>
 <div class="caption-centered">Beta Landing Page</div>
 
-<div class="wide_container">
-    <img src="/img/pantry_landing.png" class="wide_img" alt="">
-</div>
+![beta landing page](/img/pantry_landing.png)
 
 <br>
 
