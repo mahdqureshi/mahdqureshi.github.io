@@ -128,9 +128,9 @@ intro: Macros is a modern platform for food creatives and nutrition coaches. All
 
 <p class="project-body">Specifying components and their states for engineering.</p>
 
-
-![macros tab bar wireframe](/img/nav-menu.png)
-
+<div class="wide_container">
+    <img src="/img/nav-menu.png" class="wide_img" alt="">
+</div>
 
 <!--
 <div class="row">
@@ -210,7 +210,10 @@ intro: Macros is a modern platform for food creatives and nutrition coaches. All
 <br>
 <br>
 <div class="caption-centered">Beta Landing Page</div>
-![pantry beta landing](/img/pantry_landing.png)
+
+<div class="wide_container">
+    <img src="/img/pantry_landing.png" class="wide_img" alt="">
+</div>
 
 <br>
 
