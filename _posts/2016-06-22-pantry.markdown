@@ -10,8 +10,9 @@ role: Product Designer
 intro: Macros is a modern platform for food creatives and nutrition coaches. Allowing them to meet and manage clients all in one place—with meal plans, 1-on-1 coaching, recipe discovery, and more. I led the end-to-end design for the platform.
 
 ---
-
-![head landing](/img/macros-header.jpg)
+  <div class="wide-image">
+      <img src="/img/macros-header.jpg" alt="">
+  </div>
 
 <hr>
 
