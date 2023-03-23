@@ -120,19 +120,19 @@ intro: Macros is a modern platform for food creatives and nutrition coaches. All
 
 <br>
 
-<div class="caption-centered">Mapping out the user flows for engineering.</div>
-
 <div class="wide_container">
     <img src="/img/changelabelflow.png" class="wide_img" alt="">
 </div>
 
-<hr>
+<div class="caption-centered">Mapping out the user flows for engineering.</div>
 
-<p class="project-body">Specifying components and their states for engineering.</p>
+
+<hr>
 
 <div class="wide_container">
     <img src="/img/nav-menu.png" class="wide_img" alt="">
 </div>
+<div class="caption-centered">Specifying components and their states.</div>
 
 <!--
 <div class="row">
