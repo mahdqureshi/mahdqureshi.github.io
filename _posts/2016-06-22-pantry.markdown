@@ -124,11 +124,13 @@ intro: Macros is a modern platform for food creatives and nutrition coaches. All
     <img src="/img/changelabelflow.png" class="wide_img" alt="">
 </div>
 <div class="caption-centered">Mapping the user flow when a coach edits the label of a meal in their meal plan.</div>
+<br>
 
 <div class="wide_container">
     <img src="/img/mealplanstates.png" class="wide_img" alt="">
 </div>
 <div class="caption-centered">Specifying states of the meal plan compose screens.</div>
+<br>
 
 
 <div class="wide_container">
