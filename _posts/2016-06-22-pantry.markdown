@@ -115,12 +115,13 @@ intro: Macros is a modern platform for food creatives and nutrition coaches. All
 </div>
 -->
 
+<h2 class="section-left">Artifacts</h2>
 
 
 <br>
 
-<div class="caption-centered">Mapping out the logic of a user adding the ‘Ingredient Only Meal’.</div>
-![macros tab bar wireframe](/img/pantry_flowmap.png)
+<div class="caption-centered">Mapping out the user flows for engineering.</div>
+![macros tab bar wireframe](/img/changelabelflow.png)
 
 <hr>
 
