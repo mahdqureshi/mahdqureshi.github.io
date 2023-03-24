@@ -17,9 +17,7 @@ intro: Macros is a modern platform for food creatives and nutrition coaches. All
 <hr>
 
 <div class="row">
-  <div class="col-sm-4">
-    <h2 class="section-left">Background</h2>
-  </div>
+  <h2 class="section-left">Background</h2>
   <div class="col-sm-8">
   <p>Nutrition coaching is a fast growing career, but their tools have lagged behind. Meal plans still tediously created in Google Docs, emailed to clients as clunky PDFs. Coaching and support is then performed through personal text-messaging, which not only interrupts a coach's work-life balance, but also lacks a community feel for clients.</p>
   <br>
@@ -29,91 +27,6 @@ intro: Macros is a modern platform for food creatives and nutrition coaches. All
 
 <hr>
 
-<!--
-
-<div class="row">
-  <div class="col-sm-6">
-    <h2 class="section-left">Research</h2>
-  </div>
-  <div class="col-sm-6">
-    <p>
-    The first phase in my research process was to conduct guerrilla user research to figure out who the users were and their goals. After researching, I was able to distill the user base down into three distinct personas.
-    </p>
-    <br>
-    <p>
-    <strong>The Fitness Influencer</strong>
-    </p>
-    <p>
-    The fitness influencer is someone who is well known in the fitness/health community. They have a medium to large following on other platforms. They also have a sponsorships with health and fitness brands—which is key for us. We would be providing these users a way to market their sponsored products to consumers in a highly targeted way.
-    </p>
-    <br>
-    <p>
-    <strong>The Fitness Enthusiast</strong>
-    </p>
-    <p>
-    The fitness enthusiast is a regular person who is getting into or is already following a health/fitness lifestyle. They are mostly looking to consume content—find healthy foods and supplements. These will be the user who follow the influencers that closely align with their own goals and then purchase products that will help them achieve those goals.
-    </p>
-    <br>
-    <p>
-    <strong>The Brand</strong>
-    </p>
-    <p>
-    The brand is the manufacturer of a health food or supplement. Their main goal is to sell their products to users who would be repeat customers. With Pantry, we would be providing them with segmentation to target their products to the exact people who would use it.
-    </p>
-  </div>
-</div>
-
-<hr>
-
--->
-
-
-<!--
-<div class="row">
-  <div class="col-sm-6">
-    <h2 class="section-left">Competitive Analysis</h2>
-  </div>
-  <div class="col-sm-6">
-    <p>Once I had an idea of the core user base and their goals, I wanted to gain an understanding of the competitive landscape of health-diet apps.  I analyzed the top apps in the space to explore opportunities that might exist.</p>
-  </div>
-</div>
-<br>
-<br>
-
-![pantry-ompetition](/img/pantry-ca.png)
-<br>
-<br>
-<p class="project-body">There’s a diverse set of lifestyles and diets that are popular now — Keto, Paleo, Vegan, Dairy Free, Weight Loss/Gain, etc. After looking at the main players in the space, it was clear that no network exists that allows people to discuss and discover the best products & foods for their specific lifestyle.</p>
-<p class="project-body">Once I had the list of major pain points, I could begin to ideate ways that we could address them in an elegant way.</p>
-<hr>
-
-<div class="row">
-  <div class="col-sm-6">
-    <h2 class="section-left">Defining Success</h2>
-  </div>
-  <div class="col-sm-6">
-    <p>Before I began the ideation phase for the visual layout of the app, I first defined a north star of success that would guide my design decisions. For Pantry, the major KPI’s that were to be monitored after deployment were:</p>
-    <p style="font-weight: 500;">↗ Increase the number of users that add products to their profile.</p>
-    <p style="font-weight: 500;">↗ Increase the number of followers that each user has.</p>
-    <p style="font-weight: 500;">↗ Increase the number of clicks on the ‘Buy Product’ button.</p>
-    <p style="font-weight: 500;">↗ Increase the number of product groups that users create within their pantry.</p>
-  </div>
-</div>
-
-<hr>
-
-<div class="row">
-  <div class="col-sm-6">
-    <h2 class="section-left">Ideation</h2>
-  </div>
-  <div class="col-sm-6">
-    <p>I took the list of possible features of the app and listed them in out. Then I began to explore different layout variations in a blue-sky approach.</p>
-    <br>
-    <br>
-    <br>
-  </div>
-</div>
--->
 
 <h2 class="section-left">Artifacts</h2>
 
