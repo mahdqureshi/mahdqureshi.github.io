@@ -561,7 +561,7 @@ img.wide_img {
 
 hr {
   border: 0;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.16);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   margin: 80px auto;
   width: 300px;
   @include media-query($on-palm) {
@@ -580,7 +580,7 @@ hr {
 // Post Backgrounds
 
 .yellowPage {
-  background: #FCFBFA;
+  background: #F8F7F5;
 }
 
 .bluePage {
