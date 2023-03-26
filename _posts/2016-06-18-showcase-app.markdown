@@ -5,7 +5,7 @@ date:   2016-06-22 18:32:32 -0400
 categories: jekyll update
 img: dribbble.jpg
 color: "#ffe3e9"
-background: "yellowPage"
+background: "pinkPage"
 text-color: "#111"
 role: Product Designer
 intro: Exchange your entire portfolio just by touching phones and stay connected to the people you meet with Showcase. I led the design process for all products across mobile, web, and marketing platforms.

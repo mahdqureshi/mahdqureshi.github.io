@@ -6,6 +6,7 @@ categories: jekyll update
 img: macros.png
 color: "#FCFBFA"
 text-color: "#1849CC"
+background: "yellowPage"
 role: Product Designer
 intro: Macros is a modern platform for food creatives and nutrition coaches. Allowing them to meet and manage clients all in one place—with meal plans, 1-on-1 coaching, recipe discovery, and more. I led the end-to-end design for the platform.
 
