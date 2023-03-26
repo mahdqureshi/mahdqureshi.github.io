@@ -97,7 +97,7 @@ h1.tagline {
 .work {
   font-family: 'Newsreader', serif;
   margin-bottom: 100px;
-  font-size: 20px;
+  font-size: 18px;
   @include media-query($on-palm) {
     margin-bottom: 20px;
   }
