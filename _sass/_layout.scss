@@ -362,8 +362,9 @@ h3.about-text {
 .profile {
   width: 100%;
   height: auto;
-  margin-top: 20px;
-  margin-bottom: 100px;
+  @include media-query($on-palm) {
+    display: none;
+  }
 }
 
 //Page Navigation
