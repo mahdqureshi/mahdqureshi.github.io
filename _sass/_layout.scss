@@ -457,9 +457,6 @@ h3.about-text {
   margin: 8px 0;
   color: $grey-color;
   text-align: center;
-  @include media-query($on-palm) {
-      margin-top: 32px;
-  }
 }
 
 .post-header {
