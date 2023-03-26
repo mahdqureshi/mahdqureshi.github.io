@@ -16,20 +16,16 @@ intro: Macros is a modern platform for food creatives and nutrition coaches. All
 
 <hr>
 
-<div class="row">
-  <h2>Background</h2>
-  <div>
-  <p>Nutrition coaching is a fast growing career, but their tools have lagged behind. Meal plans still tediously created in Google Docs, emailed to clients as clunky PDFs. Coaching and support is then performed through personal text-messaging, which not only interrupts a coach's work-life balance, but also lacks a community feel for clients.</p>
-  <p>Macros is an all-in-one platform to remove these friction points, providing value to both nutrition coaches and their clients. I was brought on to lead the end-to-end design, from conducting user research to working with engineering on a pixel perfect implementation.</p>
-  </div>
+<h2>Background</h2>
+<div>
+<p>Nutrition coaching is a fast growing career, but their tools have lagged behind. Meal plans still tediously created in Google Docs, emailed to clients as clunky PDFs. Coaching and support is then performed through personal text-messaging, which not only interrupts a coach's work-life balance, but also lacks a community feel for clients.</p>
+<p>Macros is an all-in-one platform to remove these friction points, providing value to both nutrition coaches and their clients. I was brought on to lead the end-to-end design, from conducting user research to working with engineering on a pixel perfect implementation.</p>
 </div>
 
 <hr>
 
-<div class="row">
 <h2>Artifacts</h2>
 <p>A selection of artifacts from the design process.</p>
-</div>
 
 <br>
 
