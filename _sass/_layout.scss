@@ -424,7 +424,7 @@ h3.about-text {
 
 .post-meta {
     font-size: 13px;
-    color: $grey-color-light;
+    color: black;
     text-transform: uppercase;
     letter-spacing: .5px;
     line-height: 1.5;
@@ -575,4 +575,10 @@ hr {
   @include media-query($on-palm) {
     display: block;
   }
+}
+
+// Post Backgrounds
+
+.yellowPage {
+  background: yellow;
 }
