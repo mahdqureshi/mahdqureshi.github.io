@@ -4,8 +4,7 @@ email: none
 description: Mahad is a designer and maker based in San Francisco, CA. He is focused on shaping solutions that bridge products and consumers together through visual design, user research, and product strategy.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: 
-linkedin_username: mahadq
+twitter_username: mahdqureshi
 github_username:  mahdqureshi
 permalink: /:title
 
