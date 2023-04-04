@@ -4,7 +4,7 @@ title:  "Unified App"
 date:   2016-06-18 18:32:32 -0400
 categories: jekyll update
 img: unified-design.png
-color: "linear-gradient(to bottom, #fdf1f4 0%, #ecedf6 100%)"
+color: "linear-gradient(45deg, rgb(255 255 255) 15%, rgb(255 255 255 / 26%) 100%)"
 text-color: "#111"
 role: Product Designer
 intro: An early iteration of the Showcase app involved an online design tool in which professional designers could create and sell card design templates on a marketplace within the app.
