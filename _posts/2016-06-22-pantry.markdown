@@ -44,11 +44,9 @@ link: "http://browsepantry.com/"
 <hr>
 
 
-<div class="row">
-  <h2>Brand Consistency</h2>
-  <p>I created a brand guideline early on so that any changes could be easily implemented. This also enabled the development team to build with semantic colors—making dark mode intergration a priority from the beginning.</p>
-  <br>
-</div>
+<h2>Brand Consistency</h2>
+<p>I created a brand guideline early on so that any changes could be easily implemented. This also enabled the development team to build with semantic colors—making dark mode intergration a priority from the beginning.</p>
+<br>
 
 ![meeting](/img/components.png)
 
