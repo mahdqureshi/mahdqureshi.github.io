@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Pantry"
+title:  "Macros"
 date:   2019-06-21 18:32:32 -0400
 categories: jekyll update
-img: pantry.png
+img: macros.png
 color: "linear-gradient(45deg, rgb(255 255 255) 15%, rgb(222 235 255) 100%)"
 text-color: "#1849CC"
 role: Product Designer
-intro: Pantry is a community for recommending and finding the best foods and supplements that fit your lifestyle goals. As Product Designer, I was responsible for designing the mobile apps and branding.
+intro: Macros is a modern platform for food creatives and nutrition coaches. I led the end-to-end design for the platform.
 link: "http://browsepantry.com/"
 
 ---
 
-![head landing](/img/pantry-header.jpg)
+![head landing](/img/macros-header.jpg)
 
 <hr>
 
@@ -21,92 +21,11 @@ link: "http://browsepantry.com/"
     <h2 class="section-left">Overview</h2>
   </div>
   <div class="col-sm-6">
-  <p>Pantry is an app that let’s users discover products and foods that others with the same lifestyle or health goals as them are consuming. I was brought on in the early stages of the project when the team had a basic idea of the features the app should have. I fleshed out the UX and interaction design including prototype development and user testing.</p>
+  <p>Nutrition coaching is a fast growing career, but their tools have lagged behind. Meal plans still tediously created in Google Docs, emailed to clients as clunky PDFs. Coaching and support is then performed through personal text-messaging, which not only interrupts a coaches work-life balance, but also lacks a community feel for clients.</p>
   </div>
 </div>
 
 <hr>
-
-<div class="row">
-  <div class="col-sm-6">
-    <h2 class="section-left">Research</h2>
-  </div>
-  <div class="col-sm-6">
-    <p>
-    The first phase in my research process was to conduct guerrilla user research to figure out who the users were and their goals. After researching, I was able to distill the user base down into three distinct personas.
-    </p>
-    <br>
-    <p>
-    <strong>The Fitness Influencer</strong>
-    </p>
-    <p>
-    The fitness influencer is someone who is well known in the fitness/health community. They have a medium to large following on other platforms. They also have a sponsorships with health and fitness brands—which is key for us. We would be providing these users a way to market their sponsored products to consumers in a highly targeted way.
-    </p>
-    <br>
-    <p>
-    <strong>The Fitness Enthusiast</strong>
-    </p>
-    <p>
-    The fitness enthusiast is a regular person who is getting into or is already following a health/fitness lifestyle. They are mostly looking to consume content—find healthy foods and supplements. These will be the user who follow the influencers that closely align with their own goals and then purchase products that will help them achieve those goals.
-    </p>
-    <br>
-    <p>
-    <strong>The Brand</strong>
-    </p>
-    <p>
-    The brand is the manufacturer of a health food or supplement. Their main goal is to sell their products to users who would be repeat customers. With Pantry, we would be providing them with segmentation to target their products to the exact people who would use it.
-    </p>
-  </div>
-</div>
-
-<hr>
-
-<!--
-<div class="row">
-  <div class="col-sm-6">
-    <h2 class="section-left">Competitive Analysis</h2>
-  </div>
-  <div class="col-sm-6">
-    <p>Once I had an idea of the core user base and their goals, I wanted to gain an understanding of the competitive landscape of health-diet apps.  I analyzed the top apps in the space to explore opportunities that might exist.</p>
-  </div>
-</div>
-<br>
-<br>
-
-![pantry-ompetition](/img/pantry-ca.png)
-<br>
-<br>
-<p class="project-body">There’s a diverse set of lifestyles and diets that are popular now — Keto, Paleo, Vegan, Dairy Free, Weight Loss/Gain, etc. After looking at the main players in the space, it was clear that no network exists that allows people to discuss and discover the best products & foods for their specific lifestyle.</p>
-<p class="project-body">Once I had the list of major pain points, I could begin to ideate ways that we could address them in an elegant way.</p>
-<hr>
-
-<div class="row">
-  <div class="col-sm-6">
-    <h2 class="section-left">Defining Success</h2>
-  </div>
-  <div class="col-sm-6">
-    <p>Before I began the ideation phase for the visual layout of the app, I first defined a north star of success that would guide my design decisions. For Pantry, the major KPI’s that were to be monitored after deployment were:</p>
-    <p style="font-weight: 500;">↗ Increase the number of users that add products to their profile.</p>
-    <p style="font-weight: 500;">↗ Increase the number of followers that each user has.</p>
-    <p style="font-weight: 500;">↗ Increase the number of clicks on the ‘Buy Product’ button.</p>
-    <p style="font-weight: 500;">↗ Increase the number of product groups that users create within their pantry.</p>
-  </div>
-</div>
-
-<hr>
-
-<div class="row">
-  <div class="col-sm-6">
-    <h2 class="section-left">Ideation</h2>
-  </div>
-  <div class="col-sm-6">
-    <p>I took the list of possible features of the app and listed them in out. Then I began to explore different layout variations in a blue-sky approach.</p>
-    <br>
-    <br>
-    <br>
-  </div>
-</div>
--->
 
 ![pantry tab bar wireframe](/img/pantrysketch.png)
 
@@ -124,63 +43,11 @@ link: "http://browsepantry.com/"
 
 <hr>
 
-<!--
-<div class="row">
-  <div class="col-sm-6">
-    <h2 class="section-left">Refinement</h2>
-  </div>
-  <div class="col-sm-6">
-    <p>The Pantry app lets users add a product to their ‘Pantry’. Other users can follow you and view your ‘Pantry’ to see which foods and products you are using—like a Pinterest board for foods and supplements.</p>
-    <p>Initially the app had two main actions a user could take on a product.</p>
-    <p>1. Add it to their own pantry.</p>
-    <p>2. Add it to their favorites.</p>
-    <p>The initial wireframes had ‘Favorites’ as a main tab on the app with ‘Your Pantry’ being another.</p>
-  </div>
-</div>
-
-<br>
-<br>
-<br>
-
-![pantry tab bar wireframe](/img/pantrytabwire.png)
-<br>
-<br>
-<br>
-
-<p class="project-body">When I tested this design with users, a major pain point was discovered. The differentiation between the purpose of ‘favorites’ and ‘your pantry’ wasn’t clear. Users didn’t know when to add a product to which. I had to clarify what the purpose of each action was.</p>
-
-
-<p class="project-body">‘Your Pantry’ was designed to house products that you currently use, while ‘Favorites’ was for products that you’d like to use in the future. After making this distinction, it was clear that ‘Favorites’ wasn't an optimal name for a product you’ve never used. ‘Wish list’ made more sense in our case.</p>
-
-
-<p class="project-body">I tested a version with ‘Wish List’ and while it performed better, users were still confused on when to add a product to their pantry vs to the wish list. I had to rethink the entire information architecture of the app.</p>
-<p class="project-body">After trying out many iterations, I concluded that separating the two wasn't ideal. There should only be one place on the app that houses products. Within ‘Your pantry’, products are grouped by category. I added a default group—pinned to the top of the list—called ‘Wish List’. Everyone has this group when they create an account.</p>
-
-<br>
-
-![pantry groups](/img/pantrygroups.jpg)
-
-<br>
-<p class="project-body">The user now has a single option—add a product to their pantry. They’re then able to select a group—with ‘Wish List’ being an option.</p>
-<br>
-
-![pantry groups](/img/select-pantry-group.jpg)
-
-<br>
-<p class="project-body">When I tested this variant, it out-performed all the others. There was less friction since the user only has one option — adding a product to their pantry. From there, they quickly understood what ‘Wish List’ was and how it was different than the other groups.</p>
-<hr>
-
-<br/>
---> 
 
 <div class="row">
-  <div class="col-sm-6">
-    <h2 class="section-left">Brand Consistency</h2>
-  </div>
-  <div class="col-sm-6">
-    <p>I created a brand guideline early on so that any changes could be easily implemented. This also enabled the development team to build with semantic colors—making dark mode intergration a priority from the beginning.</p>
-    <br>
-  </div>
+  <h2>Brand Consistency</h2>
+  <p>I created a brand guideline early on so that any changes could be easily implemented. This also enabled the development team to build with semantic colors—making dark mode intergration a priority from the beginning.</p>
+  <br>
 </div>
 
 ![meeting](/img/components.png)
