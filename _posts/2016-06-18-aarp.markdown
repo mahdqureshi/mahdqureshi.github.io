@@ -15,10 +15,10 @@ intro: AARP needed a new design to the introduce 'Limited Time Offers'. I worked
 <hr>
 
 <div class="row">
-  <div class="col-sm-4">
+  <div class="col-sm-6">
     <h2 class="section-left">Objective</h2>
   </div>
-  <div class="col-sm-8">
+  <div class="col-sm-6">
     <p>The main objective was to design a modal that allowed members to use an offer by clicking to either learn more or book online. I made this main action stand out by making it a stark blue against white backgrounds.</p>
     <p>Because many AARP members prefer to speak to someone for assistance, the phone number was also given the blue color.</p>
   </div>

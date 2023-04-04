@@ -1,28 +1,25 @@
 ---
 layout: post
 title:  "Showcase"
-date:   2016-06-20 18:32:32 -0400
+date:   2016-06-22 18:32:32 -0400
 categories: jekyll update
 img: dribbble.jpg
-color: "#ffe3e9"
-background: "pinkPage"
+color: "#F5F6F7"
 text-color: "#111"
 role: Product Designer
 intro: Exchange your entire portfolio just by touching phones and stay connected to the people you meet with Showcase. I led the design process for all products across mobile, web, and marketing platforms.
 
 ---
 
-  <div class="wide_container">
-      <img src="/img/showcase-hand.jpg" class="wide_img" alt="">
-  </div>
+![hand](/img/showcase-hand.jpg)
 
 <hr>
 
 <div class="row">
-  <div class="col-sm-4">
+  <div class="col-sm-6">
     <h2 class="section-left">Background</h2>
   </div>
-  <div class="col-sm-8">
+  <div class="col-sm-6">
     <p>When attending a trade show, you invariably go home with hundreds of paper business cards that you must then scan or manually enter into a digital repository. Most of these cards get thrown away—and along with it, a potential business relationship. </p>
 
     <p>The goal with Showcase was to remove this friction and allow you to instantly exchange your entire portfolio and contact information just by touching phones.</p>

@@ -1,54 +1,128 @@
 ---
 layout: post
-title:  "Macros"
+title:  "Pantry"
 date:   2019-06-21 18:32:32 -0400
 categories: jekyll update
-img: macros.png
-color: "#FCFBFA"
+img: pantry.png
+color: "linear-gradient(45deg, rgb(255 255 255) 15%, rgb(222 235 255) 100%)"
 text-color: "#1849CC"
-background: "yellowPage"
 role: Product Designer
-intro: Macros is a modern platform for food creatives and nutrition coaches. Allowing them to meet and manage clients all in one place—with meal plans, 1-on-1 coaching, recipe discovery, and more. I led the end-to-end design for the platform.
+intro: Pantry is a community for recommending and finding the best foods and supplements that fit your lifestyle goals. As Product Designer, I was responsible for designing the mobile apps and branding.
+link: "http://browsepantry.com/"
 
 ---
-  <div class="wide_container">
-      <img src="/img/macros-header.jpg" class="wide_img" alt="">
+
+![head landing](/img/pantry-header.jpg)
+
+<hr>
+
+<div class="row">
+  <div class="col-sm-6">
+    <h2 class="section-left">Overview</h2>
   </div>
-
-<hr>
-
-<h2>Background</h2>
-<div>
-<p>Nutrition coaching is a fast growing career, but their tools have lagged behind. Meal plans still tediously created in Google Docs, emailed to clients as clunky PDFs. Coaching and support is then performed through personal text-messaging, which not only interrupts a coach's work-life balance, but also lacks a community feel for clients.</p>
-<p>Macros is an all-in-one platform to remove these friction points, providing value to both nutrition coaches and their clients. I was brought on to lead the end-to-end design, from conducting user research to working with engineering on a pixel perfect implementation.</p>
+  <div class="col-sm-6">
+  <p>Pantry is an app that let’s users discover products and foods that others with the same lifestyle or health goals as them are consuming. I was brought on in the early stages of the project when the team had a basic idea of the features the app should have. I fleshed out the UX and interaction design including prototype development and user testing.</p>
+  </div>
 </div>
 
 <hr>
 
-<h2>Artifacts</h2>
-<p>A selection of artifacts from the design process.</p>
-
-<br>
-
-<div class="wide_container">
-    <img src="/img/changelabelflow.png" class="wide_img" alt="">
+<div class="row">
+  <div class="col-sm-6">
+    <h2 class="section-left">Research</h2>
+  </div>
+  <div class="col-sm-6">
+    <p>
+    The first phase in my research process was to conduct guerrilla user research to figure out who the users were and their goals. After researching, I was able to distill the user base down into three distinct personas.
+    </p>
+    <br>
+    <p>
+    <strong>The Fitness Influencer</strong>
+    </p>
+    <p>
+    The fitness influencer is someone who is well known in the fitness/health community. They have a medium to large following on other platforms. They also have a sponsorships with health and fitness brands—which is key for us. We would be providing these users a way to market their sponsored products to consumers in a highly targeted way.
+    </p>
+    <br>
+    <p>
+    <strong>The Fitness Enthusiast</strong>
+    </p>
+    <p>
+    The fitness enthusiast is a regular person who is getting into or is already following a health/fitness lifestyle. They are mostly looking to consume content—find healthy foods and supplements. These will be the user who follow the influencers that closely align with their own goals and then purchase products that will help them achieve those goals.
+    </p>
+    <br>
+    <p>
+    <strong>The Brand</strong>
+    </p>
+    <p>
+    The brand is the manufacturer of a health food or supplement. Their main goal is to sell their products to users who would be repeat customers. With Pantry, we would be providing them with segmentation to target their products to the exact people who would use it.
+    </p>
+  </div>
 </div>
-<div class="caption-centered">Mapping the user flow when a coach edits the label of a meal in their meal plan.</div>
-<br>
-<br>
 
-<div class="wide_container">
-    <img src="/img/mealplanstates.png" class="wide_img" alt="">
+<hr>
+
+<!--
+<div class="row">
+  <div class="col-sm-6">
+    <h2 class="section-left">Competitive Analysis</h2>
+  </div>
+  <div class="col-sm-6">
+    <p>Once I had an idea of the core user base and their goals, I wanted to gain an understanding of the competitive landscape of health-diet apps.  I analyzed the top apps in the space to explore opportunities that might exist.</p>
+  </div>
 </div>
-<div class="caption-centered">Specifying states of the meal plan compose screens.</div>
 <br>
 <br>
 
+![pantry-ompetition](/img/pantry-ca.png)
+<br>
+<br>
+<p class="project-body">There’s a diverse set of lifestyles and diets that are popular now — Keto, Paleo, Vegan, Dairy Free, Weight Loss/Gain, etc. After looking at the main players in the space, it was clear that no network exists that allows people to discuss and discover the best products & foods for their specific lifestyle.</p>
+<p class="project-body">Once I had the list of major pain points, I could begin to ideate ways that we could address them in an elegant way.</p>
+<hr>
 
-<div class="wide_container">
-    <img src="/img/payoutstates.png" class="wide_img" alt="">
+<div class="row">
+  <div class="col-sm-6">
+    <h2 class="section-left">Defining Success</h2>
+  </div>
+  <div class="col-sm-6">
+    <p>Before I began the ideation phase for the visual layout of the app, I first defined a north star of success that would guide my design decisions. For Pantry, the major KPI’s that were to be monitored after deployment were:</p>
+    <p style="font-weight: 500;">↗ Increase the number of users that add products to their profile.</p>
+    <p style="font-weight: 500;">↗ Increase the number of followers that each user has.</p>
+    <p style="font-weight: 500;">↗ Increase the number of clicks on the ‘Buy Product’ button.</p>
+    <p style="font-weight: 500;">↗ Increase the number of product groups that users create within their pantry.</p>
+  </div>
 </div>
-<div class="caption-centered">States of the nutrition coach's payout cell.</div>
+
+<hr>
+
+<div class="row">
+  <div class="col-sm-6">
+    <h2 class="section-left">Ideation</h2>
+  </div>
+  <div class="col-sm-6">
+    <p>I took the list of possible features of the app and listed them in out. Then I began to explore different layout variations in a blue-sky approach.</p>
+    <br>
+    <br>
+    <br>
+  </div>
+</div>
+-->
+
+![pantry tab bar wireframe](/img/pantrysketch.png)
+
+<br>
+<p class="project-body">I quickly tested out the designs that felt good in a sketch format and refined further until I landed on a layout that felt good enough to proceed creating a high-fidelity prototype with.</p>
+<br>
+<br>
+
+![pantry tab bar wireframe](/img/pantry-ia.png)
+<br>
+<br>
+
+<div class="caption">Mapping the high-level user flows.</div>
+
+
+<hr>
 
 <!--
 <div class="row">
@@ -56,9 +130,9 @@ intro: Macros is a modern platform for food creatives and nutrition coaches. All
     <h2 class="section-left">Refinement</h2>
   </div>
   <div class="col-sm-6">
-    <p>The Pantry app lets users add a product to their ‘Macros’. Other users can follow you and view your ‘Macros’ to see which foods and products you are using—like a Pinterest board for foods and supplements.</p>
+    <p>The Pantry app lets users add a product to their ‘Pantry’. Other users can follow you and view your ‘Pantry’ to see which foods and products you are using—like a Pinterest board for foods and supplements.</p>
     <p>Initially the app had two main actions a user could take on a product.</p>
-    <p>1. Add it to their own profile.</p>
+    <p>1. Add it to their own pantry.</p>
     <p>2. Add it to their favorites.</p>
     <p>The initial wireframes had ‘Favorites’ as a main tab on the app with ‘Your Pantry’ being another.</p>
   </div>
@@ -99,37 +173,52 @@ intro: Macros is a modern platform for food creatives and nutrition coaches. All
 <br/>
 --> 
 
+<div class="row">
+  <div class="col-sm-6">
+    <h2 class="section-left">Brand Consistency</h2>
+  </div>
+  <div class="col-sm-6">
+    <p>I created a brand guideline early on so that any changes could be easily implemented. This also enabled the development team to build with semantic colors—making dark mode intergration a priority from the beginning.</p>
+    <br>
+  </div>
+</div>
+
+![meeting](/img/components.png)
+
+<div class="caption">Specifying components and custom color palette for both light and dark mode variants.</div>
 
 <hr>
 
-
 # High-fidelity
 
-
 <br>
-
 
 <div class="row">
   <div class="col-sm-6">
     <div class="col-with-margin">
-      <div class="caption-centered">Home Feed</div>
-      <img src="/img/home-view.png" alt="">
+      <img src="/img/pantrymock4.png" alt="">
+      <div class="caption-centered">Home view</div>
     </div>
   </div>
-  <br class="mobile-break">
   <div class="col-sm-6">
     <div class="col-with-margin">
-      <div class="caption-centered">Nutrition Coach's Profile</div>
-      <img src="/img/profile-view.png" alt="">
+      <img src="/img/pantrymock2.png" alt="">
+      <div class="caption-centered">Group view</div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="col-with-margin">
+      <img src="/img/pantrymock3.png" alt="">
+      <div class="caption-centered">Product page</div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="col-with-margin">
+      <img src="/img/pantrymock1.png" alt="">
+      <div class="caption-centered">'Your Pantry' view</div>
     </div>
   </div>
 </div>
-
-<br>
-<br>
-<div class="caption-centered">Beta Signup Page for Coaches</div>
-
-![beta landing page](/img/pantry_landing.png)
 
 <br>
 

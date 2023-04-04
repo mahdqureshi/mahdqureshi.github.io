@@ -6,23 +6,20 @@ categories: jekyll update
 img: podium.png
 color: "linear-gradient(45deg, rgba(112,230,210,1) 15%, rgba(83,132,244,1) 100%);"
 text-color: "white"
-background: "bluePage"
 role: Co-Founder/Product Designer
 intro: Podium lets you and your team accomplish tasks during meetings on the apps you already use. As Co-Founder and Designer, I had end-to-end responsibility for all product design efforts.
 
 ---
 
-<div class="wide_container">
-    <img src="/img/podium-hero.png" class="wide_img" alt="">
-</div>
+![head landing](/img/podium-hero.png)
 
 <hr>
 
 <div class="row">
-  <div class="col-sm-4">
+  <div class="col-sm-6">
     <h2 class="section-left">Background</h2>
   </div>
-  <div class="col-sm-8">
+  <div class="col-sm-6">
   <p>While there are many great tools that ease the friction that comes with communicating with a remote team, there aren’t many that help you to collaborate. Video conferencing tools like Hangouts, Zoom, etc., allow you share control of your mouse with attendees—but the constant back and forth of control inhibits the work getting done.</p>
 
   <p>The value proposition of Podium was to give remote team the ability to get things tasks done in the apps they already use.</p>
