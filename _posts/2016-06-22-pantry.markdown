@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Macros"
-date:   2019-06-21 18:32:32 -0400
+date:   2019-06-22 18:32:32 -0400
 categories: jekyll update
 img: macros.jpg
 color: "linear-gradient(45deg, rgb(255 255 255) 15%, rgb(255 255 255 / 26%) 100%)"
@@ -22,35 +22,20 @@ link: "http://browsepantry.com/"
   </div>
   <div class="col-sm-6">
   <p>Nutrition coaching is a fast growing career, but their tools have lagged behind. Meal plans still tediously created in Google Docs, emailed to clients as clunky PDFs. Coaching and support is then performed through personal text-messaging, which not only interrupts a coaches work-life balance, but also lacks a community feel for clients.</p>
+  <p>Macros is an all-in-one platform to remove these friction points, providing value to both nutrition coaches and their clients. I was brought at the early stages, with my contributions starting at conducting user research all the way to working with engineering on a pixel perfect implementation.</p>
   </div>
 </div>
 
 <hr>
 
-![pantry tab bar wireframe](/img/pantrysketch.png)
 
-<br>
-<p class="project-body">I quickly tested out the designs that felt good in a sketch format and refined further until I landed on a layout that felt good enough to proceed creating a high-fidelity prototype with.</p>
-<br>
+<h2>Artifacts</h2>
+<p>A selection of artifacts from the design process.</p>
 <br>
 
-![pantry tab bar wireframe](/img/pantry-ia.png)
-<br>
-<br>
+![meeting](/img/meallabelflow.jpg)
 
-<div class="caption">Mapping the high-level user flows.</div>
-
-
-<hr>
-
-
-<h2>Brand Consistency</h2>
-<p>I created a brand guideline early on so that any changes could be easily implemented. This also enabled the development team to build with semantic colors—making dark mode intergration a priority from the beginning.</p>
-<br>
-
-![meeting](/img/components.png)
-
-<div class="caption">Specifying components and custom color palette for both light and dark mode variants.</div>
+<div class="caption">Specifying the flow for a coach editing a meal label within a meal plan for their client.</div>
 
 <hr>
 
@@ -61,80 +46,17 @@ link: "http://browsepantry.com/"
 <div class="row">
   <div class="col-sm-6">
     <div class="col-with-margin">
-      <img src="/img/pantrymock4.png" alt="">
+      <img src="/img/home-view.png" alt="">
       <div class="caption-centered">Home view</div>
     </div>
   </div>
   <div class="col-sm-6">
     <div class="col-with-margin">
-      <img src="/img/pantrymock2.png" alt="">
-      <div class="caption-centered">Group view</div>
-    </div>
-  </div>
-  <div class="col-sm-6">
-    <div class="col-with-margin">
-      <img src="/img/pantrymock3.png" alt="">
-      <div class="caption-centered">Product page</div>
-    </div>
-  </div>
-  <div class="col-sm-6">
-    <div class="col-with-margin">
-      <img src="/img/pantrymock1.png" alt="">
-      <div class="caption-centered">'Your Pantry' view</div>
+      <img src="/img/profile-view.png" alt="">
+      <div class="caption-centered">Coach's Profile View</div>
     </div>
   </div>
 </div>
 
 <br>
 
-<!--
-
-<div class="row">
-  <div class="col-sm-6">
-    <h2 class="section-left">Future Steps</h2>
-  </div>
-  <div class="col-sm-6">
-    <p>The next steps would be validating the design by monitoring the relevant KPI’s. If certain metrics are not where we’d like them to be, I’d continue to refine the design by following a similar process—find the pain points, ideate on solutions, and test with users to validate that the most elegant solution is built.</p>
-    <br>
-  </div>
-</div>
-
-
-![apps](/img/podium-apps.png)
-
-<div class="caption">The team can install the apps that they use frequently.</div>
-
-<hr>
-
-## Consistency
-
-I created a component style library to establish consistency throughout the design. This made it easier for engineering and design to focus on building and solving problems rather than constantly reinventing the wheel.
-
-<br/>
-
-![style guide](/img/podium-style.png)
-
-<hr>
-
-## Landing page
-
-![podium landing](/img/podium-landing.png)
-
-Landing page where users can sign up for early access.
-
-<hr>
-
-## Branding
-
-![podium wireframe](/img/podium-logo-wire.gif)
-
-<div class="caption">The brand glyph</div>
-
-![podium wordmark](/img/podium-wordmark-weights.png)
-
-<div class="caption">Weight explorations</div>
-
-![podium wordmark](/img/podium-wordmark.png)
-
-<div class="caption">Final glyph & wordmark</div>
--->
