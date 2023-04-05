@@ -284,6 +284,9 @@ h3.tagline {
   text-decoration: none;
 }
 
+.copyright {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
 //About Page
 h1.about {
   color: $grey-color-dark;
@@ -441,7 +444,7 @@ h3.about-text {
 }
 
 .post-meta {
-    font-size: 14px;
+    font-size: 16px;
     color: #797979;
     line-height: 1.5;
 }
