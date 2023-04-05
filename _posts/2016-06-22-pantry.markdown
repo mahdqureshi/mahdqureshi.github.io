@@ -29,7 +29,7 @@ link: "http://browsepantry.com/"
 <hr>
 
 
-<h2>Artifacts</h2>
+## Artifacts
 <p>A selection of artifacts from the design process.</p>
 <br>
 
@@ -39,7 +39,7 @@ link: "http://browsepantry.com/"
 
 <hr>
 
-# High-fidelity
+## High-fidelity
 
 <br>
 
