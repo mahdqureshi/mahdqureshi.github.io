@@ -5,7 +5,7 @@ date:   2019-06-22 18:32:32 -0400
 categories: jekyll update
 img: macros.jpg
 color: "linear-gradient(45deg, rgb(255 255 255) 15%, rgb(222 222 219) 100%)"
-text-color: "black"
+text-color: "#32322a"
 role: Product Designer
 intro: Macros is a modern platform for food creatives and nutrition coaches. I led the end-to-end design for the platform.
 link: "http://browsepantry.com/"
