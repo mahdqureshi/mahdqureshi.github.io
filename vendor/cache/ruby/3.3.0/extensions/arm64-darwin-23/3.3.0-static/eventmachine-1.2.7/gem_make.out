@@ -1,0 +1,19 @@
+current directory: /Users/mahad/Documents/GitHub/mahdqureshi.github.io/vendor/cache/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/mahad/.rubies/ruby-3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mahad/Documents/GitHub/mahdqureshi.github.io/vendor/cache/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240124-88389-4bzffj sitelibdir\=./.gem.20240124-88389-4bzffj clean
+
+current directory: /Users/mahad/Documents/GitHub/mahdqureshi.github.io/vendor/cache/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240124-88389-4bzffj sitelibdir\=./.gem.20240124-88389-4bzffj
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/mahad/Documents/GitHub/mahdqureshi.github.io/vendor/cache/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240124-88389-4bzffj sitelibdir\=./.gem.20240124-88389-4bzffj install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20240124-88389-4bzffj
+
+current directory: /Users/mahad/Documents/GitHub/mahdqureshi.github.io/vendor/cache/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240124-88389-4bzffj sitelibdir\=./.gem.20240124-88389-4bzffj clean

@@ -1,0 +1,23 @@
+current directory: /Users/mahad/Documents/GitHub/mahdqureshi.github.io/vendor/cache/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/Users/mahad/.rubies/ruby-3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mahad/Documents/GitHub/mahdqureshi.github.io/vendor/cache/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240124-88389-qgc8fm sitelibdir\=./.gem.20240124-88389-qgc8fm clean
+
+current directory: /Users/mahad/Documents/GitHub/mahdqureshi.github.io/vendor/cache/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240124-88389-qgc8fm sitelibdir\=./.gem.20240124-88389-qgc8fm
+compiling ruby_http_parser.c
+ruby_http_parser.c:365:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
+    if (nparsed < len)
+        ~~~~~~~ ^ ~~~
+1 warning generated.
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/mahad/Documents/GitHub/mahdqureshi.github.io/vendor/cache/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240124-88389-qgc8fm sitelibdir\=./.gem.20240124-88389-qgc8fm install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20240124-88389-qgc8fm
+
+current directory: /Users/mahad/Documents/GitHub/mahdqureshi.github.io/vendor/cache/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240124-88389-qgc8fm sitelibdir\=./.gem.20240124-88389-qgc8fm clean
