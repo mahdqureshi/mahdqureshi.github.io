@@ -10,23 +10,14 @@ role: Product Designer
 intro: Macros is a modern platform for food creatives and nutrition coaches. I led the end-to-end design for the platform.
 ---
 
-![head landing](/img/macros-header.jpg)
+<img class="head landing"src="/img/macros-header.jpg" alt="">
+
 
 <hr>
 
 # Overview
 
 I co-founded Macros in 2021. Macros was an app for nutritionists & food influencers to be able to create content and manage their subscriptions, all in one place. Basically, TikTok and Substack combined. As the design founder, I led the design end-to-end and also managed the product while working with 3 engineers.
-
-<div class="row">
-  <div class="col-sm-6">
-    <h2 class="section-left">Overview</h2>
-  </div>
-  <div class="col-sm-6">
-  <p>Nutrition coaching is a fast growing career, but their tools have lagged behind. Meal plans still tediously created in Google Docs, emailed to clients as clunky PDFs. Coaching and support is then performed through personal text-messaging, which not only interrupts a coaches work-life balance, but also lacks a community feel for clients.</p>
-  <p>Macros is an all-in-one platform to remove these friction points, providing value to both nutrition coaches and their clients. I was brought at the early stages, with my contributions starting at conducting user research all the way to working with engineering on a pixel perfect implementation.</p>
-  </div>
-</div>
 
 <hr>
 
