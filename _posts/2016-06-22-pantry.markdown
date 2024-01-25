@@ -15,7 +15,12 @@ intro: Macros is a modern platform for food creatives and nutrition coaches. I l
 
 <hr>
 
-<img src="/img/home-view.png" class="medium-zoom-image" alt="image" />
+<img 
+    id="zoom-default"
+    src="/img/meallabelflow.jpg"
+    alt="Zoom with default options"
+/>
+
 
 
 # Overview
