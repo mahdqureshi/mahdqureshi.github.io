@@ -15,9 +15,14 @@ intro: Macros is a modern platform for food creatives and nutrition coaches. I l
 
 <hr>
 
+
+<div class="col-sm-6> 
+
 # Overview
 
 I co-founded Macros in 2021. Macros was an app for nutritionists & food influencers to be able to create content and manage their subscriptions, all in one place. Basically, TikTok and Substack combined. As the design founder, I led the design end-to-end and also managed the product while working with 3 engineers.
+
+</div>
 
 <hr>
 
@@ -28,7 +33,9 @@ I co-founded Macros in 2021. Macros was an app for nutritionists & food influenc
 
 ![meeting](/img/meallabelflow.jpg)
 
-<div class="caption">Specifying the flow for a coach editing a meal label within a meal plan for their client.</div>
+<div class="caption">
+## Specifying the flow for a coach editing a meal label within a meal plan for their client.
+</div>
 
 <hr>
 
