@@ -46,7 +46,7 @@ I co-founded Macros in 2021. Macros was an app for nutritionists & food influenc
 <div class="row">
   <div class="col-sm-6">
     <div class="col-with-margin">
-      <img src="/img/home-view.png" alt="">
+      <img src="/img/home-view.png" class="glightbox" alt="">
       <div class="caption-centered">Home view</div>
     </div>
   </div>
