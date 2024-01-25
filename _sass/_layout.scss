@@ -517,11 +517,7 @@ h3.about-text {
     margin-bottom: $spacing-unit;
     margin: 0 auto;
     text-align: left;
-  
-    p,h1,h2,h3,h4,h5,h6 {
-      color: #F00;
-    }
-
+    max-width: 740px;
 
     h2 {
         font-size: 26px;
