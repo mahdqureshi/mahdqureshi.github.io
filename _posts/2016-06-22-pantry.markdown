@@ -16,7 +16,7 @@ intro: Macros is a modern platform for food creatives and nutrition coaches. I l
 <hr>
 
   <a href="/img/home-view.png" class="glightbox">
-    <img src="/img/home-view.png"alt="image" />
+    <img src="/img/home-view.png" alt="image" />
   </a>
 
 
@@ -51,7 +51,7 @@ I co-founded Macros in 2021. Macros was an app for nutritionists & food influenc
   <div class="col-sm-6">
     <div class="col-with-margin">
       <a href="/img/home-view.png" class="glightbox">
-        <img src="/img/home-view.png"alt="image" />
+        <img src="/img/home-view.png" alt="image" />
       </a>
       <div class="caption-centered">Home view</div>
     </div>
