@@ -516,6 +516,7 @@ h3.about-text {
 .post-content {
     margin-bottom: $spacing-unit;
     text-align: left;
+    max-width: 740px;
 
     h2 {
         font-size: 26px;
