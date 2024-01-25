@@ -38,7 +38,7 @@ I co-founded Macros in 2021. Macros was an app for nutritionists & food influenc
 
 ## High-fidelity
 
-<video width="100%" autoplay loop muted>
+<video width="100%" autoplay loop muted style="border: 1px solid #e5e5e5;">
   <source src="/img/macros_edit_recipe.mp4" type="video/mp4" />
   <source src="movie.ogg" type="video/ogg" />
   Your browser does not support the video tag.
