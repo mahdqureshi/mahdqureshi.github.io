@@ -38,14 +38,13 @@ I co-founded Macros in 2021. Macros was an app for nutritionists & food influenc
 
 ## High-fidelity
 
-![meeting](/img/macros_edit_recipe.png)
-<div class="caption">Editing a recipe on desktop.</div>
-
 <video width="100%" autoplay loop muted>
   <source src="/img/macros_edit_recipe.mp4" type="video/mp4" />
   <source src="movie.ogg" type="video/ogg" />
   Your browser does not support the video tag.
 </video>
+
+<div class="caption">Editing a recipe on desktop.</div>
 
 <br>
 
