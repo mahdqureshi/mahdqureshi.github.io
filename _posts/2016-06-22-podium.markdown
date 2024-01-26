@@ -6,8 +6,8 @@ categories: jekyll update
 img: podium.png
 color: "linear-gradient(45deg, rgb(255 255 255) 15%, rgb(182 221 255) 100%)"
 text-color: "#0d3164"
-role: Co-Founder/Product Designer
-intro: Podium lets you and your team accomplish tasks during meetings on the apps you already use. As Co-Founder and Designer, I had end-to-end responsibility for all product design efforts.
+role: Product Designer
+intro: Podium lets you and your team accomplish tasks during meetings on the apps you already use. As Product Designer, I had end-to-end responsibility for all product design efforts.
 
 ---
 
