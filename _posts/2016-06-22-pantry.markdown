@@ -43,6 +43,12 @@ I co-founded Macros in 2021. Macros was an app for nutritionists & food influenc
 
 <br>
 
+
+![meeting](/img/macros-app-icon.jpg)
+<div class="caption">The app icon featuring the "Percentage" glyph.</div>
+
+<br>
+
 <div class="row">
   <div class="col-sm-6">
     <div class="col-with-margin">
