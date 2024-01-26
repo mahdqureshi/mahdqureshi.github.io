@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "Macros"
+date:   2019-06-22 18:32:32 -0400
+categories: jekyll update
+img: macros.jpg
+color: "linear-gradient(45deg, rgb(255 255 255) 15%, rgb(222 222 219) 100%)"
+text-color: "#32322a"
+role: Co-Founder, Designer
+intro: Macros is a modern platform for food creatives and nutrition coaches. I led the end-to-end design for the platform.
+published: false
+---
+
+<img class="head landing" src="/img/macros-header.jpg" alt="">
+
+
+<hr>
+
+
+# Overview
+
+I co-founded Macros in 2021. Macros was an app for nutritionists & food influencers to be able to create content and manage their subscriptions, all in one place. Basically, TikTok and Substack combined. As the design founder, I led the design end-to-end and also managed the product while working with 3 engineers.
+
+
+<hr>
+
+
+# Artifacts
+<p>A selection of artifacts from the design process.</p>
+
+![meeting](/img/meallabelflow.jpg)
+
+<div class="caption">Specifying the flow for a coach editing a meal label within a meal plan for their client.</div>
+
+<br>
+
+<video width="100%" autoplay loop muted playsinline style="border: 1px solid #e5e5e5;">
+  <source src="/img/macros_edit_recipe.mp4" type="video/mp4" />
+  <source src="movie.ogg" type="video/ogg" />
+  Your browser does not support the video tag.
+</video>
+
+<div class="caption">The view when editing a recipe on web.</div>
+
+<br>
+
+
+![meeting](/img/macros-app-icon.jpg)
+<div class="caption">The app icon featuring the "Percentage" glyph.</div>
+
+<br>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="col-with-margin">
+      <a href="/img/home-view.png" class="glightbox">
+        <img src="/img/home-view.png" alt="image" />
+      </a>
+      <div class="caption-centered">Home view</div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="col-with-margin">
+      <img src="/img/profile-view.png" alt="">
+      <div class="caption-centered">Coach's Profile View</div>
+    </div>
+  </div>
+</div>
+
+<br>
+
