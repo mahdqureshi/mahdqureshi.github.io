@@ -11,7 +11,9 @@ intro: Exchange your entire portfolio just by touching phones and stay connected
 
 ---
 
-![hand](/img/showcase-hand.jpg)
+<div class="large-section">
+  <img src="/img/showcase-hand.jpg" alt="image" />
+</div>
 
 <hr>
 
@@ -29,7 +31,9 @@ intro: Exchange your entire portfolio just by touching phones and stay connected
 
 <hr>
 
-![hand](/img/shocase-ia.png)
+<div class="large-section">
+  <img src="/img/shocase-ia.png" alt="image" />
+</div>
 
 <div class="caption">Mapping out the Information Architecture of the app.</div>
 
@@ -39,7 +43,7 @@ intro: Exchange your entire portfolio just by touching phones and stay connected
 
 <br>
 
-<div class="row">
+<div class="row large-section">
   <div class="col-sm-6">
     <div class="col-with-margin">
       <img src="/img/showcase-p1.png" alt="">
@@ -72,9 +76,11 @@ Users can also send their card to anyone in the vicinity without touching phones
 
 <hr>
 
-<video autoplay loop muted playsinline width="100%">
-    <source src="/img/cardpro.mp4" type="video/mp4">
-</video>
+<div class="large-section">
+  <video autoplay loop muted playsinline width="100%">
+      <source src="/img/cardpro.mp4" type="video/mp4">
+  </video>
+</div>
 
 <br>
 Utilizing motion keeps the card in view when transitioning between screens. I used this to reinforce a mental model that the card is a container of information, rather than simply a thumbnail for a different screen.

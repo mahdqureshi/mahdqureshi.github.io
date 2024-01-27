@@ -11,7 +11,9 @@ intro: Podium lets you and your team accomplish tasks during meetings on the app
 
 ---
 
-![head landing](/img/podium-hero.png)
+<div class="large-section">
+  <img src="/img/podium-hero.png" alt="image" />
+</div>
 
 <hr>
 
@@ -31,17 +33,23 @@ The main view of the app is the meeting page—where members can collaborate tog
 
 <br/>
 
-![sketch](/img/podium-sketch.png)
+<div class="large-section">
+  <img src="/img/podium-sketch.png" alt="image" />
+</div>
 
 <div class="caption">Early sketches exploring the pros and cons of different layouts of the meeting page.</div>
 
 <br/>
 
-![meeting](/img/podium-meeting.png)
+<div class="large-section">
+  <img src="/img/podium-meeting.png" alt="image" />
+</div>
 
 <div class="caption">The final meeting page.</div>
 
-![apps](/img/podium-apps.png)
+<div class="large-section">
+  <img src="/img/podium-apps.png" alt="image" />
+</div>
 
 <div class="caption">The team can install the apps that they use frequently.</div>
 
