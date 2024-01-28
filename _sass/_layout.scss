@@ -241,23 +241,30 @@ h1.about {
   }
 }
 
+.about-title {
+  margin-top: 70px;
+  margin-bottom: 20px;
+  font-weight: 600;
+  font-size: 62px;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: -1px;
+  color: text-color;
+  font-family: newsreader;
+}
+
 h3.about-text {
   line-height: 1.7;
   margin-top: 20px;
   margin-bottom: 80px;
   color: $text-color;
-}
-
-
-.about-title {
-  margin-top: 70px;
-  margin-bottom: 20px;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .about-email {
-  border-bottom: 3px solid #0049E5;
   padding-bottom: 2px;
+  border-bottom-style: dotted;
+  transition-duration: .1s;
   &:hover {
     text-decoration: none;
     opacity: .5;
