@@ -264,10 +264,10 @@ h3.about-text {
 .about-email {
   padding-bottom: 2px;
   border-bottom-style: dotted;
-  transition-duration: .1s;
+  border-bottom-width: 2px;
   &:hover {
     text-decoration: none;
-    opacity: .5;
+    border-bottom-style: solid;
   }
 }
 
