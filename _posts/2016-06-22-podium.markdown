@@ -61,7 +61,9 @@ I created a component style library to establish consistency throughout the desi
 
 <br/>
 
-![style guide](/img/podium-style.png)
+<div class="large-section">
+  <img src="/img/podium-style.png" alt="image" />
+</div>
 
 <hr>
 
