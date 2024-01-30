@@ -74,14 +74,25 @@ I co-founded Macros in 2021. Macros was an app for nutritionists & food influenc
 <br>
 
 <div class="large-section">
+  <img src="/img/chat-menu-states.jpg" alt="image" />
+</div>
+
+<div class="caption">Specifying the different states of the options menu on a chat message.</div>
+
+<br>
+
+<div class="large-section">
+  <img src="/img/payouts.jpg" alt="image" />
+</div>
+
+<div class="caption">The payout account balance module and each possible state.</div>
+
+<br>
+
+<div class="large-section">
   <img src="/img/macros-app-icon.jpg" alt="image" />
 </div>
 
 <div class="caption">The app icon featuring the "Percentage" glyph.</div>
 
-<div class="large-section">
-  <img src="/img/meallabelflow.jpg" alt="image" />
-</div>
-
-<div class="caption">Specifying the flow for a coach editing a meal label within a meal plan for their client.</div>
 
