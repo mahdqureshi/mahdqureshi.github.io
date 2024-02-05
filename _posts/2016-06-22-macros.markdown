@@ -20,7 +20,7 @@ intro: Macros is a modern platform for food creatives and nutrition coaches. I l
 
 ## Overview
 
-I co-founded Macros in 2021. Macros was an app for nutritionists & food influencers to be able to create content and manage their subscriptions, all in one place. Basically, TikTok and Substack combined. As the design founder, I led the design end-to-end and also managed the product while working with a team of engineers.
+I co-founded Macros in 2021. Macros was an app for nutritionists & food influencers to be able to create content and manage their subscriptions, all in one place. As the design founder, I led the design end-to-end and also managed the product while working with a team of engineers.
 
 
 <hr>
@@ -29,7 +29,7 @@ I co-founded Macros in 2021. Macros was an app for nutritionists & food influenc
 
 The creator economy was all the rage in 2021, with apps like Substack experiencing anomalous growth. The idea that micro-creators could now easily capitalize on consumers, especially the long tail of them, was super compelling.
 
-After researching the market and talking with various creators, I realized that an area of whitespace existed within the “Food nutritionists and Dietitians” space. So many of them still juggled multiple apps in a clunky way—using personal text messages to communicate with clients to making meal plans in PDF made in google docs and sending it via email. I heard again and again “I do the same thing over and over, it’s so time consuming”. Many of them also tried to grow their audience on video app like TikTok, but converting viewers to paid subscribers was full of friction.
+After researching the market and talking with various creators, I realized that an area of whitespace existed within the “Food nutritionists and Dietitians” space. So many of them still juggled multiple apps in a clunky way—using personal text messages to communicate with clients to making meal plans in PDF made in google docs and sending it via email. I heard from many creators: “I do the same thing over and over, it’s so time consuming”. Many of them also tried to grow their audience on video apps like TikTok, but converting viewers to paid subscribers was inefficient and filled with friction.
 
 What if we could create a platform that had all the pros of TikTok and YouTube, while integrating all the pros of subscription platforms like Substack and Kajabi? A place where you could share and discover great food and nutrition content, and also offer memberships for more one-on-one coaching. After sharing this with creators and receiving positive feedback, I sought out to build it.
 
