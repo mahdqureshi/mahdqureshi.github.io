@@ -8,7 +8,7 @@ color: "linear-gradient(45deg, rgb(255 255 255) 15%, rgb(222 222 219) 100%)"
 text-color: "#32322a"
 role: Co-Founder, Designer
 intro: Macros is a modern platform for food creatives and nutrition coaches. I led the end-to-end design for the platform.
-published: false
+
 ---
 
 <div class="large-section">
@@ -18,19 +18,35 @@ published: false
 <hr>
 
 
-# Overview
+## Overview
 
 I co-founded Macros in 2021. Macros was an app for nutritionists & food influencers to be able to create content and manage their subscriptions, all in one place. Basically, TikTok and Substack combined. As the design founder, I led the design end-to-end and also managed the product while working with a team of engineers.
 
 
 <hr>
 
+## How it started
 
-# Artifacts
+The creator economy was all the rage in 2021, with apps like Substack experiencing anomalous growth. The idea that micro-creators could now easily capitalize on consumers, especially the long tail of them, was super compelling.
+
+After researching the market and talking with various creators, I realized that an area of whitespace existed within the “Food nutritionists and Dietitians” space. So many of them still juggled multiple apps in a clunky way—using personal text messages to communicate with clients to making meal plans in PDF made in google docs and sending it via email. I heard again and again “I do the same thing over and over, it’s so time consuming”. Many of them also tried to grow their audience on video app like TikTok, but converting viewers to paid subscribers was full of friction.
+
+What if we could create a platform that had all the pros of TikTok and YouTube, while integrating all the pros of subscription platforms like Substack and Kajabi? A place where you could share and discover great food and nutrition content, and also offer memberships for more one-on-one coaching. After sharing this with creators and receiving positive feedback, I sought out to build it.
+
+
+<hr>
+
+## Artifacts
 <p>A selection of artifacts from the design process and app.</p>
 
 <br>
 
+<img src="/img/swot.png" alt="image" />
+<div class="caption">I broke down the strengths and weaknesses of the current solutions to find areas where we could remove friction and delight users.</div>
+
+
+<img src="/img/project-pantry-notes.jpg" alt="image" />
+<div class="caption">Some of the questions I asked at in the early stage of creating the "Minumum Lovable Product" (MLP).</div>
 
 <div class="row large-section">
   <div class="col-sm-6">
@@ -62,14 +78,10 @@ I co-founded Macros in 2021. Macros was an app for nutritionists & food influenc
 <br>
 
 <div class="large-section">
-  <video width="100%" autoplay loop muted playsinline style="border: 1px solid #e5e5e5;">
-    <source src="/img/macros_edit_recipe.mp4" type="video/mp4" />
-    <source src="movie.ogg" type="video/ogg" />
-    Your browser does not support the video tag.
-  </video>
+  <img src="/img/macros_edit_recipe.png" alt="image" />
 </div>
 
-<div class="caption">The view when editing a recipe on web.</div>
+<div class="caption">The coach's view when they edit a recipe on desktop.</div>
 
 <br>
 
@@ -87,7 +99,13 @@ I co-founded Macros in 2021. Macros was an app for nutritionists & food influenc
 
 <div class="caption">The payout account balance module and each possible state.</div>
 
-<br>
+<hr>
+
+## Brand
+
+The name Macros was inspired by the common shorthand for macronutrients—Protein, Carbohydrates, and Fats. “If It Fits Your Macros” is a common saying in fitness circles, meaning if any meal fits your macronutrient goals for the day, then you can safely eat it. Yes, even ice cream.
+
+From there, I began work on the logomark. I noticed that macro ratios were commonly illustrated using a pie chart, with each nutrient taking up a percentage of the chart. The percentage symbol stuck out as something universal, yet still unique and ownable.
 
 <div class="large-section">
   <img src="/img/macros-app-icon.jpg" alt="image" />
