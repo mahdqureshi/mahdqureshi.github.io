@@ -4,10 +4,10 @@ title:  "Macros"
 date:   2019-06-22 18:32:32 -0400
 categories: jekyll update
 img: macros.jpg
-color: "linear-gradient(45deg, rgb(255 255 255) 15%, rgb(222 222 219) 100%)"
+color: "linear-gradient(45deg, rgb(228 227 221) 15%, rgb(222 222 219) 100%)"
 text-color: "#32322a"
 role: Co-Founder, Designer
-intro: Macros is a modern platform for food creatives and nutrition coaches. I led the end-to-end design for the platform.
+intro: Macros is a platform for food creatives and nutritionists to create content and manage their subscriptions, all in one place. As the design co-founder, I led the end-to-end design and also managed the product vision.
 
 ---
 
@@ -15,44 +15,27 @@ intro: Macros is a modern platform for food creatives and nutrition coaches. I l
   <img src="/img/macros-header.jpg" alt="image" />
 </div>
 
-<hr>
-
-
-## Overview
-
-I co-founded Macros in 2021. Macros was an app for nutritionists & food influencers to be able to create content and manage their subscriptions, all in one place. As the design founder, I led the design end-to-end and also managed the product while working with a team of engineers.
-
 
 <hr>
 
-## How it started
+## Background
 
-The creator economy was all the rage in 2021, with apps like Substack experiencing anomalous growth. The idea that micro-creators could now easily capitalize on consumers, especially the long tail of them, was super compelling.
+In 2021, the creator economy was seen as the next big wave, with apps like Substack experiencing anomalous growth. The idea that micro-creators could now capitalize on their audience, especially the long tail of them, was super compelling.
 
-After researching the market and talking with various creators, I realized that an area of whitespace existed within the “Food nutritionists and Dietitians” space. So many of them still juggled multiple apps in a clunky way—using personal text messages to communicate with clients to making meal plans in PDF made in google docs and sending it via email. I heard from many creators: “I do the same thing over and over, it’s so time consuming”. Many of them also tried to grow their audience on video apps like TikTok, but converting viewers to paid subscribers was inefficient and filled with friction.
+After researching the market and interviewing various creators, one area of whitespace clearly stood out to me within the “Food nutritionists and Dietitians” space. I heard from many creators: “I do the same thing over and over, it’s so time consuming”. A majority of them juggled multiple apps in a clunky process—from communicating with clients from their personal text messages, to emailing meal plans as a PDF manually made in a Google Doc. They also tried apps like TikTok, but growing an audience and converting them into paid subscribers was full of friction.
 
-What if we could create a platform that had all the pros of TikTok and YouTube, while integrating all the pros of subscription platforms like Substack and Kajabi? A place where you could share and discover great food and nutrition content, and also offer memberships for more one-on-one coaching. After sharing this with creators and receiving positive feedback, I sought out to build it.
+What if we could create a platform that had all the pros of TikTok and YouTube, while integrating all the pros of subscription platforms like Substack? A place where you could share and discover great food and nutrition content, and also offer memberships for more one-on-one coaching. After receiving positive feedback from creators, I sought out to build it.
 
 
 <hr>
 
-## Artifacts
-<p>A selection of artifacts from the design process and app.</p>
-
-<br>
-
-<img src="/img/swot.png" alt="image" />
-<div class="caption">I broke down the strengths and weaknesses of the current solutions to find areas where we could remove friction and delight users.</div>
-
-
-<img src="/img/project-pantry-notes.jpg" alt="image" />
-<div class="caption">Some of the questions I asked at in the early stage of creating the "Minumum Lovable Product" (MLP).</div>
+## High-fidelity
 
 <div class="row large-section">
   <div class="col-sm-6">
     <div class="col-with-margin">
       <img src="/img/home-view.png" alt="image" />
-      <div class="caption-centered">Home view</div>
+      <div class="caption-centered">Today view</div>
     </div>
   </div>
   <div class="col-sm-6">
@@ -64,7 +47,7 @@ What if we could create a platform that had all the pros of TikTok and YouTube, 
   <div class="col-sm-6">
   <div class="col-with-margin">
     <img src="/img/profile-view.png" alt="image" />
-    <div class="caption-centered">Nutrition coaches profile view</div>
+    <div class="caption-centered">Nutrition coach's profile view</div>
   </div>
 </div>
 <div class="col-sm-6">
@@ -83,13 +66,31 @@ What if we could create a platform that had all the pros of TikTok and YouTube, 
 
 <div class="caption">The coach's view when they edit a recipe on desktop.</div>
 
+<hr>
+
+## Artifacts
+
+<p>A selection of artifacts from the design process.</p>
+
+<br>
+
+<img src="/img/swot.png" alt="image" />
+<div class="caption">I broke down the strengths and weaknesses of the current solutions to find areas where we could remove friction and delight users.</div>
+
+<br>
+
+<div class="large-section">
+<img src="/img/project-pantry-notes.jpg" alt="image" />
+</div>
+<div class="caption">Some of the questions I asked in the early stage of creating the "Minumum Lovable Product" (MLP).</div>
+
 <br>
 
 <div class="large-section">
   <img src="/img/chat-menu-states.jpg" alt="image" />
 </div>
 
-<div class="caption">Specifying the different states of the options menu on a chat message.</div>
+<div class="caption">Specifying for developers the different states of the chat message menu.</div>
 
 <br>
 
@@ -97,7 +98,7 @@ What if we could create a platform that had all the pros of TikTok and YouTube, 
   <img src="/img/payouts.jpg" alt="image" />
 </div>
 
-<div class="caption">The payout account balance module and each possible state.</div>
+<div class="caption">The creator's account balance component and each possible state.</div>
 
 <hr>
 
