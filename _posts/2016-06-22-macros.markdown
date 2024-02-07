@@ -52,7 +52,7 @@ What if we could create a platform that had all the pros of TikTok and YouTube, 
 </div>
 <div class="col-sm-6">
   <div class="col-with-margin">
-    <video autoplay loop muted playsinline width="100%" style="clip-path: inset(3px 1px); vertical-align: middle;" class="video-background">
+    <video autoplay loop muted playsinline width="100%" style="clip-path: inset(2.5px 0 1px 0); vertical-align: middle;" class="video-background">
       <source src="/img/recipe-play.mov" type="video/mp4">
    </video>
    <div class="caption-centered">Recipe video view</div>
