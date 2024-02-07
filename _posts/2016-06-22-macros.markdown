@@ -45,19 +45,19 @@ What if we could create a platform that had all the pros of TikTok and YouTube, 
     </div>
   </div>
   <div class="col-sm-6">
-  <div class="col-with-margin">
-    <img src="/img/profile-view.png" alt="image" />
-    <div class="caption-centered">Nutrition coach's profile view</div>
+    <div class="col-with-margin">
+      <video autoplay loop muted playsinline width="100%" oncontextmenu="return false;" style="clip-path: inset(2.5px 0 1px 0); vertical-align: middle;" class="video-background">
+        <source src="/img/recipe-play.mov" type="video/mp4">
+    </video>
+    <div class="caption-centered">Recipe video view</div>
+    </div>
   </div>
-</div>
-<div class="col-sm-6">
-  <div class="col-with-margin">
-    <video autoplay loop muted playsinline width="100%" style="clip-path: inset(2.5px 0 1px 0); vertical-align: middle;" class="video-background">
-      <source src="/img/recipe-play.mov" type="video/mp4">
-   </video>
-   <div class="caption-centered">Recipe video view</div>
+  <div class="col-sm-6">
+    <div class="col-with-margin">
+      <img src="/img/profile-view.png" alt="image" />
+      <div class="caption-centered">Nutrition coach's profile view</div>
+    </div>
   </div>
-</div>
 </div>
 
 <br>

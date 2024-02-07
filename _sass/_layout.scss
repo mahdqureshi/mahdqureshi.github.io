@@ -252,6 +252,9 @@ h1.about {
   letter-spacing: -1px;
   color: text-color;
   font-family: newsreader;
+  @include media-query($on-palm) {
+    font-size: 36px;
+  }
 }
 
 h3.about-text {
@@ -260,6 +263,9 @@ h3.about-text {
   margin-bottom: 80px;
   color: $text-color;
   font-weight: 400;
+  @include media-query($on-palm) {
+    font-size: 16px;
+  }
 }
 
 .about-email {
