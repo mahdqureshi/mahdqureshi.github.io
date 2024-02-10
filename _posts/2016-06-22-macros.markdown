@@ -8,7 +8,7 @@ color: "linear-gradient(45deg, rgb(228 227 221) 15%, rgb(222 222 219) 100%)"
 text-color: "#32322a"
 role: Co-Founder, Designer
 intro: Macros is a platform for food creatives and nutritionists to create content and manage their subscriptions, all in one place. As the design co-founder, I led the end-to-end design and also managed the product vision.
-
+published: false
 ---
 
 <div class="large-section">
