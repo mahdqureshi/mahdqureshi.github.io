@@ -402,7 +402,8 @@ h3.about-text {
 }
 
 .post-meta {
-    font-size: 16px;
+    font-size: 15px;
+    font-family: "SF Mono", SFMono-Regular, ui-monospace, "DejaVu Sans Mono", Menlo, Consolas, monospace;
     color: #797979;
     margin-bottom: 8px;
     line-height: 1.5;
@@ -426,7 +427,6 @@ h3.about-text {
     font-family: newsreader, "serif";
     font-weight: 700;
     flex: 0 1 auto; 
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ffffff, 0 0 60px #ffffff, 0 0 80px #ffffff, 0 0 100px #ffffff, 0 0 70px #ffffff;
     cursor: pointer;
     @include media-query($on-palm) {
       display: none;
