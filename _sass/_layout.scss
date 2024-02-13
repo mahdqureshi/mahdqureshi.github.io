@@ -397,7 +397,7 @@ h3.about-text {
       transition: all 0.3s;
     }
     @include media-query($on-palm) {
-      margin-bottom: 10px;
+      margin-bottom: 20px;
     }
 }
 
