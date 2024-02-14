@@ -19,12 +19,11 @@ intro: Macros is a platform for food creatives and nutritionists to create conte
 
 ## Background
 
-In 2021, the creator economy was seen as the next big wave, with apps like Substack experiencing anomalous growth. The idea that micro-creators could now capitalize on their audience, especially the long tail of them, was super compelling.
+In 2021, the creator economy was seen as the next big wave, with services like Substack experiencing anomalous growth. The idea that micro-creators could now capitalize on their audience, especially the long tail of them, was super compelling.
 
-After researching the market and interviewing various creators, one area of whitespace clearly stood out to me within the “Food nutritionists and Dietitians” space. I heard from many creators: “I do the same thing over and over, it’s so time consuming”. A majority of them juggled multiple apps in a clunky process—from communicating with clients from their personal text messages, to emailing meal plans as a PDF manually made in a Google Doc. They also tried apps like TikTok, but growing an audience and converting them into paid subscribers was full of friction.
+One significant gap in the market was in the “Dietitians & Nutritionists” space. Millions of people seek diet and food guidance, but struggle to actually get it. And the specialists that can provide it encounter friction in finding potential clients and managing their interactions. Most of them still text message clients and email them PDF meal plans made manually.
 
-What if we could create a platform that had all the pros of TikTok and YouTube, while integrating all the pros of subscription platforms like Substack? A place where you could share and discover great food and nutrition content, and also offer memberships for more one-on-one coaching. After receiving positive feedback from creators, I sought out to build it.
-
+The goal of Macros was to create a platform that had all the content pros of a TikTok and YouTube, while integrating all the pros of subscription platforms like Substack. A place where users could discover high-quality food and nutrition content and access individualized coaching through memberships.
 
 <hr>
 
