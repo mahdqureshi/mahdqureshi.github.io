@@ -99,14 +99,6 @@ The goal of Macros was to create a platform that had all the content pros of a T
 
 <div class="caption">Specifying for developers the different states of the chat message menu.</div>
 
-<br>
-
-<div class="large-section">
-  <img src="/img/payouts.jpg" alt="image" />
-</div>
-
-<div class="caption">The creator's account balance component and each possible state.</div>
-
 <hr>
 
 ## Brand
