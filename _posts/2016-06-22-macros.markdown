@@ -68,7 +68,7 @@ The goal of Macros was to create a platform that had all the content pros of a T
 
 <hr>
 
-## Artifacts
+## Highlights
 
 <p>A selection of artifacts from the design process.</p>
 
@@ -83,6 +83,13 @@ The goal of Macros was to create a platform that had all the content pros of a T
 <img src="/img/project-pantry-notes.jpg" alt="image" />
 </div>
 <div class="caption">Some of the questions I asked in the early stage of creating the "Minumum Lovable Product" (MLP).</div>
+
+<br>
+
+<div class="large-section">
+<img src="/img/flows-states.png" alt="image" />
+</div>
+<div class="caption">The user flows for actions related to adding a recipe. I specified the user flow for each action in the app, each with a prototype that developers could play.</div>
 
 <br>
 
