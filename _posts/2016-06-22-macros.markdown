@@ -19,9 +19,9 @@ intro: Macros is a platform for food creatives and nutritionists to create conte
 
 ## Background
 
-In 2021, the creator economy was seen as the next big wave, with services like Substack experiencing anomalous growth. The idea that micro-creators could now capitalize on their audience, especially the long tail of them, was super compelling.
+In 2021, the creator economy was surging, with services like Substack experiencing anomalous growth. The idea that micro-creators could now capitalize on their audience, especially the long tail of them, was super compelling.
 
-One significant gap in the market was in the “Dietitians & Nutritionists” space. Millions of people seek diet and food guidance, but struggle to actually get it. And the specialists that can provide it encounter friction in finding potential clients and managing their interactions. Most of them still text message clients and email them PDF meal plans made manually.
+One significant gap in the market was in the “Dietitians & Nutritionists” space. Millions of people seek diet and food guidance, but struggle to actually get it. And the specialists that can provide it encounter friction in finding potential clients and then managing their interactions. Most of them still text messaged clients and emailed them PDF meal plans manually made in a Google Doc.
 
 The goal of Macros was to create a platform that had all the content pros of a TikTok and YouTube, while integrating all the pros of subscription platforms like Substack. A place where users could discover high-quality food and nutrition content and access individualized coaching through memberships.
 
