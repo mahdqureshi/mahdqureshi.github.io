@@ -75,7 +75,7 @@ The goal of Macros was to create a platform that had all the content pros of a T
 <br>
 
 <img src="/img/swot.png" alt="image" />
-<div class="caption">I broke down the strengths and weaknesses of the current solutions to find areas where we could remove friction and delight users.</div>
+<div class="caption">Breaking down the strengths and weaknesses of the current solutions to find areas where we could remove friction.</div>
 
 <br>
 
