@@ -435,17 +435,19 @@ h3.about-text {
  * Posts
  */
 .caption  {
-  font-size: 14px;
+  font-size: 13px;
   margin: 16px 0 80px 0;
   color: $grey-color;
   text-align: left;
+  font-family: "SF Mono", SFMono-Regular, ui-monospace, "DejaVu Sans Mono", Menlo, Consolas, monospace;
 }
 
 .caption-centered  {
-  font-size: 14px;
+  font-size: 13px;
   margin-top: 20px;
   color: $grey-color;
   text-align: center;
+  font-family: "SF Mono", SFMono-Regular, ui-monospace, "DejaVu Sans Mono", Menlo, Consolas, monospace;
   @include media-query($on-palm) {
       margin-bottom: 40px;
   }

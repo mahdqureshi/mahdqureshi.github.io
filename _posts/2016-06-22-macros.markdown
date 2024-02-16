@@ -53,7 +53,7 @@ The goal of Macros was to create a platform that had all the content pros of a T
   <div class="col-sm-6">
     <div class="col-with-margin">
       <img src="/img/profile-view.png" alt="image" />
-      <div class="caption-centered">Nutrition coach's profile view</div>
+      <div class="caption-centered">Coach's profile view</div>
     </div>
   </div>
 </div>
