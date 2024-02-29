@@ -4,8 +4,8 @@ title:  "Macros"
 date:   2019-06-22 18:32:32 -0400
 categories: jekyll update
 img: macros.jpg
-color: "linear-gradient(45deg, rgb(254 244 255) 15%, rgb(255 227 240) 100%)"
-text-color: "#410026"
+color: "linear-gradient(to top right, rgb(254, 255, 245) 15%, rgb(255, 248, 228))"
+text-color: "#412c00"
 role: Co-Founder, Designer
 intro: Macros is a platform for food creatives and nutritionists to create content and manage their clients, all in one place. As the design co-founder, I led the end-to-end design and also managed the product vision.
 ---
@@ -42,7 +42,7 @@ The goal of Macros was to create a platform that had all the content creation va
   </div>
   <div class="col-sm-6">
     <div class="col-with-margin">
-      <video autoplay loop muted playsinline width="100%" oncontextmenu="return false;" style="clip-path: inset(2.5px 0 1px 0); vertical-align: middle;" class="video-background">
+      <video autoplay loop muted playsinline width="100%" oncontextmenu="return false;" style="clip-path: inset(1px 0 1px 0); vertical-align: middle;" class="video-background">
         <source src="/img/recipe-play.mov" type="video/mp4">
     </video>
     <div class="caption-centered">Recipe video view</div>
