@@ -19,11 +19,9 @@ intro: Macros is a platform for food creatives and nutritionists to create conte
 
 ## Background
 
-In 2021, the creator economy was surging, with services like Substack experiencing anomalous growth. The idea that micro-creators could now capitalize on their audience, especially the long tail of them, was super compelling.
+While there are a ton of services for content creators, one market that felt underserved was Nutrition and Dietitian coaches. They’re forced to juggle multiple services like TikTok, Email, Texts, etc.
 
-One significant gap in the market was in the “Dietitians & Nutritionists” space. Millions of people seek diet and food guidance, but struggle to actually get it. And the specialists that can provide it encounter friction in finding potential clients and then managing their interactions. Most of them still text messaged clients and emailed them PDF meal plans manually made in a Google Doc.
-
-The goal of Macros was to create a platform that had all the content pros of a TikTok and YouTube, while integrating all the pros of subscription platforms like Substack. A place where users could discover high-quality food and nutrition content and access individualized coaching through memberships.
+The goal of Macros was to create a platform that had all the content creation value of a TikTok and YouTube, while integrating all the value of subscription platforms like Substack. A place where you could share and discover great food and nutrition content, while also offering private memberships for more one-on-one coaching.
 
 <hr>
 
@@ -83,13 +81,6 @@ The goal of Macros was to create a platform that had all the content pros of a T
 <img src="/img/project-pantry-notes.jpg" alt="image" />
 </div>
 <div class="caption">Some of the questions I asked in the early stage of creating the "Minumum Lovable Product" (MLP).</div>
-
-<br>
-
-<div class="large-section">
-<img src="/img/flows-states.png" alt="image" />
-</div>
-<div class="caption">The user flows for actions related to adding a recipe. I specified the user flow for each action in the app, each with a prototype that developers could play.</div>
 
 <br>
 
