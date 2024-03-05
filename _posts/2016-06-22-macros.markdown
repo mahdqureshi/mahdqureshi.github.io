@@ -72,11 +72,14 @@ The goal of Macros was to create a platform that had all the content creation va
 
 <br>
 
+<!--
+
 <img src="/img/swot.png" alt="image" />
 <div class="caption">Breaking down the strengths and weaknesses of the current solutions to find areas where we could remove friction.</div>
 
 <br>
 
+-->
 <div class="large-section">
 <img src="/img/project-pantry-notes.jpg" alt="image" />
 </div>
