@@ -38,7 +38,7 @@ a:focus {
 
 p {
   line-height: 1.6;
-  font-family: newsreader, "serif"
+  font-family: Spectral, "serif"
 }
 
 .wrapper {
@@ -249,7 +249,7 @@ h1.about {
   font-weight: 700;
   letter-spacing: -1px;
   color: text-color;
-  font-family: newsreader;
+  font-family: Spectral;
   @include media-query($on-palm) {
     font-size: 36px;
   }
@@ -400,7 +400,7 @@ h3.about-text {
 }
 
 .post-meta {
-    font-size: 15px;
+    font-size: 17px;
     font-family: "SF Mono", SFMono-Regular, ui-monospace, "DejaVu Sans Mono", Menlo, Consolas, monospace;
     color: #797979;
     margin-bottom: 8px;
@@ -409,7 +409,7 @@ h3.about-text {
 
 .post-intro {
   line-height: 1.5;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .post-link {
@@ -422,7 +422,7 @@ h3.about-text {
 .project-title {
     align-self: center;
     font-size: 40px;
-    font-family: newsreader, "serif";
+    font-family: Spectral, "serif";
     font-weight: 700;
     flex: 0 1 auto; 
     cursor: pointer;
@@ -464,7 +464,7 @@ h3.about-text {
     font-weight: 700;
     letter-spacing: -1px;
     color: text-color;
-    font-family: newsreader;
+    font-family: Spectral;
     @include media-query($on-palm) {
         font-size: 36px;
         letter-spacing: normal;
