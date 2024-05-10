@@ -7,6 +7,7 @@ img: unified-design.png
 color: "linear-gradient(45deg, rgb(255 255 255) 15%, rgb(252 253 253) 100%)"
 text-color: "#000"
 role: Product Designer
+published: false
 intro: An early iteration of the Showcase app, then called "Unified", involved an online design tool in which professional designers could create and sell card design templates on a marketplace within the app.
 ---
 

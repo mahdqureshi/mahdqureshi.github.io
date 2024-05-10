@@ -1,9 +1,15 @@
 <section class="work slide fadeInBottom delayed">
   <div class="row">
     {% for post in site.posts %}
-    <div class="col-sm-6">
+    <div class="col">
       <a class="work-thumbnail" href="{{ post.url | prepend: site.baseurl }}">
+        {% if post.title == "Macros" %}
+        <video autoplay loop muted playsinline width="100%">
+          <source src="/img/macros-thumb-video-small.m4v" type="video/mp4">
+        </video>
+        {% else %}
         <img src="/img/{{ post.img }}" alt="">
+        {% endif %}
         <div class="work-info" style="background: {{ post.color }}">
           <h3 class="project-title" style="color: {{ post.text-color }}">{{ post.title }}</h3>
           <div class="tint"></div>
