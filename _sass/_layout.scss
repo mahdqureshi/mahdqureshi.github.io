@@ -354,7 +354,6 @@ h3.about-text {
   opacity: 0;
   justify-content: center;
   padding: 34px;
-  border-radius: 10px;
   backdrop-filter: blur(4px);
   &:hover {
     opacity: .92;
@@ -378,12 +377,12 @@ h3.about-text {
     right: 0;
     bottom: 0;
     left: 0;
-    margin-bottom: 30px;
-    border: 1px solid rgb(180, 180, 180);
+    margin-bottom: 48px;
+    border: 8px solid rgb(255, 255, 255);
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     border-radius: 10px;
     overflow: hidden;
-    border: double 1px transparent;
-    border-radius: 11px;
+    border-radius: 16px;
     background-image: linear-gradient(white, white), linear-gradient(to bottom, #ececec, #d2d2d2);
     background-origin: border-box;
     background-clip: content-box, border-box;
