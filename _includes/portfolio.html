@@ -1,8 +1,8 @@
 <section class="work slide fadeInBottom delayed">
   <div class="row">
     {% for post in site.posts %}
-    <div class="col">
-      <a class="work-thumbnail" href="{{ post.url | prepend: site.baseurl }}">
+    <a class="col work-thumbnail" href="{{ post.url | prepend: site.baseurl }}">
+      <div>
         {% if post.title == "Macros" %}
         <video autoplay loop muted playsinline width="100%">
           <source src="/img/macros-thumb-video-small.mp4" type="video/mp4">
@@ -10,12 +10,9 @@
         {% else %}
         <img src="/img/{{ post.img }}" alt="">
         {% endif %}
-        <div class="work-info" style="background: {{ post.color }}">
-          <h3 class="project-title" style="color: {{ post.text-color }}">{{ post.title }}</h3>
-          <div class="tint"></div>
-        </div>
-      </a>
-    </div>
+      </div>
+      <h3 class="project-title" style="color: {{ post.text-color }}">{{ post.title }}</h3>
+    </a>
   {% endfor %}
   </div>
 </section>
