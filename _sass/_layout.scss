@@ -385,6 +385,10 @@ h3.about-text {
     }
 }
 
+.work-thumbnail div {
+  display: flex;
+}
+
 .post-meta {
     font-size: 17px;
     font-family: "SF Mono", SFMono-Regular, ui-monospace, "DejaVu Sans Mono", Menlo, Consolas, monospace;
