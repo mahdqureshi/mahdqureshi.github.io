@@ -67,7 +67,7 @@ h3.tagline {
   text-align: center;
   margin-bottom: 60px;
   font-family: Spectral;
-  font-size: 40px;
+  font-size: 56px;
   font-weight: 600;
   letter-spacing: -1px;
   text-rendering: optimizeLegibility;
@@ -79,8 +79,7 @@ h3.tagline {
   @include media-query($on-palm) {
     letter-spacing: -1px;
     line-height: 1.4;
-    font-size: 30px;
-    text-align: left;
+    font-size: 40px;
   }
 }
 
