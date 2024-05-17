@@ -5,7 +5,7 @@ date:   2016-06-21 18:32:32 -0400
 categories: jekyll update
 img: dribbble.jpg
 color: "linear-gradient(45deg, rgb(255 255 255) 15%, rgb(255 234 226) 100%)"
-text-color: "#631900"
+text-color: "black"
 role: Product Designer
 intro: Exchange your entire portfolio just by touching phones and stay connected to the people you meet with Showcase. I led the design process for all products across mobile, web, and marketing platforms.
 
