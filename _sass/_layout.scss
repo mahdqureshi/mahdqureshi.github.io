@@ -380,7 +380,7 @@ h3.about-text {
       border-radius: 12px;
     }
     @include media-query($on-palm) {
-      margin: 0 8px 24px 8px;
+      margin: 32px 8px 0 8px;
     }
 }
 
