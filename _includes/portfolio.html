@@ -4,12 +4,12 @@
     <a class="col work-thumbnail" href="{{ post.url | prepend: site.baseurl }}">
       <div>
         {% if post.title == "Macros" %}
-        <video autoplay loop muted playsinline width="100%">
+        <video loop autoplay playsinline muted width="100%">
           <source src="/img/macros-thumb-video-small 2.mp4" type="video/mp4">
         </video>
         {% elsif post.title == "Showcase" %}
-        <video autoplay loop muted playsinline width="100%">
-          <source src="/img/showcase-slide.mp4" type="video/mp4">
+        <video loop autoplay playsinline muted width="100%">
+          <source src="/img/showcase_slide_121.mp4" type="video/mp4">
         </video>
         {% else %}
         <img src="/img/{{ post.img }}" alt="">
