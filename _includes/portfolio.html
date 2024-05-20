@@ -11,6 +11,10 @@
         <video loop autoplay playsinline muted width="100%">
           <source src="/img/showcase_slide_121.mp4" type="video/mp4">
         </video>
+        {% elsif post.title == "Podium" %}
+        <video loop autoplay playsinline muted width="100%">
+          <source src="/img/podium-slide.mp4" type="video/mp4">
+        </video>
         {% else %}
         <img src="/img/{{ post.img }}" alt="">
         {% endif %}
