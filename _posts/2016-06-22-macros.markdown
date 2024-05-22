@@ -43,7 +43,7 @@ The goal of Macros was to create a platform that had all the content creation va
   <div class="col-sm-6">
     <div class="col-with-margin">
       <video autoplay loop muted playsinline width="100%" oncontextmenu="return false;" style="clip-path: inset(.5px 0 0 0); vertical-align: middle;" class="video-background">
-        <source src="/img/recipe-play.mov" type="video/mp4">
+        <source src="/img/recipe-play.mp4" type="video/mp4">
     </video>
     <div class="caption-centered">Recipe video view</div>
     </div>
@@ -74,10 +74,6 @@ The goal of Macros was to create a platform that had all the content creation va
 
 <hr>
 
-## Highlights
-
-<p>A selection of artifacts from the design process.</p>
-
 <br>
 
 <!--
@@ -88,12 +84,6 @@ The goal of Macros was to create a platform that had all the content creation va
 <br>
 
 -->
-<div class="large-section">
-<img src="/img/project-pantry-notes.jpg" alt="image" />
-</div>
-<div class="caption">Some of the questions I asked in the early stage of creating the "Minumum Lovable Product" (MLP).</div>
-
-<br>
 
 <div class="large-section">
   <img src="/img/chat-menu-states.jpg" alt="image" />
