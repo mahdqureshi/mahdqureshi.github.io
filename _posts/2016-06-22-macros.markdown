@@ -62,7 +62,7 @@ The goal of Macros was to create a platform that had all the content creation va
   <img src="/img/beta-landing.jpg" alt="image" />
 </div>
 
-<div class="caption">The pre-launch landing page to invite nutrition coaches to the beta.</div>
+<div class="caption">The landing page inviting nutrition coaches to the service.</div>
 
 <hr>
 
