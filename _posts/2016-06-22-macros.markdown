@@ -85,11 +85,24 @@ The goal of Macros was to create a platform that had all the content creation va
 
 -->
 
+
+<div class="large-section">
+  <img src="/img/club-join-modal.gif" alt="image" />
+</div>
+
+<div class="caption">The plan selection sheet when a user is subscribing to a coach's club.</div>
+
+<!--
+
+<hr>
+
 <div class="large-section">
   <img src="/img/chat-menu-states.jpg" alt="image" />
 </div>
 
 <div class="caption">Specifying for developers the different states of the chat message menu.</div>
+
+-->
 
 <hr>
 
