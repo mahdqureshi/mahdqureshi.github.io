@@ -111,7 +111,7 @@ The goal of Macros was to create a platform that had the intuitive content creat
 
 The name Macros was inspired by the common shorthand for macronutrients—Protein, Carbohydrates, and Fats. “If It Fits Your Macros” is a common saying in fitness circles, meaning if any meal fits your macronutrient goals for the day, then you can safely eat it. Yes, even ice cream.
 
-From there, I began work on the logomark. I noticed that macro ratios were commonly illustrated using a pie chart, with each nutrient taking up a percentage of the chart. The percentage symbol stuck out as something universal, yet still unique and ownable.
+From there, I began work on the logomark. Macronutrient ratios were commonly illustrated using a pie chart, with each nutrient taking up a percentage of the chart. The percentage symbol stuck out as a glyph that could be universal, yet still unique and ownable.
 
 <div class="large-section">
   <img src="/img/macros-app-icon.jpg" alt="image" />
