@@ -7,7 +7,8 @@ img: macros.jpg
 color: "linear-gradient(to top right, rgb(254, 255, 245) 15%, rgb(255, 248, 228))"
 text-color: "black"
 role: Co-Founder, Designer
-intro: Macros is a platform for food creatives and nutritionists to create content and manage their clients, all in one place. As the design co-founder, I led the end-to-end design and also managed the product vision.
+intro: Macros is a platform for food creatives and nutrition coaches to create content and manage their clients. As the founder and designer, I led the initial market and user research, designed the end-to-end experience, hired the team, and led the go-to-market strategy.
+
 ---
 
 <div class="large-section">
@@ -19,9 +20,9 @@ intro: Macros is a platform for food creatives and nutritionists to create conte
 
 ## Background
 
-While there are a ton of services for content creators, one market that felt underserved was Nutrition and Dietitian coaches. They’re forced to juggle multiple services like TikTok, Email, Texts, etc.
+While there are a ton of services for content creators, one market that felt underserved was nutrition coaches. Forced to juggle multiple services, with many still using old-school, manual processes like emailing a client meal plans made in a Google Doc, and then communicating with them via basic texting. Not very high leverage.
 
-The goal of Macros was to create a platform that had all the content creation value of a TikTok and YouTube, while integrating all the value of subscription platforms like Substack. A place where you could share and discover great food and nutrition content, while also offering private memberships for more one-on-one coaching.
+The goal of Macros was to create a platform that had the intuitive content creation tools of platforms like TikTok, while integrating the subscription value of platforms like Substack. A place where coaches could share and discover awesome food and nutrition content, while also offering private memberships for more one-on-one coaching.
 
 <hr>
 
