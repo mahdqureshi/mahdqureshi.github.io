@@ -3,26 +3,18 @@
     {% for post in site.posts %}
     <a class="col work-thumbnail" href="{{ post.url | prepend: site.baseurl }}">
       <div>
-        {% if post.title == "Macros" %}
+        {% if post.thumbnail.type == "video" %}
         <video loop autoplay playsinline muted width="100%">
-          <source src="/img/macros-thumb-video-small 3.mp4" type="video/mp4">
-        </video>
-        {% elsif post.title == "Showcase" %}
-        <video loop autoplay playsinline muted width="100%">
-          <source src="/img/slide-angled-showcase.mp4" type="video/mp4">
-        </video>
-        {% elsif post.title == "Podium" %}
-        <video loop autoplay playsinline muted width="100%">
-          <source src="/img/podium_thumb.mp4" type="video/mp4">
+          <source src="{{ post.thumbnail.source }}" type="video/mp4">
         </video>
         {% else %}
-        <img src="/img/{{ post.img }}" alt="">
+        <img src="{{ post.thumbnail.source | default: '/img/' | append: post.img }}" alt="">
         {% endif %}
       </div>
     </a>
     <a href="{{ post.url | prepend: site.baseurl }}">
       <h3 class="project-title" style="color: {{ post.text-color }}">{{ post.title }}</h3>
     </a>
-  {% endfor %}
+    {% endfor %}
   </div>
 </section>

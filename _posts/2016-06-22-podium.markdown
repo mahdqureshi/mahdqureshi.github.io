@@ -3,12 +3,13 @@ layout: post
 title:  "Podium"
 date:   2016-06-21 18:32:32 -0400
 categories: jekyll update
-img: podium.jpg
 color: "linear-gradient(45deg, rgb(255 255 255) 15%, rgb(182 221 255) 100%)"
 text-color: "black"
 role: Product Designer
 intro: Podium lets you and your team accomplish tasks during meetings on the apps you already use. As Product Designer, I had end-to-end responsibility for all product design efforts.
-
+thumbnail:
+  type: img
+  source: "/img/podium.jpg"
 ---
 
 <div class="large-section">

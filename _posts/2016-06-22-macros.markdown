@@ -3,13 +3,11 @@ layout: post
 title:  "Macros"
 date:   2019-06-22 18:32:32 -0400
 categories: jekyll update
-img: macros.jpg
 color: "linear-gradient(to top right, rgb(254, 255, 245) 15%, rgb(255, 248, 228))"
 text-color: "black"
 role: Co-Founder, Designer
 intro: Macros is a platform for food creatives and nutrition coaches to create content and manage their clients. As the founder and designer, I led the initial market and user research, designed the end-to-end experience, hired the team, and led the go-to-market strategy.
 published: false
-
 ---
 
 <div class="large-section">
