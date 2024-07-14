@@ -1,0 +1,20 @@
+current directory: /Users/mahad/Documents/GitHub/mahdqureshi.github.io/vendor/cache/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+/Users/mahad/.rubies/ruby-3.3.0/bin/ruby extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... yes
+creating Makefile
+
+current directory: /Users/mahad/Documents/GitHub/mahdqureshi.github.io/vendor/cache/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240714-71839-srokax sitelibdir\=./.gem.20240714-71839-srokax clean
+
+current directory: /Users/mahad/Documents/GitHub/mahdqureshi.github.io/vendor/cache/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240714-71839-srokax sitelibdir\=./.gem.20240714-71839-srokax
+compiling strscan.c
+linking shared-object strscan.bundle
+
+current directory: /Users/mahad/Documents/GitHub/mahdqureshi.github.io/vendor/cache/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240714-71839-srokax sitelibdir\=./.gem.20240714-71839-srokax install
+/usr/bin/install -c -m 0755 strscan.bundle ./.gem.20240714-71839-srokax
+
+current directory: /Users/mahad/Documents/GitHub/mahdqureshi.github.io/vendor/cache/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240714-71839-srokax sitelibdir\=./.gem.20240714-71839-srokax clean
